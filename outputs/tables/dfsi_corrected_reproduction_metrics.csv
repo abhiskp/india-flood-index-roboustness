@@ -1,0 +1,14 @@
+metric,value
+comparison_rows,720
+complete_component_rows,709
+missing_component_rows_preserved,11
+finite_calculated_dfsi_rows,709
+negative_component_rows,0
+complete_row_product_positive,True
+max_logspace_vs_product_abs_diff,1.7763568394002505e-15
+pearson_correlation,-0.9344957809322714
+spearman_rank_correlation,-0.9344741971467349
+mean_absolute_difference,23.636518681921373
+median_absolute_difference,24.403468172428695
+maximum_absolute_difference,34.35195231638028
+flood_event_unmatched_rows_treated_as_zero_events,86

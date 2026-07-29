@@ -1,0 +1,8 @@
+formula_component,source_dataset,source_column,selected_field,identifier_basis,notes
+flood_events,India_Flood_Inventory_v3.csv,"UEI, Districts, District_LGD_Codes",count of distinct UEI after exploding district entries,LGD district codes are parsed where present; name keys are required for joins to the district summary tables because those tables do not contain LGD codes,Rows with missing districts/codes and name/code length mismatches are audited separately.
+mean_flood_duration,District_FloodImpact.csv,Mean_Flood_Duration,Mean_Flood_Duration,District name only; no state or LGD code is available in this source file,Missing durations are not imputed.
+fatalities,District_FloodImpact.csv,Human_fatality,Human_fatality,District name only; no state or LGD code is available in this source file,"Used as provided, including zeros."
+injured,District_FloodImpact.csv,Human_injured,Human_injured,District name only; no state or LGD code is available in this source file,"Used as provided, including zeros."
+flooded_area,District_FloodedArea.csv,Corrected_Percent_Flooded_Area,Corrected_Percent_Flooded_Area,District name only; no state or LGD code is available in this source file,The corrected field is selected because it appears to subtract permanent water from flooded area; `Percent_Flooded_Area` is retained in the comparison table for review.
+population,District_FloodImpact.csv,Population,Population,District name only; no state or LGD code is available in this source file,Used on the raw scale supplied by the source file.
+published_dfsi,DFSI.csv,DFSI,DFSI,District name in `Unnamed: 0` plus `State_Name`; no LGD code is available,The district column appears to be an unnamed saved index; spelling is preserved.

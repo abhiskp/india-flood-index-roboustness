@@ -1,0 +1,13 @@
+section,metric,value,notes
+numerical_reproduction,one_to_one_comparison_rows,720,"All current one-to-one comparison records, including incomplete rows."
+numerical_reproduction,complete_comparison_rows,709,Rows with all components and both DFSI values available.
+numerical_reproduction,incomplete_records_preserved,11,Missing components are not imputed.
+numerical_reproduction,spearman_correlation,0.9588466131829585,Correlation between reconstructed and published DFSI scores.
+numerical_reproduction,pearson_correlation,0.9587155873101515,Correlation between reconstructed and published DFSI scores.
+numerical_reproduction,median_absolute_numerical_difference,1.2067694216134761,Median absolute difference between reconstructed and published DFSI scores.
+ranking_reproduction,median_absolute_rank_difference,18.0,Median absolute difference between descending published and reconstructed ranks.
+ranking_reproduction,maximum_absolute_rank_difference,345.0,Maximum absolute rank change among complete comparison rows.
+assertions,all_reconstructed_dfsi_values_positive,True,Assertion passed during calculation.
+assertions,corrected_log_space_product_space_agree,True,Assertion passed during calculation.
+assertions,reconstructed_rank_1_has_maximum_reconstructed_dfsi,True,Descending rank check.
+assertions,published_rank_1_has_maximum_published_dfsi,True,Descending rank check.

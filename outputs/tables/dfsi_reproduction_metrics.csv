@@ -1,0 +1,11 @@
+metric,value
+comparison_rows,720.0
+finite_metric_rows,709.0
+missing_component_rows,11.0
+flood_event_unmatched_rows_filled_as_zero,86.0
+max_logspace_vs_product_abs_diff,3.552713678800501e-15
+pearson_correlation,-0.9344958362901242
+spearman_rank_correlation,-0.9344741971467349
+mean_absolute_difference,23.63651984377387
+median_absolute_difference,24.403468926655073
+maximum_absolute_difference,34.3519523575675

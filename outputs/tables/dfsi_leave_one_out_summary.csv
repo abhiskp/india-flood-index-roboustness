@@ -1,0 +1,7 @@
+removed_component,variant_label,record_count,spearman_correlation_with_complete_baseline_index,median_absolute_rank_change,mean_absolute_rank_change,maximum_absolute_rank_change,top_10_percent_n,top_10_percent_overlap_count,top_10_percent_overlap_share,top_25_overlap_count,top_25_overlap_share,top_50_overlap_count,top_50_overlap_share,top_100_overlap_count,top_100_overlap_share,districts_entering_top_10_percent_count,districts_leaving_top_10_percent_count,districts_moving_more_than_10_positions,districts_moving_more_than_25_positions,districts_moving_more_than_50_positions,districts_moving_more_than_100_positions
+flood_events,without flood events,709,0.9792785928354906,16.0,25.63046544428773,180,71,58,0.8169014084507042,19,0.76,40,0.8,90,0.9,13,13,453,206,89,36
+mean_duration,without mean duration,709,0.9929336050728602,16.0,19.21015514809591,69,71,59,0.8309859154929577,21,0.84,40,0.8,92,0.92,12,12,449,229,23,0
+fatalities,without fatalities,709,0.9452721733090326,37.0,48.44005641748942,383,71,57,0.8028169014084507,19,0.76,39,0.78,85,0.85,14,14,572,429,253,85
+injured_people,without injured people,709,0.9719641845238437,25.0,35.24400564174894,214,71,52,0.7323943661971831,15,0.6,34,0.68,77,0.77,19,19,509,351,200,21
+flooded_area,without flooded area,709,0.9901580504518348,16.0,21.661495063469676,117,71,54,0.7605633802816901,18,0.72,36,0.72,86,0.86,17,17,460,239,54,4
+population,without population,709,0.986745357998196,18.0,24.00564174894217,204,71,60,0.8450704225352113,21,0.84,41,0.82,93,0.93,11,11,491,241,73,9

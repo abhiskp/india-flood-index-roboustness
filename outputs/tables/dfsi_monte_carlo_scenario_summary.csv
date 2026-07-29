@@ -1,0 +1,4 @@
+scenario,concentration,simulations,district_count,median_spearman_correlation_with_baseline_rank,spearman_correlation_p05,spearman_correlation_p95,mean_top10_overlap_with_baseline,minimum_top10_overlap_with_baseline,maximum_top10_overlap_with_baseline,median_districts_entering_leaving_baseline_top10,top10_n,robust_high_priority_districts,weight_sensitive_priority_districts,sampled_weight_sum_min,sampled_weight_sum_max
+narrow,100.0,10000,709,0.99593404177305,0.9881903423601541,0.9989225862213514,63.6137,46,71,7.0,71,54.0,33.0,6.999999999999997,7.0000000000000036
+moderate,30.0,10000,709,0.9877677145563251,0.9634241739312546,0.9965968715162049,58.9362,37,70,11.0,71,43.0,56.0,6.999999999999997,7.0000000000000036
+wide,10.0,10000,709,0.9681317279017752,0.9005717354977322,0.9908914340432882,52.8193,27,69,17.0,71,32.0,82.0,6.9999999999999964,7.0000000000000036

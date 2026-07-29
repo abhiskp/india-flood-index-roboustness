@@ -1,0 +1,4 @@
+column_name,stored_dtype,role,dtype,minimum,maximum,mean,median,missing_count,unique_values,integer_like,monotonic_increasing,monotonic_decreasing,resembles,identified_as_published_dfsi_score,identified_as_published_dfsi_rank,identified_as_index_or_unnamed,identified_as_district_identifier,identified_as_state_identifier,audit_note
+Unnamed: 0,object,index_or_unnamed_csv_column; district identifier values,,,,,,,,,,,,False,False,True,True,False,"Unnamed CSV column stores district names, not a numeric rank."
+State_Name,object,state identifier column,,,,,,,,,,,,False,False,False,False,True,State identifier column.
+DFSI,float64,published DFSI score column,float64,4.244484579746598,19.30056410404207,13.588707472087975,14.147611779485713,1.0,743.0,False,False,True,score,True,False,False,False,False,"Only stored numeric target-like column; values resemble continuous DFSI scores, not ranks."

@@ -1,0 +1,7 @@
+component,source_dataset,exact_source_column_used,working_column,numeric_conversion,note
+flood_events,India_Flood_Inventory_v3.csv,UEI counted after exploding Districts; District_LGD_Codes retained for audit,flood_events,"pd.to_numeric(flood_events, errors='coerce').astype('float64')",Unmatched parsed inventory counts are treated as zero events for the district-level count component.
+mean_flood_duration,District_FloodImpact.csv,Mean_Flood_Duration,component_mean_flood_duration,"pd.to_numeric(Mean_Flood_Duration, errors='coerce').astype('float64')",Missing values are preserved as missing.
+fatalities,District_FloodImpact.csv,Human_fatality,component_fatalities,"pd.to_numeric(Human_fatality, errors='coerce').astype('float64')",Used exactly as supplied after numeric conversion.
+injured,District_FloodImpact.csv,Human_injured,component_injured,"pd.to_numeric(Human_injured, errors='coerce').astype('float64')",Used exactly as supplied after numeric conversion.
+flooded_area,District_FloodedArea.csv,Corrected_Percent_Flooded_Area,component_flooded_area,"pd.to_numeric(Corrected_Percent_Flooded_Area, errors='coerce').astype('float64')",Corrected field is used; original flooded-area and permanent-water columns are retained in the comparison output.
+population,District_FloodImpact.csv,Population,component_population,"pd.to_numeric(Population, errors='coerce').astype('float64')","The specified equation for this debugging pass uses log10(Population), with no +1 applied."

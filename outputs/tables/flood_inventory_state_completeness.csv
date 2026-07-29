@@ -1,0 +1,47 @@
+state_name,total_events,first_recorded_year,last_recorded_year,years_with_at_least_one_event,percent_years_with_no_recorded_event,duration_completeness_percent,fatality_completeness_percent,injury_completeness_percent,district_completeness_percent,coordinate_completeness_percent,flag_fewer_than_20_events,flag_fewer_than_15_years_represented,flag_more_than_40_percent_missing_major_impact,flag_note
+Andaman & Nicobar Islands,3,2012,2013,2,96.49122807017544,100.0,33.33333333333333,0.0,100.0,0.0,True,True,True,Diagnostic flags only; not exclusion rules.
+Andhra Pradesh,153,1968,2022,44,22.807017543859647,100.0,73.20261437908496,4.57516339869281,98.0392156862745,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Arunachal Pradesh,153,1973,2023,39,31.57894736842105,100.0,37.908496732026144,9.803921568627452,100.0,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Assam,916,1967,2023,56,1.7543859649122806,100.0,35.1528384279476,3.2751091703056767,99.34497816593887,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Bihar,177,1967,2023,50,12.280701754385964,100.0,63.84180790960452,8.47457627118644,98.87005649717514,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Chandigarh,6,1980,2023,5,91.22807017543859,100.0,33.33333333333333,0.0,100.0,0.0,True,True,True,Diagnostic flags only; not exclusion rules.
+Chhattisgarh,69,1980,2023,19,66.66666666666666,100.0,57.971014492753625,26.08695652173913,100.0,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Dadar&Nagar Haveli,1,2023,2023,1,98.24561403508771,100.0,100.0,0.0,100.0,0.0,True,True,True,Diagnostic flags only; not exclusion rules.
+Dadra and Nagar Haveli,1,1976,1976,1,98.24561403508771,100.0,100.0,0.0,100.0,0.0,True,True,True,Diagnostic flags only; not exclusion rules.
+Daman,2,1984,1984,1,98.24561403508771,100.0,0.0,0.0,100.0,0.0,True,True,True,Diagnostic flags only; not exclusion rules.
+Daman & Diu,1,2008,2008,1,98.24561403508771,100.0,100.0,100.0,0.0,0.0,True,True,False,Diagnostic flags only; not exclusion rules.
+Daman and Diu,5,1982,1983,2,96.49122807017544,100.0,20.0,20.0,100.0,0.0,True,True,True,Diagnostic flags only; not exclusion rules.
+Delhi,44,1969,2023,28,50.877192982456144,100.0,65.9090909090909,40.909090909090914,97.72727272727273,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Diu,2,1984,1984,1,98.24561403508771,100.0,0.0,0.0,100.0,0.0,True,True,True,Diagnostic flags only; not exclusion rules.
+East Rajasthan,1,1972,1972,1,98.24561403508771,100.0,0.0,0.0,100.0,0.0,True,True,True,Diagnostic flags only; not exclusion rules.
+Goa,34,1980,2022,13,77.19298245614034,100.0,26.47058823529412,5.88235294117647,97.05882352941177,0.0,False,True,True,Diagnostic flags only; not exclusion rules.
+Gujarat,170,1967,2023,49,14.035087719298245,100.0,61.76470588235294,11.176470588235295,95.88235294117648,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Haryana,92,1967,2023,33,42.10526315789473,100.0,46.73913043478261,20.652173913043477,97.82608695652173,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Himachal Pradesh,365,1969,2023,47,17.543859649122805,100.0,55.89041095890411,19.726027397260275,100.0,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Jammu & Kashmir,109,2017,2023,7,87.71929824561403,100.0,62.38532110091744,22.018348623853214,100.0,0.0,False,True,True,Diagnostic flags only; not exclusion rules.
+Jammu and Kashmir,139,1969,2016,39,31.57894736842105,100.0,64.02877697841727,23.021582733812952,94.96402877697841,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Jharkhand,38,1983,2022,14,75.43859649122807,100.0,73.68421052631578,15.789473684210526,100.0,0.0,False,True,True,Diagnostic flags only; not exclusion rules.
+Karnataka,494,1969,2023,50,12.280701754385964,100.0,60.72874493927125,25.910931174089068,99.39271255060729,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Kerala,608,1968,2023,54,5.263157894736842,100.0,42.92763157894737,19.901315789473685,99.01315789473685,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Ladakh,1,2023,2023,1,98.24561403508771,100.0,100.0,0.0,100.0,0.0,True,True,True,Diagnostic flags only; not exclusion rules.
+Madhya Pradesh,270,1967,2023,47,17.543859649122805,95.92592592592592,50.37037037037037,11.11111111111111,99.62962962962963,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Madras,1,1969,1969,1,98.24561403508771,100.0,0.0,0.0,100.0,0.0,True,True,True,Diagnostic flags only; not exclusion rules.
+Maharashtra,1016,1967,2023,55,3.508771929824561,99.9015748031496,56.496062992125985,21.456692913385826,99.50787401574803,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Manipur,22,1976,2022,18,68.42105263157895,100.0,27.27272727272727,9.090909090909092,100.0,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Meghalaya,57,1983,2023,22,61.40350877192983,100.0,56.14035087719298,19.298245614035086,100.0,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Mizoram,27,1991,2023,19,66.66666666666666,100.0,70.37037037037037,25.925925925925924,100.0,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Nagaland,18,1981,2022,12,78.94736842105263,100.0,38.88888888888889,5.555555555555555,100.0,0.0,True,True,True,Diagnostic flags only; not exclusion rules.
+New Delhi,1,2020,2020,1,98.24561403508771,100.0,100.0,0.0,100.0,0.0,True,True,True,Diagnostic flags only; not exclusion rules.
+Odisha,157,1967,2023,48,15.789473684210526,95.54140127388536,64.3312101910828,7.006369426751593,98.08917197452229,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Parts of Maharashtra,1,1971,1971,1,98.24561403508771,100.0,0.0,0.0,0.0,0.0,True,True,True,Diagnostic flags only; not exclusion rules.
+Puducherry,6,1985,2021,6,89.47368421052632,100.0,50.0,0.0,100.0,0.0,True,True,True,Diagnostic flags only; not exclusion rules.
+Punjab,175,1969,2023,44,22.807017543859647,100.0,44.57142857142857,16.0,100.0,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Rajasthan,264,1967,2023,50,12.280701754385964,100.0,74.24242424242425,15.530303030303031,99.24242424242425,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Sikkim,64,1968,2023,25,56.14035087719298,100.0,50.0,15.625,100.0,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Tamil Nadu,188,1969,2022,47,17.543859649122805,100.0,68.08510638297872,11.170212765957446,99.46808510638297,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Telangana,150,1969,2023,14,75.43859649122807,100.0,26.666666666666668,3.3333333333333335,99.33333333333333,0.0,False,True,True,Diagnostic flags only; not exclusion rules.
+Tripura,48,1976,2019,24,57.89473684210527,100.0,56.25,16.666666666666664,100.0,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Uttar Pradesh,475,1967,2023,55,3.508771929824561,100.0,82.3157894736842,13.473684210526315,98.73684210526315,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+Uttar pradesh,1,1971,1971,1,98.24561403508771,100.0,0.0,0.0,100.0,0.0,True,True,True,Diagnostic flags only; not exclusion rules.
+Uttarakhand,121,1970,2023,32,43.859649122807014,100.0,78.51239669421489,23.96694214876033,100.0,0.0,False,False,True,Diagnostic flags only; not exclusion rules.
+West Bengal,344,1968,2023,51,10.526315789473683,100.0,50.872093023255815,15.11627906976744,99.12790697674419,0.0,False,False,True,Diagnostic flags only; not exclusion rules.

@@ -1,0 +1,172 @@
+scenario,transition_type,State_Name,district_name,available_district_review_key,baseline_rank,baseline_top10,mean_simulated_rank,rank_p05,rank_p95,rank_p05_to_p95_interval,top10_probability,top25_probability,top50_probability,top100_probability
+narrow,baseline_top10_at_risk,ODISHA,Cuttack,cuttack,49,True,55.5853,32.0,91.04999999999927,59.04999999999927,0.7846,0.0142,0.4868,0.9782
+narrow,baseline_top10_at_risk,ASSAM,Karimganj,karimganj,51,True,56.381,31.0,86.0,55.0,0.7902,0.0148,0.4138,0.9949
+narrow,baseline_top10_at_risk,RAJASTHAN,Sawai Madhopur,sawai madhopur,52,True,58.046,23.0,98.0,75.0,0.688,0.0837,0.4275,0.9568
+narrow,baseline_top10_at_risk,JAMMU & KASHMIR,Jammu,jammu,55,True,59.0344,33.0,86.0,53.0,0.7551,0.0006,0.3634,0.9893
+narrow,baseline_top10_at_risk,HIMACHAL PRADESH,Kullu,kullu,57,True,63.0076,23.0,117.0,94.0,0.6126,0.0974,0.4024,0.8909
+narrow,baseline_top10_at_risk,WEST BENGAL,Howrah,howrah,59,True,62.7671,37.0,91.0,54.0,0.6897,0.0026,0.2639,0.9897
+narrow,baseline_top10_at_risk,BIHAR,Saran,saran,60,True,63.1292,35.0,100.0,65.0,0.6605,0.0039,0.334,0.9524
+narrow,baseline_top10_at_risk,UTTAR PRADESH,Meerut,meerut,61,True,63.2632,47.0,80.0,33.0,0.7858,0.0,0.1086,1.0
+narrow,baseline_top10_at_risk,ASSAM,Nagaon,nagaon,62,True,64.4697,36.0,96.0,60.0,0.6425,0.0043,0.2613,0.9732
+narrow,baseline_top10_at_risk,KERALA,Thrissur,thrissur,63,True,64.8494,45.0,86.0,41.0,0.6809,0.0,0.15,0.9955
+narrow,baseline_top10_at_risk,MAHARASHTRA,Nanded,nanded,64,True,64.5518,44.0,87.0,43.0,0.6812,0.0,0.1891,0.9891
+narrow,baseline_top10_at_risk,ODISHA,Baleshwar,baleshwar,66,True,66.5166,47.0,89.0,42.0,0.6471,0.0,0.1134,0.993
+narrow,baseline_top10_at_risk,KERALA,Kannur,kannur,67,True,67.1542,46.0,89.0,43.0,0.5861,0.0,0.1237,0.9901
+narrow,baseline_top10_at_risk,KERALA,Kozhikode,kozhikode,68,True,66.9627,43.0,92.0,49.0,0.5943,0.0,0.1678,0.982
+narrow,baseline_top10_at_risk,UTTAR PRADESH,Saharanpur,saharanpur,69,True,68.0649,50.0,86.0,36.0,0.6072,0.0,0.0625,0.9992
+narrow,baseline_top10_at_risk,UTTAR PRADESH,Kheri,kheri,70,True,71.0493,51.0,93.0,42.0,0.5263,0.0,0.0479,0.9894
+narrow,baseline_top10_at_risk,ODISHA,Ganjam,ganjam,71,True,70.6852,38.0,106.04999999999927,68.04999999999927,0.5201,0.0039,0.1971,0.9108
+narrow,nonbaseline_possible_entry,UTTAR PRADESH,Lucknow,lucknow,72,False,71.5262,52.0,89.0,37.0,0.4799,0.0,0.0346,0.9988
+narrow,nonbaseline_possible_entry,ASSAM,Barpeta,barpeta,73,False,72.8064,45.0,101.0,56.0,0.475,0.0002,0.1063,0.9453
+narrow,nonbaseline_possible_entry,ASSAM,Sivasagar,sivasagar,74,False,74.0161,43.0,105.0,62.0,0.4509,0.0006,0.1169,0.9206
+narrow,nonbaseline_possible_entry,UTTARAKHAND,Pithoragarh,pithoragarh,75,False,79.4729,26.0,140.0,114.0,0.4182,0.0473,0.2403,0.7355
+narrow,nonbaseline_possible_entry,ANDHRA PRADESH,Kurnool,kurnool,76,False,77.1259,44.0,111.0,67.0,0.3762,0.0011,0.1209,0.8833
+narrow,nonbaseline_possible_entry,ASSAM,Tinsukia,tinsukia,77,False,77.817,55.0,99.0,44.0,0.3184,0.0,0.0213,0.9591
+narrow,nonbaseline_possible_entry,RAJASTHAN,Tonk,tonk,78,False,78.8082,32.0,127.0,95.0,0.3884,0.0202,0.1911,0.7846
+narrow,nonbaseline_possible_entry,MAHARASHTRA,Nashik,nashik,79,False,78.6712,42.0,118.0,76.0,0.3714,0.0015,0.133,0.844
+narrow,nonbaseline_possible_entry,KERALA,Ernakulam,ernakulam,80,False,79.0594,54.0,105.0,51.0,0.298,0.0,0.026,0.9241
+narrow,nonbaseline_possible_entry,RAJASTHAN,Bharatpur,bharatpur,81,False,79.738,36.0,124.0,88.0,0.3588,0.011,0.162,0.7931
+narrow,nonbaseline_possible_entry,MAHARASHTRA,Kolhapur,kolhapur,82,False,81.2164,58.0,105.0,47.0,0.2269,0.0,0.0091,0.9306
+narrow,nonbaseline_possible_entry,WEST BENGAL,Cooch Behar,cooch behar,84,False,84.7056,56.0,115.0,59.0,0.2425,0.0,0.0227,0.81
+narrow,nonbaseline_possible_entry,WEST BENGAL,North Twenty Four Pargan*,north twenty four pargan*,85,False,85.6331,29.0,155.0,126.0,0.3879,0.0309,0.2157,0.6697
+narrow,nonbaseline_possible_entry,MAHARASHTRA,Ratnagiri,ratnagiri,86,False,87.1687,53.0,123.0,70.0,0.2216,0.0,0.0388,0.7723
+narrow,nonbaseline_possible_entry,BIHAR,Vaishali,vaishali,90,False,88.5084,52.0,125.0,73.0,0.2377,0.0004,0.0415,0.6955
+narrow,nonbaseline_possible_entry,KERALA,Idukki,idukki,91,False,90.1491,49.0,134.0,85.0,0.2183,0.0,0.0562,0.704
+moderate,baseline_top10_at_risk,UTTARAKHAND,Chamoli,chamoli,23,True,42.0103,4.0,128.0,124.0,0.7936,0.5071,0.6883,0.8981
+moderate,baseline_top10_at_risk,HIMACHAL PRADESH,Shimla,shimla,29,True,45.1529,9.0,117.0,108.0,0.7948,0.4028,0.6533,0.9143
+moderate,baseline_top10_at_risk,WEST BENGAL,Nadia,nadia,41,True,49.8197,16.0,104.0,88.0,0.7863,0.188,0.6008,0.9398
+moderate,baseline_top10_at_risk,KERALA,Kottayam,kottayam,42,True,53.564,20.0,103.0,83.0,0.7554,0.1277,0.5254,0.9437
+moderate,baseline_top10_at_risk,BIHAR,Katihar,katihar,46,True,56.6169,20.0,117.0,97.0,0.7175,0.1191,0.5254,0.8974
+moderate,baseline_top10_at_risk,KERALA,Malappuram,malappuram,47,True,57.7304,28.0,99.0,71.0,0.731,0.0321,0.4492,0.9539
+moderate,baseline_top10_at_risk,ODISHA,Cuttack,cuttack,49,True,58.8222,21.0,119.0,98.0,0.6958,0.0948,0.4967,0.8853
+moderate,baseline_top10_at_risk,ASSAM,Karimganj,karimganj,51,True,61.2601,19.0,109.0,90.0,0.639,0.0992,0.3937,0.9123
+moderate,baseline_top10_at_risk,RAJASTHAN,Sawai Madhopur,sawai madhopur,52,True,66.1394,12.0,136.0,124.0,0.5622,0.1792,0.4029,0.7985
+moderate,baseline_top10_at_risk,WEST BENGAL,Bankura,bankura,53,True,60.5191,24.0,102.0,78.0,0.6774,0.0598,0.3789,0.9449
+moderate,baseline_top10_at_risk,BIHAR,Saharsa,saharsa,54,True,59.6762,35.0,90.0,55.0,0.7389,0.0038,0.3475,0.9873
+moderate,baseline_top10_at_risk,JAMMU & KASHMIR,Jammu,jammu,55,True,64.5329,28.0,117.0,89.0,0.6166,0.0299,0.3659,0.8952
+moderate,baseline_top10_at_risk,BIHAR,Supaul,supaul,56,True,62.5698,39.0,89.0,50.0,0.7023,0.0003,0.2529,0.992
+moderate,baseline_top10_at_risk,HIMACHAL PRADESH,Kullu,kullu,57,True,73.5511,12.0,177.0,165.0,0.5481,0.219,0.4201,0.7447
+moderate,baseline_top10_at_risk,UTTAR PRADESH,Etawah,etawah,58,True,63.3787,41.0,88.0,47.0,0.6914,0.0,0.2126,0.9943
+moderate,baseline_top10_at_risk,WEST BENGAL,Howrah,howrah,59,True,66.3923,26.0,110.0,84.0,0.5779,0.0453,0.3073,0.8922
+moderate,baseline_top10_at_risk,BIHAR,Saran,saran,60,True,65.7957,24.0,126.0,102.0,0.6134,0.0644,0.4029,0.8375
+moderate,baseline_top10_at_risk,UTTAR PRADESH,Meerut,meerut,61,True,65.2404,42.0,91.0,49.0,0.659,0.0002,0.1802,0.987
+moderate,baseline_top10_at_risk,ASSAM,Nagaon,nagaon,62,True,67.6198,23.0,120.0,97.0,0.5677,0.0612,0.3269,0.852
+moderate,baseline_top10_at_risk,KERALA,Thrissur,thrissur,63,True,69.0902,38.950000000000045,108.0,69.04999999999995,0.5721,0.0019,0.21,0.919
+moderate,baseline_top10_at_risk,MAHARASHTRA,Nanded,nanded,64,True,68.6749,37.0,113.0,76.0,0.5941,0.0005,0.2547,0.9058
+moderate,baseline_top10_at_risk,UTTAR PRADESH,Bara Banki,bara banki,65,True,66.6269,49.0,87.0,38.0,0.6865,0.0,0.0748,0.9911
+moderate,baseline_top10_at_risk,ODISHA,Baleshwar,baleshwar,66,True,68.0375,40.0,106.0,66.0,0.6023,0.0,0.2365,0.9209
+moderate,baseline_top10_at_risk,KERALA,Kannur,kannur,67,True,71.3003,39.0,112.0,73.0,0.5222,0.0003,0.2099,0.8964
+moderate,baseline_top10_at_risk,KERALA,Kozhikode,kozhikode,68,True,71.3591,35.0,119.0,84.0,0.533,0.0059,0.2481,0.8671
+moderate,baseline_top10_at_risk,UTTAR PRADESH,Saharanpur,saharanpur,69,True,69.348,40.0,99.0,59.0,0.5455,0.0015,0.155,0.9583
+moderate,baseline_top10_at_risk,UTTAR PRADESH,Kheri,kheri,70,True,72.523,43.0,108.0,65.0,0.5163,0.0001,0.1437,0.9023
+moderate,baseline_top10_at_risk,ODISHA,Ganjam,ganjam,71,True,71.8565,24.0,131.0,107.0,0.5283,0.059,0.3024,0.7997
+moderate,nonbaseline_possible_entry,UTTAR PRADESH,Lucknow,lucknow,72,False,72.779,43.0,100.0,57.0,0.4551,0.0002,0.1106,0.9539
+moderate,nonbaseline_possible_entry,ASSAM,Barpeta,barpeta,73,False,74.6792,32.0,124.0,92.0,0.4775,0.0211,0.2211,0.8105
+moderate,nonbaseline_possible_entry,ASSAM,Sivasagar,sivasagar,74,False,77.7744,29.0,135.0,106.0,0.4456,0.0372,0.2287,0.7666
+moderate,nonbaseline_possible_entry,UTTARAKHAND,Pithoragarh,pithoragarh,75,False,88.8816,11.0,207.0,196.0,0.4464,0.1662,0.3263,0.624
+moderate,nonbaseline_possible_entry,ANDHRA PRADESH,Kurnool,kurnool,76,False,82.189,29.0,146.0,117.0,0.4067,0.0318,0.2254,0.7063
+moderate,nonbaseline_possible_entry,ASSAM,Tinsukia,tinsukia,77,False,80.6374,44.0,122.0,78.0,0.3685,0.0004,0.0968,0.8112
+moderate,nonbaseline_possible_entry,RAJASTHAN,Tonk,tonk,78,False,86.5578,16.0,170.0,154.0,0.4038,0.1036,0.2773,0.6281
+moderate,nonbaseline_possible_entry,MAHARASHTRA,Nashik,nashik,79,False,84.4859,27.0,162.04999999999927,135.04999999999927,0.4158,0.0423,0.2432,0.6937
+moderate,nonbaseline_possible_entry,KERALA,Ernakulam,ernakulam,80,False,82.7742,43.0,130.0,87.0,0.3586,0.0003,0.1155,0.7652
+moderate,nonbaseline_possible_entry,RAJASTHAN,Bharatpur,bharatpur,81,False,87.0741,20.0,162.0,142.0,0.3819,0.0776,0.2418,0.625
+moderate,nonbaseline_possible_entry,MAHARASHTRA,Kolhapur,kolhapur,82,False,84.3255,48.0,134.0,86.0,0.3348,0.0,0.0742,0.7773
+moderate,nonbaseline_possible_entry,BIHAR,Gopalganj,gopalganj,83,False,82.3774,55.0,109.0,54.0,0.2686,0.0,0.027,0.8502
+moderate,nonbaseline_possible_entry,WEST BENGAL,Cooch Behar,cooch behar,84,False,85.3688,42.0,137.0,95.0,0.3537,0.0031,0.1189,0.7017
+moderate,nonbaseline_possible_entry,WEST BENGAL,North Twenty Four Pargan*,north twenty four pargan*,85,False,93.1524,13.0,231.04999999999927,218.04999999999927,0.4611,0.1567,0.3371,0.6188
+moderate,nonbaseline_possible_entry,MAHARASHTRA,Ratnagiri,ratnagiri,86,False,92.1626,38.0,167.0,129.0,0.3234,0.0026,0.1464,0.646
+moderate,nonbaseline_possible_entry,RAJASTHAN,Jaipur,jaipur,87,False,88.3074,45.0,133.0,88.0,0.2676,0.0041,0.0797,0.6864
+moderate,nonbaseline_possible_entry,UTTAR PRADESH,Gonda,gonda,88,False,88.095,58.0,127.0,69.0,0.233,0.0,0.0152,0.7384
+moderate,nonbaseline_possible_entry,ASSAM,Goalpara,goalpara,89,False,90.9358,40.950000000000045,145.0,104.04999999999995,0.2971,0.0058,0.1096,0.6217
+moderate,nonbaseline_possible_entry,BIHAR,Vaishali,vaishali,90,False,89.6686,34.0,150.0,116.0,0.3347,0.0222,0.1594,0.6143
+moderate,nonbaseline_possible_entry,KERALA,Idukki,idukki,91,False,95.5943,33.0,185.0,152.0,0.3281,0.0148,0.171,0.6074
+moderate,nonbaseline_possible_entry,ANDHRA PRADESH,Visakhapatnam,visakhapatnam,92,False,94.6862,35.0,157.0,122.0,0.2924,0.019,0.1329,0.5651
+moderate,nonbaseline_possible_entry,ASSAM,Jorhat,jorhat,94,False,91.7247,46.0,144.0,98.0,0.2731,0.0014,0.0777,0.6336
+moderate,nonbaseline_possible_entry,KERALA,Kollam,kollam,96,False,100.8332,49.0,171.04999999999927,122.04999999999927,0.2213,0.0004,0.0609,0.5571
+moderate,nonbaseline_possible_entry,BIHAR,Munger,munger,98,False,97.4283,51.0,144.0,93.0,0.2043,0.0004,0.0486,0.5368
+moderate,nonbaseline_possible_entry,KARNATAKA,Bengaluru Rural,bengaluru rural,99,False,109.4912,37.0,201.0,164.0,0.2319,0.0152,0.1062,0.4761
+moderate,nonbaseline_possible_entry,BIHAR,Sitamarhi,sitamarhi,101,False,99.9636,53.0,159.0,106.0,0.2165,0.0,0.0405,0.5516
+moderate,nonbaseline_possible_entry,MAHARASHTRA,Mumbai Suburban,mumbai suburban,107,False,114.936,40.0,207.0,167.0,0.2047,0.0137,0.0892,0.4137
+moderate,nonbaseline_possible_entry,WEST BENGAL,Darjiling,darjiling,124,False,134.3261,28.0,304.0,276.0,0.2475,0.0407,0.1485,0.4038
+wide,baseline_top10_at_risk,UTTARAKHAND,Chamoli,chamoli,23,True,68.0026,2.0,254.0,252.0,0.6698,0.4611,0.5892,0.7555
+wide,baseline_top10_at_risk,HIMACHAL PRADESH,Shimla,shimla,29,True,64.1413,7.0,209.0,202.0,0.6687,0.4092,0.5721,0.7769
+wide,baseline_top10_at_risk,BIHAR,Begusarai,begusarai,31,True,49.1637,6.0,108.0,102.0,0.7304,0.3017,0.5646,0.9185
+wide,baseline_top10_at_risk,MAHARASHTRA,Amravati,amravati,34,True,55.7435,13.0,150.0,137.0,0.7311,0.2862,0.5804,0.8673
+wide,baseline_top10_at_risk,ASSAM,Dhemaji,dhemaji,36,True,61.2441,9.0,162.0,153.0,0.6861,0.261,0.525,0.826
+wide,baseline_top10_at_risk,GUJARAT,Surat,surat,37,True,52.6074,15.0,99.0,84.0,0.7801,0.1564,0.4903,0.9538
+wide,baseline_top10_at_risk,WEST BENGAL,Kolkata,kolkata,38,True,62.6973,16.0,165.0,149.0,0.6914,0.2329,0.5323,0.8336
+wide,baseline_top10_at_risk,UTTAR PRADESH,Agra,agra,39,True,54.4036,19.0,97.04999999999927,78.04999999999927,0.764,0.1109,0.4673,0.9607
+wide,baseline_top10_at_risk,WEST BENGAL,Hooghly,hooghly,40,True,57.3918,22.0,103.0,81.0,0.728,0.0858,0.4477,0.9408
+wide,baseline_top10_at_risk,WEST BENGAL,Nadia,nadia,41,True,56.9378,11.0,141.0,130.0,0.7003,0.2655,0.5591,0.8336
+wide,baseline_top10_at_risk,KERALA,Kottayam,kottayam,42,True,66.2288,16.0,158.0,142.0,0.6307,0.1979,0.4585,0.8022
+wide,baseline_top10_at_risk,GUJARAT,Bharuch,bharuch,43,True,61.0449,24.0,121.0,97.0,0.6756,0.0648,0.4497,0.8912
+wide,baseline_top10_at_risk,ASSAM,Kamrup,kamrup,44,True,61.3923,13.0,123.0,110.0,0.6432,0.1594,0.4364,0.8612
+wide,baseline_top10_at_risk,BIHAR,Khagaria,khagaria,45,True,60.0121,20.0,108.0,88.0,0.6463,0.1077,0.4248,0.9125
+wide,baseline_top10_at_risk,BIHAR,Katihar,katihar,46,True,62.7007,15.0,154.0,139.0,0.6753,0.2091,0.5262,0.8007
+wide,baseline_top10_at_risk,KERALA,Malappuram,malappuram,47,True,68.332,23.0,145.0,122.0,0.616,0.0737,0.408,0.8277
+wide,baseline_top10_at_risk,ODISHA,Cuttack,cuttack,49,True,65.1404,17.0,157.04999999999927,140.04999999999927,0.6539,0.1861,0.5009,0.7934
+wide,baseline_top10_at_risk,UTTAR PRADESH,Sitapur,sitapur,50,True,63.6782,32.0,97.0,65.0,0.6596,0.0136,0.2606,0.9642
+wide,baseline_top10_at_risk,ASSAM,Karimganj,karimganj,51,True,70.5548,10.0,144.0,134.0,0.529,0.1777,0.3766,0.7465
+wide,baseline_top10_at_risk,RAJASTHAN,Sawai Madhopur,sawai madhopur,52,True,81.8769,6.0,186.0,180.0,0.4732,0.2357,0.3741,0.628
+wide,baseline_top10_at_risk,WEST BENGAL,Bankura,bankura,53,True,68.6758,13.950000000000045,138.0,124.04999999999995,0.5792,0.1214,0.3527,0.8098
+wide,baseline_top10_at_risk,BIHAR,Saharsa,saharsa,54,True,65.0742,28.0,109.0,81.0,0.6088,0.0347,0.3327,0.9072
+wide,baseline_top10_at_risk,JAMMU & KASHMIR,Jammu,jammu,55,True,77.0027,22.0,178.0,156.0,0.5349,0.0946,0.3755,0.7452
+wide,baseline_top10_at_risk,BIHAR,Supaul,supaul,56,True,67.4211,33.0,105.0,72.0,0.5816,0.0097,0.264,0.9206
+wide,baseline_top10_at_risk,HIMACHAL PRADESH,Kullu,kullu,57,True,96.112,9.0,290.0499999999993,281.0499999999993,0.5216,0.292,0.4307,0.6375
+wide,baseline_top10_at_risk,UTTAR PRADESH,Etawah,etawah,58,True,68.7026,36.0,107.0,71.0,0.5597,0.0018,0.2445,0.9164
+wide,baseline_top10_at_risk,WEST BENGAL,Howrah,howrah,59,True,74.1484,16.0,138.0,122.0,0.4914,0.1193,0.3173,0.7325
+wide,baseline_top10_at_risk,BIHAR,Saran,saran,60,True,70.9072,16.0,161.04999999999927,145.04999999999927,0.5914,0.1562,0.4357,0.7499
+wide,baseline_top10_at_risk,UTTAR PRADESH,Meerut,meerut,61,True,69.7602,36.0,109.0,73.0,0.5538,0.0046,0.2114,0.8986
+wide,baseline_top10_at_risk,ASSAM,Nagaon,nagaon,62,True,75.5004,13.0,154.0,141.0,0.5086,0.1458,0.3506,0.7044
+wide,baseline_top10_at_risk,KERALA,Thrissur,thrissur,63,True,78.1821,33.0,149.0,116.0,0.5121,0.0115,0.2479,0.7742
+wide,baseline_top10_at_risk,MAHARASHTRA,Nanded,nanded,64,True,79.2007,32.0,174.0,142.0,0.5398,0.0085,0.2999,0.7713
+wide,baseline_top10_at_risk,UTTAR PRADESH,Bara Banki,bara banki,65,True,71.3881,45.0,107.0,62.0,0.5562,0.0,0.1119,0.9162
+wide,baseline_top10_at_risk,ODISHA,Baleshwar,baleshwar,66,True,72.2876,36.0,133.0,97.0,0.5727,0.0009,0.2933,0.8187
+wide,baseline_top10_at_risk,KERALA,Kannur,kannur,67,True,80.8662,34.0,156.04999999999927,122.04999999999927,0.4712,0.0053,0.2486,0.7481
+wide,baseline_top10_at_risk,KERALA,Kozhikode,kozhikode,68,True,81.8333,28.0,176.04999999999927,148.04999999999927,0.4978,0.0371,0.2912,0.7337
+wide,baseline_top10_at_risk,UTTAR PRADESH,Saharanpur,saharanpur,69,True,73.5431,32.0,119.0,87.0,0.4819,0.0185,0.2122,0.8339
+wide,baseline_top10_at_risk,UTTAR PRADESH,Kheri,kheri,70,True,76.5252,37.0,130.0,93.0,0.4906,0.003,0.2031,0.7868
+wide,baseline_top10_at_risk,ODISHA,Ganjam,ganjam,71,True,78.0473,15.0,171.04999999999927,156.04999999999927,0.5126,0.1476,0.356,0.7041
+wide,nonbaseline_possible_entry,UTTAR PRADESH,Lucknow,lucknow,72,False,77.5167,34.0,119.0,85.0,0.4001,0.0104,0.1653,0.8142
+wide,nonbaseline_possible_entry,ASSAM,Barpeta,barpeta,73,False,81.3381,19.0,156.0,137.0,0.4521,0.0861,0.2823,0.6761
+wide,nonbaseline_possible_entry,ASSAM,Sivasagar,sivasagar,74,False,86.6113,17.0,182.0,165.0,0.4345,0.1143,0.2942,0.6398
+wide,nonbaseline_possible_entry,UTTARAKHAND,Pithoragarh,pithoragarh,75,False,115.0692,6.0,326.0,320.0,0.4296,0.243,0.3477,0.5429
+wide,nonbaseline_possible_entry,ANDHRA PRADESH,Kurnool,kurnool,76,False,95.1693,18.0,211.0,193.0,0.403,0.0935,0.2741,0.5904
+wide,nonbaseline_possible_entry,ASSAM,Tinsukia,tinsukia,77,False,87.8672,36.0,156.0,120.0,0.3847,0.0073,0.1645,0.6601
+wide,nonbaseline_possible_entry,RAJASTHAN,Tonk,tonk,78,False,103.2829,9.0,241.0,232.0,0.3948,0.1884,0.3086,0.5261
+wide,nonbaseline_possible_entry,MAHARASHTRA,Nashik,nashik,79,False,99.216,17.0,249.0,232.0,0.4288,0.1107,0.3072,0.6046
+wide,nonbaseline_possible_entry,KERALA,Ernakulam,ernakulam,80,False,92.5247,34.0,183.0,149.0,0.3803,0.0081,0.1982,0.6348
+wide,nonbaseline_possible_entry,RAJASTHAN,Bharatpur,bharatpur,81,False,102.604,11.0,222.0,211.0,0.3752,0.1569,0.2821,0.5158
+wide,nonbaseline_possible_entry,MAHARASHTRA,Kolhapur,kolhapur,82,False,94.4677,39.0,199.0,160.0,0.3886,0.0003,0.1629,0.6603
+wide,nonbaseline_possible_entry,BIHAR,Gopalganj,gopalganj,83,False,85.7574,44.0,124.0,80.0,0.2944,0.0034,0.0893,0.697
+wide,nonbaseline_possible_entry,WEST BENGAL,Cooch Behar,cooch behar,84,False,91.321,29.0,177.0,148.0,0.4011,0.0314,0.2182,0.6193
+wide,nonbaseline_possible_entry,WEST BENGAL,North Twenty Four Pargan*,north twenty four pargan*,85,False,109.6623,5.0,376.0499999999993,371.0499999999993,0.5145,0.279,0.426,0.6155
+wide,nonbaseline_possible_entry,MAHARASHTRA,Ratnagiri,ratnagiri,86,False,106.2116,28.0,250.0,222.0,0.3788,0.0295,0.2397,0.5749
+wide,nonbaseline_possible_entry,RAJASTHAN,Jaipur,jaipur,87,False,95.2458,29.0,179.0,150.0,0.3046,0.0365,0.1512,0.5898
+wide,nonbaseline_possible_entry,UTTAR PRADESH,Gonda,gonda,88,False,90.9399,48.0,151.0,103.0,0.3103,0.0001,0.0686,0.6691
+wide,nonbaseline_possible_entry,ASSAM,Goalpara,goalpara,89,False,97.4013,24.0,186.0,162.0,0.35,0.0547,0.2096,0.5491
+wide,nonbaseline_possible_entry,BIHAR,Vaishali,vaishali,90,False,93.8627,19.0,186.0,167.0,0.3892,0.0959,0.2572,0.5647
+wide,nonbaseline_possible_entry,KERALA,Idukki,idukki,91,False,111.178,22.0,272.0,250.0,0.3846,0.0787,0.2683,0.5496
+wide,nonbaseline_possible_entry,ANDHRA PRADESH,Visakhapatnam,visakhapatnam,92,False,106.1064,20.0,210.0,190.0,0.3288,0.0762,0.2156,0.4916
+wide,nonbaseline_possible_entry,ASSAM,Jorhat,jorhat,94,False,97.2183,29.0,185.0,156.0,0.3431,0.0353,0.1711,0.5723
+wide,nonbaseline_possible_entry,GUJARAT,Junagadh,junagadh,95,False,97.8554,46.0,159.0,113.0,0.2241,0.0006,0.0721,0.5553
+wide,nonbaseline_possible_entry,KERALA,Kollam,kollam,96,False,112.3901,36.0,243.0,207.0,0.3093,0.0041,0.159,0.5187
+wide,nonbaseline_possible_entry,ASSAM,Sonitpur,sonitpur,97,False,103.4128,36.0,166.0,130.0,0.2165,0.0226,0.1014,0.4685
+wide,nonbaseline_possible_entry,BIHAR,Munger,munger,98,False,100.986,33.0,171.0,138.0,0.2793,0.0176,0.1464,0.4984
+wide,nonbaseline_possible_entry,KARNATAKA,Bengaluru Rural,bengaluru rural,99,False,124.5187,22.0,276.0,254.0,0.2978,0.0731,0.2012,0.4492
+wide,nonbaseline_possible_entry,BIHAR,Sitamarhi,sitamarhi,101,False,102.6603,40.0,205.0,165.0,0.3381,0.0029,0.1311,0.5759
+wide,nonbaseline_possible_entry,PUNJAB,Patiala,patiala,103,False,119.436,39.0,223.0,184.0,0.2257,0.0066,0.1039,0.4102
+wide,nonbaseline_possible_entry,ASSAM,Darrang,darrang,104,False,114.5207,29.0,216.0,187.0,0.2611,0.0395,0.1481,0.4372
+wide,nonbaseline_possible_entry,KERALA,Wayanad,wayanad,105,False,129.0133,24.0,285.0499999999993,261.0499999999993,0.281,0.0571,0.1827,0.4301
+wide,nonbaseline_possible_entry,UTTAR PRADESH,Jaunpur,jaunpur,106,False,107.4987,41.0,210.0,169.0,0.2865,0.0013,0.1108,0.5317
+wide,nonbaseline_possible_entry,MAHARASHTRA,Mumbai Suburban,mumbai suburban,107,False,129.5786,20.0,295.0,275.0,0.2876,0.0689,0.187,0.4219
+wide,nonbaseline_possible_entry,ASSAM,Dhubri,dhubri,111,False,115.9967,42.0,199.0,157.0,0.203,0.0086,0.0847,0.405
+wide,nonbaseline_possible_entry,HIMACHAL PRADESH,Kangra,kangra,114,False,133.6182,45.0,273.0,228.0,0.2045,0.0008,0.0826,0.3791
+wide,nonbaseline_possible_entry,MAHARASHTRA,Sindhudurg,sindhudurg,115,False,139.7654,35.0,291.0,256.0,0.2126,0.0072,0.1227,0.3615
+wide,nonbaseline_possible_entry,WEST BENGAL,Birbhum,birbhum,118,False,118.7447,38.0,225.0,187.0,0.2158,0.0187,0.0943,0.4235
+wide,nonbaseline_possible_entry,WEST BENGAL,Darjiling,darjiling,124,False,150.7276,14.0,427.0,413.0,0.3551,0.139,0.2648,0.4613
+wide,nonbaseline_possible_entry,BIHAR,Purnia,purnia,133,False,133.4992,49.0,275.0499999999993,226.04999999999927,0.2007,0.0002,0.0571,0.4045
+wide,nonbaseline_possible_entry,BIHAR,Purba Champaran,purba champaran,134,False,149.9311,22.0,410.0,388.0,0.3265,0.0674,0.2112,0.4496
+wide,nonbaseline_possible_entry,BIHAR,Nalanda,nalanda,137,False,140.1607,32.0,290.0,258.0,0.2194,0.0296,0.1251,0.3574
+wide,nonbaseline_possible_entry,WEST BENGAL,Medinipur West,medinipur west,156,False,171.8694,33.0,431.0,398.0,0.2246,0.0224,0.13,0.3543
+wide,nonbaseline_possible_entry,UTTARAKHAND,Rudraprayag,rudraprayag,183,False,221.8696,10.0,541.0,531.0,0.2448,0.1238,0.1897,0.3143

@@ -1,0 +1,87 @@
+flag_scope,state_name,flag_type,flag_value,details
+global,,complete_period_specific_dfsi_not_feasible_from_inventory_alone,,Population and flooded-area components are not period-specific in India_Flood_Inventory_v3.csv.
+global,,do_not_interpret_recorded_event_counts_as_physical_trends,,Recorded event counts reflect inventory reporting volume and completeness as well as underlying floods.
+state,Andaman & Nicobar Islands,fewer_than_15_years_represented,2,Diagnostic flag only; not an exclusion rule.
+state,Andaman & Nicobar Islands,fewer_than_20_recorded_events,3,Diagnostic flag only; not an exclusion rule.
+state,Andaman & Nicobar Islands,more_than_40_percent_missing_major_impact_variable,100.0,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 66.66666666666667, 'injury_missing_percent': 100.0}"
+state,Andhra Pradesh,more_than_40_percent_missing_major_impact_variable,95.42483660130719,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 26.797385620915037, 'injury_missing_percent': 95.42483660130719}"
+state,Arunachal Pradesh,more_than_40_percent_missing_major_impact_variable,90.19607843137254,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 62.091503267973856, 'injury_missing_percent': 90.19607843137254}"
+state,Assam,more_than_40_percent_missing_major_impact_variable,96.72489082969432,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 64.8471615720524, 'injury_missing_percent': 96.72489082969432}"
+state,Bihar,more_than_40_percent_missing_major_impact_variable,91.52542372881356,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 36.15819209039548, 'injury_missing_percent': 91.52542372881356}"
+state,Chandigarh,fewer_than_15_years_represented,5,Diagnostic flag only; not an exclusion rule.
+state,Chandigarh,fewer_than_20_recorded_events,6,Diagnostic flag only; not an exclusion rule.
+state,Chandigarh,more_than_40_percent_missing_major_impact_variable,100.0,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 66.66666666666667, 'injury_missing_percent': 100.0}"
+state,Chhattisgarh,more_than_40_percent_missing_major_impact_variable,73.91304347826087,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 42.028985507246375, 'injury_missing_percent': 73.91304347826087}"
+state,Dadar&Nagar Haveli,fewer_than_15_years_represented,1,Diagnostic flag only; not an exclusion rule.
+state,Dadar&Nagar Haveli,fewer_than_20_recorded_events,1,Diagnostic flag only; not an exclusion rule.
+state,Dadar&Nagar Haveli,more_than_40_percent_missing_major_impact_variable,100.0,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 0.0, 'injury_missing_percent': 100.0}"
+state,Dadra and Nagar Haveli,fewer_than_15_years_represented,1,Diagnostic flag only; not an exclusion rule.
+state,Dadra and Nagar Haveli,fewer_than_20_recorded_events,1,Diagnostic flag only; not an exclusion rule.
+state,Dadra and Nagar Haveli,more_than_40_percent_missing_major_impact_variable,100.0,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 0.0, 'injury_missing_percent': 100.0}"
+state,Daman,fewer_than_15_years_represented,1,Diagnostic flag only; not an exclusion rule.
+state,Daman,fewer_than_20_recorded_events,2,Diagnostic flag only; not an exclusion rule.
+state,Daman,more_than_40_percent_missing_major_impact_variable,100.0,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 100.0, 'injury_missing_percent': 100.0}"
+state,Daman & Diu,fewer_than_15_years_represented,1,Diagnostic flag only; not an exclusion rule.
+state,Daman & Diu,fewer_than_20_recorded_events,1,Diagnostic flag only; not an exclusion rule.
+state,Daman and Diu,fewer_than_15_years_represented,2,Diagnostic flag only; not an exclusion rule.
+state,Daman and Diu,fewer_than_20_recorded_events,5,Diagnostic flag only; not an exclusion rule.
+state,Daman and Diu,more_than_40_percent_missing_major_impact_variable,80.0,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 80.0, 'injury_missing_percent': 80.0}"
+state,Delhi,more_than_40_percent_missing_major_impact_variable,59.090909090909086,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 34.09090909090909, 'injury_missing_percent': 59.090909090909086}"
+state,Diu,fewer_than_15_years_represented,1,Diagnostic flag only; not an exclusion rule.
+state,Diu,fewer_than_20_recorded_events,2,Diagnostic flag only; not an exclusion rule.
+state,Diu,more_than_40_percent_missing_major_impact_variable,100.0,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 100.0, 'injury_missing_percent': 100.0}"
+state,East Rajasthan,fewer_than_15_years_represented,1,Diagnostic flag only; not an exclusion rule.
+state,East Rajasthan,fewer_than_20_recorded_events,1,Diagnostic flag only; not an exclusion rule.
+state,East Rajasthan,more_than_40_percent_missing_major_impact_variable,100.0,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 100.0, 'injury_missing_percent': 100.0}"
+state,Goa,fewer_than_15_years_represented,13,Diagnostic flag only; not an exclusion rule.
+state,Goa,more_than_40_percent_missing_major_impact_variable,94.11764705882354,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 73.52941176470588, 'injury_missing_percent': 94.11764705882354}"
+state,Gujarat,more_than_40_percent_missing_major_impact_variable,88.82352941176471,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 38.23529411764706, 'injury_missing_percent': 88.82352941176471}"
+state,Haryana,more_than_40_percent_missing_major_impact_variable,79.34782608695653,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 53.26086956521739, 'injury_missing_percent': 79.34782608695653}"
+state,Himachal Pradesh,more_than_40_percent_missing_major_impact_variable,80.27397260273972,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 44.10958904109589, 'injury_missing_percent': 80.27397260273972}"
+state,Jammu & Kashmir,fewer_than_15_years_represented,7,Diagnostic flag only; not an exclusion rule.
+state,Jammu & Kashmir,more_than_40_percent_missing_major_impact_variable,77.98165137614679,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 37.61467889908256, 'injury_missing_percent': 77.98165137614679}"
+state,Jammu and Kashmir,more_than_40_percent_missing_major_impact_variable,76.97841726618705,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 35.97122302158273, 'injury_missing_percent': 76.97841726618705}"
+state,Jharkhand,fewer_than_15_years_represented,14,Diagnostic flag only; not an exclusion rule.
+state,Jharkhand,more_than_40_percent_missing_major_impact_variable,84.21052631578948,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 26.31578947368422, 'injury_missing_percent': 84.21052631578948}"
+state,Karnataka,more_than_40_percent_missing_major_impact_variable,74.08906882591093,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 39.27125506072875, 'injury_missing_percent': 74.08906882591093}"
+state,Kerala,more_than_40_percent_missing_major_impact_variable,80.09868421052632,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 57.07236842105263, 'injury_missing_percent': 80.09868421052632}"
+state,Ladakh,fewer_than_15_years_represented,1,Diagnostic flag only; not an exclusion rule.
+state,Ladakh,fewer_than_20_recorded_events,1,Diagnostic flag only; not an exclusion rule.
+state,Ladakh,more_than_40_percent_missing_major_impact_variable,100.0,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 0.0, 'injury_missing_percent': 100.0}"
+state,Madhya Pradesh,more_than_40_percent_missing_major_impact_variable,88.88888888888889,"{'duration_missing_percent': 4.074074074074076, 'fatality_missing_percent': 49.62962962962963, 'injury_missing_percent': 88.88888888888889}"
+state,Madras,fewer_than_15_years_represented,1,Diagnostic flag only; not an exclusion rule.
+state,Madras,fewer_than_20_recorded_events,1,Diagnostic flag only; not an exclusion rule.
+state,Madras,more_than_40_percent_missing_major_impact_variable,100.0,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 100.0, 'injury_missing_percent': 100.0}"
+state,Maharashtra,more_than_40_percent_missing_major_impact_variable,78.54330708661418,"{'duration_missing_percent': 0.09842519685039974, 'fatality_missing_percent': 43.503937007874015, 'injury_missing_percent': 78.54330708661418}"
+state,Manipur,more_than_40_percent_missing_major_impact_variable,90.9090909090909,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 72.72727272727273, 'injury_missing_percent': 90.9090909090909}"
+state,Meghalaya,more_than_40_percent_missing_major_impact_variable,80.70175438596492,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 43.85964912280702, 'injury_missing_percent': 80.70175438596492}"
+state,Mizoram,more_than_40_percent_missing_major_impact_variable,74.07407407407408,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 29.629629629629633, 'injury_missing_percent': 74.07407407407408}"
+state,Nagaland,fewer_than_15_years_represented,12,Diagnostic flag only; not an exclusion rule.
+state,Nagaland,fewer_than_20_recorded_events,18,Diagnostic flag only; not an exclusion rule.
+state,Nagaland,more_than_40_percent_missing_major_impact_variable,94.44444444444444,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 61.11111111111111, 'injury_missing_percent': 94.44444444444444}"
+state,New Delhi,fewer_than_15_years_represented,1,Diagnostic flag only; not an exclusion rule.
+state,New Delhi,fewer_than_20_recorded_events,1,Diagnostic flag only; not an exclusion rule.
+state,New Delhi,more_than_40_percent_missing_major_impact_variable,100.0,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 0.0, 'injury_missing_percent': 100.0}"
+state,Odisha,more_than_40_percent_missing_major_impact_variable,92.99363057324841,"{'duration_missing_percent': 4.458598726114644, 'fatality_missing_percent': 35.6687898089172, 'injury_missing_percent': 92.99363057324841}"
+state,Parts of Maharashtra,fewer_than_15_years_represented,1,Diagnostic flag only; not an exclusion rule.
+state,Parts of Maharashtra,fewer_than_20_recorded_events,1,Diagnostic flag only; not an exclusion rule.
+state,Parts of Maharashtra,more_than_40_percent_missing_major_impact_variable,100.0,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 100.0, 'injury_missing_percent': 100.0}"
+state,Puducherry,fewer_than_15_years_represented,6,Diagnostic flag only; not an exclusion rule.
+state,Puducherry,fewer_than_20_recorded_events,6,Diagnostic flag only; not an exclusion rule.
+state,Puducherry,more_than_40_percent_missing_major_impact_variable,100.0,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 50.0, 'injury_missing_percent': 100.0}"
+state,Punjab,more_than_40_percent_missing_major_impact_variable,84.0,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 55.42857142857143, 'injury_missing_percent': 84.0}"
+state,Rajasthan,more_than_40_percent_missing_major_impact_variable,84.46969696969697,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 25.75757575757575, 'injury_missing_percent': 84.46969696969697}"
+state,Sikkim,more_than_40_percent_missing_major_impact_variable,84.375,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 50.0, 'injury_missing_percent': 84.375}"
+state,Tamil Nadu,more_than_40_percent_missing_major_impact_variable,88.82978723404256,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 31.914893617021278, 'injury_missing_percent': 88.82978723404256}"
+state,Telangana,fewer_than_15_years_represented,14,Diagnostic flag only; not an exclusion rule.
+state,Telangana,more_than_40_percent_missing_major_impact_variable,96.66666666666667,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 73.33333333333333, 'injury_missing_percent': 96.66666666666667}"
+state,Tripura,more_than_40_percent_missing_major_impact_variable,83.33333333333334,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 43.75, 'injury_missing_percent': 83.33333333333334}"
+state,Uttar Pradesh,more_than_40_percent_missing_major_impact_variable,86.52631578947368,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 17.684210526315795, 'injury_missing_percent': 86.52631578947368}"
+state,Uttar pradesh,fewer_than_15_years_represented,1,Diagnostic flag only; not an exclusion rule.
+state,Uttar pradesh,fewer_than_20_recorded_events,1,Diagnostic flag only; not an exclusion rule.
+state,Uttar pradesh,more_than_40_percent_missing_major_impact_variable,100.0,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 100.0, 'injury_missing_percent': 100.0}"
+state,Uttarakhand,more_than_40_percent_missing_major_impact_variable,76.03305785123968,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 21.487603305785115, 'injury_missing_percent': 76.03305785123968}"
+state,West Bengal,more_than_40_percent_missing_major_impact_variable,84.88372093023256,"{'duration_missing_percent': 0.0, 'fatality_missing_percent': 49.127906976744185, 'injury_missing_percent': 84.88372093023256}"
+window,,window_event_component_completeness_below_80_percent,10.498687664041995,Window 1967-1985; diagnostic flag only.
+window,,window_event_component_completeness_below_80_percent,12.347560975609756,Window 1986-2004; diagnostic flag only.
+window,,window_event_component_completeness_below_80_percent,9.573436742607852,Window 2005-2023; diagnostic flag only.

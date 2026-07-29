@@ -1,0 +1,14 @@
+district_review_key,Dist_Name_impact,DFSI_Dist_Name,State_Name,component_flood_events,component_mean_flood_duration,component_fatalities,component_injured,component_flooded_area,component_population,dfsi_published,flood_events_missing_from_inventory,lgd_codes_seen,lgd_code_count
+daman,Daman,Daman,DAMAN & DIU,0.0,,0.0,0.0,1.544538442,190125.0,5.2337505446842085,True,,
+diu,Diu,Diu,DAMAN & DIU,0.0,,0.0,0.0,0.819836479,67412.0,4.269141538160504,True,,
+nicobars,Nicobars,Nicobars,ANDAMAN & NICOBAR,0.0,,0.0,0.0,0.090612489,27340.0,4.664727108280096,True,,
+dakshin bastar dantewada,Dakshin Bastar Dantewada,Dakshin Bastar Dantewada,CHHATTISGARH,2.0,,0.0,0.0,1.67319932,332104.0,7.263513106542463,False,376,1.0
+kondagaon,Kondagaon,Kondagaon,CHHATTISGARH,0.0,,0.0,0.0,1.078482579,656011.0,7.560307969081454,True,,
+gariaband,Gariaband,Gariaband,CHHATTISGARH,0.0,,0.0,0.0,0.505735659,777859.0,7.285327069503,True,,
+surajpur,Surajpur,Surajpur,CHHATTISGARH,0.0,,0.0,0.0,1.22005953,917283.0,7.792234030913422,True,,
+east,East ,East,DELHI,19.0,,0.0,0.0,0.1,1368632.0,,False,505,1.0
+lakshadweep,Lakshadweep,Lakshadweep,LAKSHADWEEP,0.0,,0.0,0.0,4.0,60324.0,4.858476899467763,True,,
+almora,"Almora
+","Almora
+",UTTARAKHAND,20.0,,0.0,0.0,0.648573243,618943.0,7.102979287602845,False,45,1.0
+jhargram,Jhargram,Jhargram,WEST BENGAL,0.0,,0.0,0.0,1.774765393,1247343.0,7.851960065827975,True,,

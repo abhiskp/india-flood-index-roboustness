@@ -1,0 +1,7 @@
+blocker_type,affected_records,details
+missing_lgd_codes_in_summary_sources,2208,"District_FloodImpact.csv, District_FloodedArea.csv, and DFSI.csv do not contain LGD district/state codes, preventing a fully identifier-based join."
+repeated_district_names,6,Some district names repeat across source files and cannot be safely joined by district name alone without state or LGD identifiers.
+unmatched_join_keys,323,Some district keys do not appear in every source needed for the reproduction or do not match any parsed flood event.
+missing_numeric_components,11,Rows with missing numeric components are preserved as missing and are not imputed.
+event_inventory_parse_issues,59,Some event rows have missing district lists or district/code count mismatches after parsing comma-separated fields.
+state_not_assignable_to_exploded_event_districts,6876,The event inventory state field may list multiple states per event and is not positionally aligned to each exploded district entry.

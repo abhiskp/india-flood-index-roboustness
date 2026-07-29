@@ -1,0 +1,727 @@
+dataset,file_name,district_column,state_column,district_name,state_name,district_review_key,state_review_key,row_count,audit_note
+District_FloodedArea,District_FloodedArea.csv,Dist_Name,,Aurangabad,,aurangabad,,2,Repeated district name; no state-like column available in this dataset
+District_FloodedArea,District_FloodedArea.csv,Dist_Name,,Balrampur,,balrampur,,2,Repeated district name; no state-like column available in this dataset
+District_FloodedArea,District_FloodedArea.csv,Dist_Name,,Bilaspur,,bilaspur,,2,Repeated district name; no state-like column available in this dataset
+District_FloodedArea,District_FloodedArea.csv,Dist_Name,,Hamirpur,,hamirpur,,2,Repeated district name; no state-like column available in this dataset
+District_FloodedArea,District_FloodedArea.csv,Dist_Name,,Pratapgarh,,pratapgarh,,2,Repeated district name; no state-like column available in this dataset
+District_FloodedArea,District_FloodedArea.csv,Dist_Name,,Raigarh,,raigarh,,2,Repeated district name; no state-like column available in this dataset
+District_FloodImpact,District_FloodImpact.csv,Dist_Name,,Aurangabad,,aurangabad,,2,Repeated district name; no state-like column available in this dataset
+District_FloodImpact,District_FloodImpact.csv,Dist_Name,,Balrampur,,balrampur,,2,Repeated district name; no state-like column available in this dataset
+District_FloodImpact,District_FloodImpact.csv,Dist_Name,,Bilaspur,,bilaspur,,2,Repeated district name; no state-like column available in this dataset
+District_FloodImpact,District_FloodImpact.csv,Dist_Name,,Hamirpur,,hamirpur,,2,Repeated district name; no state-like column available in this dataset
+District_FloodImpact,District_FloodImpact.csv,Dist_Name,,Pratapgarh,,pratapgarh,,2,Repeated district name; no state-like column available in this dataset
+District_FloodImpact,District_FloodImpact.csv,Dist_Name,,Raigarh,,raigarh,,2,Repeated district name; no state-like column available in this dataset
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mumbai,Maharashtra,mumbai,maharashtra,88,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Thiruvananthapuram,Kerala,thiruvananthapuram,kerala,85,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Pune,Maharashtra,pune,maharashtra,66,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Nagpur,Maharashtra,nagpur,maharashtra,61,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Wayanad,Kerala,wayanad,kerala,50,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kolkata,West Bengal,kolkata,west bengal,41,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Thane,Maharashtra,thane,maharashtra,41,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Nashik,Maharashtra,nashik,maharashtra,40,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bengaluru Rural,Karnataka,bengaluru rural,karnataka,38,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Darjeeling,West Bengal,darjeeling,west bengal,35,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Lakhimpur,Assam,lakhimpur,assam,34,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Shimla,Himachal Pradesh,shimla,himachal pradesh,34,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Baksa,Assam,baksa,assam,33,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kullu,Himachal Pradesh,kullu,himachal pradesh,32,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Nagaon,Assam,nagaon,assam,32,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Purba Medinipur,West Bengal,purba medinipur,west bengal,32,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kamrup,Assam,kamrup,assam,31,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Cachar,Assam,cachar,assam,30,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dhemaji,Assam,dhemaji,assam,28,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Idukki,Kerala,idukki,kerala,26,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kozhikode,Kerala,kozhikode,kerala,26,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kangra,Himachal Pradesh,kangra,himachal pradesh,24,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Washim,Maharashtra,washim,maharashtra,24,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Amravati,Maharashtra,amravati,maharashtra,23,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Lahul And Spiti, Chamba, Kangra, Kullu, Mandi, Kinnaur, Una, Shimla, Solan, Sirmaur, Hamirpur, Bilaspur",Himachal Pradesh,"lahul and spiti, chamba, kangra, kullu, mandi, kinnaur, una, shimla, solan, sirmaur, hamirpur, bilaspur",himachal pradesh,23,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mandi,Himachal Pradesh,mandi,himachal pradesh,23,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Gangtok,Sikkim,gangtok,sikkim,22,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kannur,Kerala,kannur,kerala,22,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kottayam,Kerala,kottayam,kerala,22,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bengaluru Urban,Karnataka,bengaluru urban,karnataka,21,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dakshina Kannada,Karnataka,dakshina kannada,karnataka,21,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ratnagiri,Maharashtra,ratnagiri,maharashtra,21,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Barpeta,Assam,barpeta,assam,20,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sonitpur,Assam,sonitpur,assam,20,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Belagavi,Karnataka,belagavi,karnataka,19,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Chamba,Himachal Pradesh,chamba,himachal pradesh,19,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Uttar Kashia Kannada,Karnataka,uttar kashia kannada,karnataka,19,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Akola,Maharashtra,akola,maharashtra,18,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Darrang,Assam,darrang,assam,18,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Gurdaspur, Hoshiarpur, Amritsar, Jalandhar, Tarn Taran, Rupnagar, Shahid Bhagat Singh Nagar, Fazilka, Moga, Ludhiana, S.A.S Nagar*, Faridkot, Fatehgarh Sahib, Sri Sri Muktsar Sahib Sahib, Sangrur, Barnala, Bathinda, Patiala, Mansa, Ferozepur, Pathankot, Kapurthala",Punjab,"gurdaspur, hoshiarpur, amritsar, jalandhar, tarn taran, rupnagar, shahid bhagat singh nagar, fazilka, moga, ludhiana, s.a.s nagar*, faridkot, fatehgarh sahib, sri sri muktsar sahib sahib, sangrur, barnala, bathinda, patiala, mansa, ferozepur, pathankot, kapurthala",punjab,18,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Itanagar,Arunachal Pradesh,itanagar,arunachal pradesh,18,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kollam,Kerala,kollam,kerala,18,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Nanded,Maharashtra,nanded,maharashtra,18,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"North Tripura, Dhalai, Sepahijala, Gomati, Khowai, West Tripura, South Tripura, Unakoti",Tripura,"north tripura, dhalai, sepahijala, gomati, khowai, west tripura, south tripura, unakoti",tripura,18,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Wardha,Maharashtra,wardha,maharashtra,18,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Chennai,Tamil Nadu,chennai,tamil nadu,17,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ernakulam,Kerala,ernakulam,kerala,17,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Gadchiroli,Maharashtra,gadchiroli,maharashtra,17,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bhopal,Madhya Pradesh,bhopal,madhya pradesh,16,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Hamirpur,Himachal Pradesh,hamirpur,himachal pradesh,16,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jaipur,Rajasthan,jaipur,rajasthan,16,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Malappuram,Kerala,malappuram,kerala,16,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Marigaon,Assam,marigaon,assam,16,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Tinsukia, Dhemaji, Dibrugarh, Lakhimpur, Sivasagar, Jorhat, Sonitpur, Golaghat, Udalguri, Chirang, Baksa, Nagaon, Kokrajhar, Darrang, Barpeta, Nalbari, Marigaon, Kamrup, Bongaigaon, Dhubri, Kamrup Metro, Goalpara, Dima Hasao, Cachar, Karimganj, Hailakandi, Charaideo, Majuli, Biswanath, Hojai, South Salmara Mancachar, Karbi Anglong, West Karbi Anglong",Assam,"tinsukia, dhemaji, dibrugarh, lakhimpur, sivasagar, jorhat, sonitpur, golaghat, udalguri, chirang, baksa, nagaon, kokrajhar, darrang, barpeta, nalbari, marigaon, kamrup, bongaigaon, dhubri, kamrup metro, goalpara, dima hasao, cachar, karimganj, hailakandi, charaideo, majuli, biswanath, hojai, south salmara mancachar, karbi anglong, west karbi anglong",assam,16,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Alappuzha,Kerala,alappuzha,kerala,15,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dharwad,Karnataka,dharwad,karnataka,15,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dibrugarh,Assam,dibrugarh,assam,15,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jammu,Jammu and Kashmir,jammu,jammu and kashmir,15,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kolhapur,Maharashtra,kolhapur,maharashtra,15,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Nalbari,Assam,nalbari,assam,15,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Satara,Maharashtra,satara,maharashtra,15,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Solan,Himachal Pradesh,solan,himachal pradesh,15,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Yavatmal,Maharashtra,yavatmal,maharashtra,15,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mysuru,Karnataka,mysuru,karnataka,14,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"North, North East, West, East, South West, Central, New New Delhi, South, Shahdara, South East, North West",Delhi,"north, north east, west, east, south west, central, new new delhi, south, shahdara, south east, north west",delhi,14,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Pashchim Champaran, Purbi Champaran, Sitamarhi, Sheohar, Gopalganj, Samastipur, Katihar, Khagaria, Bhojpur, Buxar, Darbhanga, Saharsa, Kaimur (Bhabua), Rohtas, Jamui, Banka, Nawada, Gaya, Munger, Vaishali, Begusarai, Bhagalpur, Lakhisarai, Sheikhpura, Arwal, Jehanabad, Nalanda, Patna, Saran, Siwan, Muzaffarpur, Madhepura, Araria, Supaul, Madhubani, Purnia, Kishanganj, Aurangabad",Bihar,"pashchim champaran, purbi champaran, sitamarhi, sheohar, gopalganj, samastipur, katihar, khagaria, bhojpur, buxar, darbhanga, saharsa, kaimur (bhabua), rohtas, jamui, banka, nawada, gaya, munger, vaishali, begusarai, bhagalpur, lakhisarai, sheikhpura, arwal, jehanabad, nalanda, patna, saran, siwan, muzaffarpur, madhepura, araria, supaul, madhubani, purnia, kishanganj, aurangabad",bihar,14,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Patiala,Punjab,patiala,punjab,14,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,South Goa,Goa,south goa,goa,14,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Wayanad ,Kerala,wayanad,kerala,14,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ahmednagar,Maharashtra,ahmednagar,maharashtra,13,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Aizawl,Mizoram,aizawl,mizoram,13,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bhandara,Maharashtra,bhandara,maharashtra,13,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Buldhana,Maharashtra,buldhana,maharashtra,13,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Chamoli,Uttarakhand,chamoli,uttarakhand,13,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Chandigarh,Punjab,chandigarh,punjab,13,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kinnaur,Himachal Pradesh,kinnaur,himachal pradesh,13,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Raigarh,Maharashtra,raigarh,maharashtra,13,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sindhudurg,Maharashtra,sindhudurg,maharashtra,13,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sirmaur,Himachal Pradesh,sirmaur,himachal pradesh,13,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Thrissur,Kerala,thrissur,kerala,13,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Upper Lower Subansiri, Anjaw, Changlang, Tawang, Papum Pare, Tirap, East Siang, Lohit, Kurung Kumey, Lower Lower Subansiri, East Kameng, West Kameng, West Kameng, West Kameng, Kra Daadi, Namsai, Longding, Upper Siang, Lower Siang, Dibang Valley, Lower Dibang Valley, Siang, Shi Yomi, Pakke Kessang, West Siang, Leparada, Kamle",Arunachal Pradesh,"upper lower subansiri, anjaw, changlang, tawang, papum pare, tirap, east siang, lohit, kurung kumey, lower lower subansiri, east kameng, west kameng, west kameng, west kameng, kra daadi, namsai, longding, upper siang, lower siang, dibang valley, lower dibang valley, siang, shi yomi, pakke kessang, west siang, leparada, kamle",arunachal pradesh,13,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dhemaji ,Assam,dhemaji,assam,12,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Goalpara,Assam,goalpara,assam,12,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Golaghat,Assam,golaghat,assam,12,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jalgaon,Maharashtra,jalgaon,maharashtra,12,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Palghar,Maharashtra,palghar,maharashtra,12,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Rudra Prayag,Uttarakhand,rudra prayag,uttarakhand,12,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,South 24 Parganas,West Bengal,south 24 parganas,west bengal,12,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Udaipur,Rajasthan,udaipur,rajasthan,12,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Barpeta ,Assam,barpeta,assam,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Chandrapur,Maharashtra,chandrapur,maharashtra,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dhubri,Assam,dhubri,assam,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dibrugarh ,Assam,dibrugarh,assam,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Hyderabad,Telangana,hyderabad,telangana,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Karimganj,Assam,karimganj,assam,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kasaragod,Kerala,kasaragod,kerala,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kodagu,Karnataka,kodagu,karnataka,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kota,Rajasthan,kota,rajasthan,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kupwara, Bandipora, Baramulla, Ganderbal, Anantnag, Kishtwar, Srinagar, Budgam, Pulwama, Poonch, Shopian, Kulgam, Rajouri, Ramban, Reasi, Doda, Jammu, Kathua, Udhampur, Samba, Muzaffarabad, Mirpur",Jammu and Kashmir,"kupwara, bandipora, baramulla, ganderbal, anantnag, kishtwar, srinagar, budgam, pulwama, poonch, shopian, kulgam, rajouri, ramban, reasi, doda, jammu, kathua, udhampur, samba, muzaffarabad, mirpur",jammu and kashmir,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Lohit,Arunachal Pradesh,lohit,arunachal pradesh,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,New New Delhi,Delhi,new new delhi,delhi,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Nizamabad,Telangana,nizamabad,telangana,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Palakkad,Kerala,palakkad,kerala,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Valsad, Amreli, Dangs, Banas Kantha, Patan, Mahesana, Gandhinagar, Ahmedabad, Panch Mahals, Dahod, Vadodara, Bharuch, Porbandar, Narmada, Surat, Tapi, Arvalli, Botad, Chota Udaipur, Mahisagar, Gir Somnath, Sabar Kantha, Kachchh, Surendranagar, Rajkot, Kheda, Anand, Bhavnagar, Junagadh, Jamnagar, Devbhumi Dwarka Dwarka, Morbi, Navsari",Gujarat,"valsad, amreli, dangs, banas kantha, patan, mahesana, gandhinagar, ahmedabad, panch mahals, dahod, vadodara, bharuch, porbandar, narmada, surat, tapi, arvalli, botad, chota udaipur, mahisagar, gir somnath, sabar kantha, kachchh, surendranagar, rajkot, kheda, anand, bhavnagar, junagadh, jamnagar, devbhumi dwarka dwarka, morbi, navsari",gujarat,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,West Tripura,Tripura,west tripura,tripura,11,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Baleshwar,Odisha,baleshwar,odisha,10,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Bhadrak, Dhenkanal, Jajapur, Subarnapur, Nuapada, Balangir, Boudh, Cuttack, Kandhamal, Nayagarh, Khordha, Kalahandi, Jagatsinghapur, Puri, Nagpur, Rayagada, Koraput, Malkangiri, Anugul, Kendrapara, Ganjam, Gajapati, Mayurbhanj, Sundargarh, Kendujhar, Baleshwar, Jharsuguda, Bargarh, Deogarh, Sambalpur",Odisha,"bhadrak, dhenkanal, jajapur, subarnapur, nuapada, balangir, boudh, cuttack, kandhamal, nayagarh, khordha, kalahandi, jagatsinghapur, puri, nagpur, rayagada, koraput, malkangiri, anugul, kendrapara, ganjam, gajapati, mayurbhanj, sundargarh, kendujhar, baleshwar, jharsuguda, bargarh, deogarh, sambalpur",odisha,10,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Chikkaballapura,Karnataka,chikkaballapura,karnataka,10,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Coimbatore,Tamil Nadu,coimbatore,tamil nadu,10,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Cuttack,Odisha,cuttack,odisha,10,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Darrang ,Assam,darrang,assam,10,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Karimnagar,Telangana,karimnagar,telangana,10,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Murshidabad,West Bengal,murshidabad,west bengal,10,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,North Goa,Goa,north goa,goa,10,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Pathanamthitta,Kerala,pathanamthitta,kerala,10,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Rajouri,Jammu & Kashmir,rajouri,jammu & kashmir,10,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sitapur,Uttar Pradesh,sitapur,uttar pradesh,10,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Warangal, Warangal, Warangal, Warangal",Telangana,"warangal, warangal, warangal, warangal",telangana,10,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Amritsar,Punjab,amritsar,punjab,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Aurangabad,Maharashtra,aurangabad,maharashtra,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bathinda,Punjab,bathinda,punjab,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Cachar ,Assam,cachar,assam,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dima Hasao,Assam,dima hasao,assam,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,East Khasi Hills,Meghalaya,east khasi hills,meghalaya,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Golaghat ,Assam,golaghat,assam,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Gondia,Maharashtra,gondia,maharashtra,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Gurdaspur,Punjab,gurdaspur,punjab,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kamrup Metro,Assam,kamrup metro,assam,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kamrup Metro ,Assam,kamrup metro,assam,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Latur,Maharashtra,latur,maharashtra,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mahabubnagar,Telangana,mahabubnagar,telangana,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Malda,West Bengal,malda,west bengal,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Mumbai,Thane",Maharashtra,"mumbai,thane",maharashtra,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,New Delhi,Delhi,new delhi,delhi,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Patna,Bihar,patna,bihar,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Poonch,Jammu & Kashmir,poonch,jammu & kashmir,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Raichur,Karnataka,raichur,karnataka,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ramban,Jammu & Kashmir,ramban,jammu & kashmir,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ranga Reddy,Telangana,ranga reddy,telangana,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Solapur,Maharashtra,solapur,maharashtra,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Tawang,Arunachal Pradesh,tawang,arunachal pradesh,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,West Garo Hills,Meghalaya,west garo hills,meghalaya,9,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State, Kalaburagi,Karnataka,kalaburagi,karnataka,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ajmer,Rajasthan,ajmer,rajasthan,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Alwar,Rajasthan,alwar,rajasthan,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Amroha, Hapur, Bareilly, Pilibhit, Bulandshahr, Gautam Buddha Nagar, Kheri, Budaun, Bahraich, Shahjahanpur, Aligarh, Kasganj, Mathura, SShrawasti, Sitapur, Hathras, Etah, Hardoi, Farrukhabad, Firozabad, Siddharthnagar, Mainpuri, Mahrajganj, Agra, Gonda, Bara Banki, Kushinagar, Kannauj, Lucknow, Basti, Gorakhpur, Sant Kabir Nagar, Unnao, Etawah, Kanpur nagar Nagar, Auraiya, Ayodhya, Kanpur nagar Dehat, Deoria, Sultanpur, Ambedkar Nagar, Rae Bareli, Jalaun, Azamgarh, Mau, Fatehpur, Ballia, Jaunpur, Jhansi, Banda, Ghazipurr, Kaushambi, Prayagraj, Varanasi, Chitrakoot, Chandauli, Bhadohi, Mirzapur, Lalitpur, Sonbhadra, Amethi, Ghaziabad, Sambhal, Mahoba, Saharanpur, Bijnor, Muzaffarnagar, Baghpat, Meerut, Moradabad, Rampur, Shamli, Balrampur, Hamirpur, Pratapgarh",Uttar Pradesh,"amroha, hapur, bareilly, pilibhit, bulandshahr, gautam buddha nagar, kheri, budaun, bahraich, shahjahanpur, aligarh, kasganj, mathura, sshrawasti, sitapur, hathras, etah, hardoi, farrukhabad, firozabad, siddharthnagar, mainpuri, mahrajganj, agra, gonda, bara banki, kushinagar, kannauj, lucknow, basti, gorakhpur, sant kabir nagar, unnao, etawah, kanpur nagar nagar, auraiya, ayodhya, kanpur nagar dehat, deoria, sultanpur, ambedkar nagar, rae bareli, jalaun, azamgarh, mau, fatehpur, ballia, jaunpur, jhansi, banda, ghazipurr, kaushambi, prayagraj, varanasi, chitrakoot, chandauli, bhadohi, mirzapur, lalitpur, sonbhadra, amethi, ghaziabad, sambhal, mahoba, saharanpur, bijnor, muzaffarnagar, baghpat, meerut, moradabad, rampur, shamli, balrampur, hamirpur, pratapgarh",uttar pradesh,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bikaner,Rajasthan,bikaner,rajasthan,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Biswanath,Assam,biswanath,assam,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Chirang ,Assam,chirang,assam,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dehradun,Uttarakhand,dehradun,uttarakhand,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ganganagar,Rajasthan,ganganagar,rajasthan,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Garhwal,Uttarakhand,garhwal,uttarakhand,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Gyalshing,Sikkim,gyalshing,sikkim,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Hojai,Assam,hojai,assam,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Hyderabad,Andhra Pradesh,hyderabad,andhra pradesh,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jalpaiguri,West Bengal,jalpaiguri,west bengal,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Jhajjar, Gurugram, Faridabad, Mahendragarh, Rewari, Nuh, Palwal, Charki Dadri, Yamunanagar, Kurukshetra, Kaithal, Sirsa, Karnal, Jind, Fatehabad, Hisar, Panipat, Sonipat, Bhiwani, Rohtak, Panchkula, Ambala",Haryana,"jhajjar, gurugram, faridabad, mahendragarh, rewari, nuh, palwal, charki dadri, yamunanagar, kurukshetra, kaithal, sirsa, karnal, jind, fatehabad, hisar, panipat, sonipat, bhiwani, rohtak, panchkula, ambala",haryana,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jodhpur,Rajasthan,jodhpur,rajasthan,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jorhat,Assam,jorhat,assam,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kamrup ,Assam,kamrup,assam,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kishtwar,Jammu & Kashmir,kishtwar,jammu & kashmir,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kolar,Karnataka,kolar,karnataka,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kurung Kumey,Arunachal Pradesh,kurung kumey,arunachal pradesh,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Mangan, Gyalshing, Namchi, Gangtok",Sikkim,"mangan, gyalshing, namchi, gangtok",sikkim,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mumbai Suburban,Maharashtra,mumbai suburban,maharashtra,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Muzaffarnagar,Uttar Pradesh,muzaffarnagar,uttar pradesh,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Nagaon ,Assam,nagaon,assam,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Nagpur ,Maharashtra,nagpur,maharashtra,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Nalbari ,Assam,nalbari,assam,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Poonch,Jammu and Kashmir,poonch,jammu and kashmir,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Pune ,Maharashtra,pune,maharashtra,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Rupnagar,Punjab,rupnagar,punjab,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sivasagar ,Assam,sivasagar,assam,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Tehri Garhwal,Uttarakhand,tehri garhwal,uttarakhand,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Thiruvananthapuram ,Kerala,thiruvananthapuram,kerala,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Udalguri,Assam,udalguri,assam,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Vellore,Tamil Nadu,vellore,tamil nadu,8,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State, Sri Potti Sriramulu Nellore,Andhra Pradesh,sri potti sriramulu nellore,andhra pradesh,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Amreli,  Ahmedabad,Porbandar,  Botad, Gir Somnath, Surendranagar, Rajkot, Bhavnagar, Junagadh, Jamnagar, Devbhumi Dwarka Dwarka, Morbi",Gujarat,"amreli, ahmedabad,porbandar, botad, gir somnath, surendranagar, rajkot, bhavnagar, junagadh, jamnagar, devbhumi dwarka dwarka, morbi",gujarat,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Anantnag,Jammu and Kashmir,anantnag,jammu and kashmir,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Banswara,Rajasthan,banswara,rajasthan,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bara Banki,Uttar Pradesh,bara banki,uttar pradesh,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Biswanath ,Assam,biswanath,assam,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dakshin Dinajpur,West Bengal,dakshin dinajpur,west bengal,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Doda,Jammu & Kashmir,doda,jammu & kashmir,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Fatehpur ,Uttar Pradesh,fatehpur,uttar pradesh,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Hailakandi,Assam,hailakandi,assam,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Indore,Madhya Pradesh,indore,madhya pradesh,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jabalpur,Madhya Pradesh,jabalpur,madhya pradesh,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kasaragod, Wayanad, Kozhikode, Malappuram, Palakkad, Thrissur, Idukki, Ernakulam, Alappuzha, Kottayam, Pathanamthitta, Kollam, Thiruvananthapuram, Kannur",Kerala,"kasaragod, wayanad, kozhikode, malappuram, palakkad, thrissur, idukki, ernakulam, alappuzha, kottayam, pathanamthitta, kollam, thiruvananthapuram, kannur",kerala,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kokrajhar,Assam,kokrajhar,assam,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Lahul And Spiti,Himachal Pradesh,lahul and spiti,himachal pradesh,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mangan,Sikkim,mangan,sikkim,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Medak,Telangana,medak,telangana,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Nagpur, Washim",Maharashtra,"nagpur, washim",maharashtra,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Namchi,Sikkim,namchi,sikkim,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,North 24 Parganas,West Bengal,north 24 parganas,west bengal,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Papum Pare,Arunachal Pradesh,papum pare,arunachal pradesh,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Parbhani,Maharashtra,parbhani,maharashtra,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Pithoragarh,Uttarakhand,pithoragarh,uttarakhand,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Pulwama,Jammu & Kashmir,pulwama,jammu & kashmir,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Raipur,Chhattisgarh,raipur,chhattisgarh,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sambalpur,Odisha,sambalpur,odisha,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sangareddy,Telangana,sangareddy,telangana,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sivasagar,Assam,sivasagar,assam,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Surat,Gujarat,surat,gujarat,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Thiruvallur, Chennai, Krishnagiri, Tiruvannamalai, Dharmapuri, Salem, Erode, The Nilgiris, Namakkal, Perambalur, Coimbatore, Tiruchirappalli, Ariyalur, Tiruppur, Thanjavur, Karur, Thiruvarur, Dindigul, Madurai, Theni, Virudhunagar, Thoothukkudi, Kanniyakumariumari, Viluppuram, Cuddalore, Pudukkottai, Sivaganga, Ramanathapuram, Nagapattinam, Kallakurichi, Tenkasi, Tirunelveli, Vellore, Ranipet, Tirupathur, Kancheepuram, Chengalpattu",Tamil Nadu,"thiruvallur, chennai, krishnagiri, tiruvannamalai, dharmapuri, salem, erode, the nilgiris, namakkal, perambalur, coimbatore, tiruchirappalli, ariyalur, tiruppur, thanjavur, karur, thiruvarur, dindigul, madurai, theni, virudhunagar, thoothukkudi, kanniyakumariumari, viluppuram, cuddalore, pudukkottai, sivaganga, ramanathapuram, nagapattinam, kallakurichi, tenkasi, tirunelveli, vellore, ranipet, tirupathur, kancheepuram, chengalpattu",tamil nadu,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,,Jammu and Kashmir,,jammu and kashmir,7,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ahmedabad,Gujarat,ahmedabad,gujarat,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Baksa ,Assam,baksa,assam,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Baksa, Baksa, Barpeta, Biswanath, Bongaigaon, Cachar, Chirang, Darrang, Dhemaji, Dhubri, Dibrugarh, Dima Hasao, Goalpara, Golaghat, Hailakandi, Hojai, Kamrup, Kamrup Metro, Karbi Anglong, Karimganj, Kokrajhar, Lakhimpur, Majuli, Marigaon, Nagaon, Nalbari, Sivasagar, Sonitpur, South Salmara Mancachar , Tinsukia, Udalguri",Assam,"baksa, baksa, barpeta, biswanath, bongaigaon, cachar, chirang, darrang, dhemaji, dhubri, dibrugarh, dima hasao, goalpara, golaghat, hailakandi, hojai, kamrup, kamrup metro, karbi anglong, karimganj, kokrajhar, lakhimpur, majuli, marigaon, nagaon, nalbari, sivasagar, sonitpur, south salmara mancachar , tinsukia, udalguri",assam,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ballari,Karnataka,ballari,karnataka,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bareilly,Uttar Pradesh,bareilly,uttar pradesh,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Beed,Maharashtra,beed,maharashtra,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Beedar, Kalaburagi, Belagavi, Yadgir, Bagalkotee, Raichur, Koppal, Gadag, Ballari, Dharwad, Uttar Kashia Kannada, Haveri, Chitradurga, Davangere, Shivamogga, Udupi, Chikkamagaluru, Chikkaballapura, Hassan, Kolar, Bengaluru Rural, Dakshina Kannada, Bengaluru Urban, Kodagu, Chamarajanagaraa, Tumakuru, Ramanagara, Mandya, Mysuru, Vijayapura",Karnataka,"beedar, kalaburagi, belagavi, yadgir, bagalkotee, raichur, koppal, gadag, ballari, dharwad, uttar kashia kannada, haveri, chitradurga, davangere, shivamogga, udupi, chikkamagaluru, chikkaballapura, hassan, kolar, bengaluru rural, dakshina kannada, bengaluru urban, kodagu, chamarajanagaraa, tumakuru, ramanagara, mandya, mysuru, vijayapura",karnataka,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bhadradri Kothagudem,Telangana,bhadradri kothagudem,telangana,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bharatpur,Rajasthan,bharatpur,rajasthan,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bharuch,Gujarat,bharuch,gujarat,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bijapur,Karnataka,bijapur,karnataka,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bilaspur,Himachal Pradesh,bilaspur,himachal pradesh,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Chandigarh,Chandigarh ,chandigarh,chandigarh,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dhar,Madhya Pradesh,dhar,madhya pradesh,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dhubri ,Assam,dhubri,assam,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ferozepur,Punjab,ferozepur,punjab,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ganjam,Odisha,ganjam,odisha,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Gorakhpur,Uttar Pradesh,gorakhpur,uttar pradesh,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Hardoi,Uttar Pradesh,hardoi,uttar pradesh,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Hassan,Karnataka,hassan,karnataka,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Hojai ,Assam,hojai,assam,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Imphal West, Imphal East",Manipur,"imphal west, imphal east",manipur,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jhalawar,Rajasthan,jhalawar,rajasthan,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jorhat ,Assam,jorhat,assam,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kanniyakumariumari,Tamil Nadu,kanniyakumariumari,tamil nadu,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Karbi Anglong,Assam,karbi anglong,assam,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kathua,Jammu & Kashmir,kathua,jammu & kashmir,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Khargone (Khargone (West Nimar)),Madhya Pradesh,khargone (khargone (west nimar)),madhya pradesh,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kohima,Nagaland,kohima,nagaland,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kolasib, Aizawl, Mamit, Champhai, Serchhip, Lunglei, Siaha, Lawngtlai",Mizoram,"kolasib, aizawl, mamit, champhai, serchhip, lunglei, siaha, lawngtlai",mizoram,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Koraput,Odisha,koraput,odisha,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Lakhimpur ,Assam,lakhimpur,assam,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Lucknow,Uttar Pradesh,lucknow,uttar pradesh,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mandya,Karnataka,mandya,karnataka,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Marigaon ,Assam,marigaon,assam,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,North Tripura,Tripura,north tripura,tripura,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ri Bhoi,Meghalaya,ri bhoi,meghalaya,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sangli,Maharashtra,sangli,maharashtra,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Srikakulam,Andhra Pradesh,srikakulam,andhra pradesh,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sultanpur,Uttar Pradesh,sultanpur,uttar pradesh,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,The Nilgiris,Tamil Nadu,the nilgiris,tamil nadu,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Udhampur,Jammu & Kashmir,udhampur,jammu & kashmir,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Una,Himachal Pradesh,una,himachal pradesh,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Uttar Kashi Kashi,Uttarakhand,uttar kashi kashi,uttarakhand,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,West Godavari,Andhra Pradesh,west godavari,andhra pradesh,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"West Kameng, West Kameng",Arunachal Pradesh,"west kameng, west kameng",arunachal pradesh,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,,Assam,,assam,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,,Gujarat,,gujarat,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,,Kerala,,kerala,6,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Almora,Uttarakhand,almora,uttarakhand,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Anantnag,Jammu & Kashmir,anantnag,jammu & kashmir,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Balaghat,Madhya Pradesh,balaghat,madhya pradesh,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Baramulla,Jammu and Kashmir,baramulla,jammu and kashmir,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bongaigaon,Assam,bongaigaon,assam,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bundi,Rajasthan,bundi,rajasthan,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Chhindwara,Madhya Pradesh,chhindwara,madhya pradesh,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Chirang,Assam,chirang,assam,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Cooch Behar,West Bengal,cooch behar,west bengal,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Cooch Behar,Jalpaiguri",West Bengal,"cooch behar,jalpaiguri",west bengal,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dharashiv,Maharashtra,dharashiv,maharashtra,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Dhemaji,Lakhimpur",Assam,"dhemaji,lakhimpur",assam,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,East Uttar Kashi Pradesh,Uttar Pradesh,east uttar kashi pradesh,uttar pradesh,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Farrukhabad,Uttar Pradesh,farrukhabad,uttar pradesh,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Gonda,Uttar Pradesh,gonda,uttar pradesh,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Hoshiarpur,Punjab,hoshiarpur,punjab,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Howrah,West Bengal,howrah,west bengal,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jalandhar,Punjab,jalandhar,punjab,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jalna,Maharashtra,jalna,maharashtra,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Junagadh,Gujarat,junagadh,gujarat,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kapurthala,Punjab,kapurthala,punjab,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kargil,Jammu and Kashmir,kargil,jammu and kashmir,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kendrapara,Odisha,kendrapara,odisha,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kendujhar,Odisha,kendujhar,odisha,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kokrajhar ,Assam,kokrajhar,assam,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kra Daadi,Arunachal Pradesh,kra daadi,arunachal pradesh,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Majuli,Assam,majuli,assam,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Majuli ,Assam,majuli,assam,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Nadia,West Bengal,nadia,west bengal,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Narayanpet,Telangana,narayanpet,telangana,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Rajkot,Gujarat,rajkot,gujarat,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Rewa,Madhya Pradesh,rewa,madhya pradesh,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Seoni,Madhya Pradesh,seoni,madhya pradesh,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Thanjavur,Tamil Nadu,thanjavur,tamil nadu,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Tumakuru,Karnataka,tumakuru,karnataka,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Vidisha,Madhya Pradesh,vidisha,madhya pradesh,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Vikarabad,Telangana,vikarabad,telangana,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,West Khasi Hills,Meghalaya,west khasi hills,meghalaya,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,West Siang,Arunachal Pradesh,west siang,arunachal pradesh,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,,Uttar Pradesh,,uttar pradesh,5,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State," Thiruvallur, Chennai, Krishnagiri, Tiruvannamalai, Dharmapuri, Salem, Erode, The Nilgiris, Namakkal, Perambalur, Coimbatore, Tiruchirappalli, Ariyalur, Tiruppur, Thanjavur, Karur, Thiruvarur, Dindigul, Madurai, Theni, Virudhunagar, Thoothukkudi, Kanniyakumari",Tamil Nadu,"thiruvallur, chennai, krishnagiri, tiruvannamalai, dharmapuri, salem, erode, the nilgiris, namakkal, perambalur, coimbatore, tiruchirappalli, ariyalur, tiruppur, thanjavur, karur, thiruvarur, dindigul, madurai, theni, virudhunagar, thoothukkudi, kanniyakumari",tamil nadu,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State, Thiruvananthapuram,Kerala,thiruvananthapuram,kerala,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ambala,Haryana,ambala,haryana,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Amravati, Akola, Bhandara, Buldhana, Chandrapur, Gadchiroli, Gondia, Nagpur, Wardha, Washim, Yavatmal",Maharashtra,"amravati, akola, bhandara, buldhana, chandrapur, gadchiroli, gondia, nagpur, wardha, washim, yavatmal",maharashtra,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Amravati, Akola, Bhandara, Buldhana, Chandrapur, Gadchiroli, Gondia, Nagpur, Wardha, Washim,Yavatmal",Maharashtra,"amravati, akola, bhandara, buldhana, chandrapur, gadchiroli, gondia, nagpur, wardha, washim,yavatmal",maharashtra,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Amreli, Bharuch,Dangs, Gir Somnath, Junagadh, Kachchh, Navsari, Tapi",Gujarat,"amreli, bharuch,dangs, gir somnath, junagadh, kachchh, navsari, tapi",gujarat,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Baramulla,Jammu & Kashmir,baramulla,jammu & kashmir,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Baran,Rajasthan,baran,rajasthan,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Beedar,Karnataka,beedar,karnataka,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bijapur,Chhattisgarh,bijapur,chhattisgarh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Buldhana, Nagpur, Washim",Maharashtra,"buldhana, nagpur, washim",maharashtra,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Cuddalore,Tamil Nadu,cuddalore,tamil nadu,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Dhemaji,Jorhat",Assam,"dhemaji,jorhat",assam,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dholpur,Rajasthan,dholpur,rajasthan,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dhule,Maharashtra,dhule,maharashtra,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dindori,Madhya Pradesh,dindori,madhya pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Doda,Jammu and Kashmir,doda,jammu and kashmir,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,East Godavari,Andhra Pradesh,east godavari,andhra pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Etawah,Uttar Pradesh,etawah,uttar pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Faridkot,Punjab,faridkot,punjab,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Fatehpur,Uttar Pradesh,fatehpur,uttar pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ghazipurr ,Uttar Pradesh,ghazipurr,uttar pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Goa,Daman and Diu,goa,daman and diu,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Goalpara ,Assam,goalpara,assam,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Gondia, Bhandara, Jalgaon, Wardha, Buldhana, Akola, Nashik, Gadchiroli, Washim, Chandrapur, Yavatmal, Jalna, Ahmednagar, Hingoli, Nanded, Parbhani, Pune, Beed, Mumbai, Latur, Dharashiv, Solapur, Satara, Ratnagiri, Sangli, Kolhapur, Sindhudurg, Thane, Palghar, Nandurbar, Amravati, Dhule, Nagpur, Aurangabad, Raigarh, Mumbai Suburban",Maharashtra,"gondia, bhandara, jalgaon, wardha, buldhana, akola, nashik, gadchiroli, washim, chandrapur, yavatmal, jalna, ahmednagar, hingoli, nanded, parbhani, pune, beed, mumbai, latur, dharashiv, solapur, satara, ratnagiri, sangli, kolhapur, sindhudurg, thane, palghar, nandurbar, amravati, dhule, nagpur, aurangabad, raigarh, mumbai suburban",maharashtra,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Hamirpur ,Uttar Pradesh,hamirpur,uttar pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Hingoli,Maharashtra,hingoli,maharashtra,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Hooghly,West Bengal,hooghly,west bengal,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jayashankar Bhupalapally,Telangana,jayashankar bhupalapally,telangana,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kamjong, Senapati, Tamenglong, Imphal West, Kakching, Bishnupur, Chandel, Churachandpur, Imphal East, Jiribam, Kangpokpi, Thoubal, Tengnoupal, Ukhrul, Noney, Pherzawl",Manipur,"kamjong, senapati, tamenglong, imphal west, kakching, bishnupur, chandel, churachandpur, imphal east, jiribam, kangpokpi, thoubal, tengnoupal, ukhrul, noney, pherzawl",manipur,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kamle,Arunachal Pradesh,kamle,arunachal pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kangra ,Himachal Pradesh,kangra,himachal pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kanpur nagar,Uttar Pradesh,kanpur nagar,uttar pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kanpur nagar Dehat,Uttar Pradesh,kanpur nagar dehat,uttar pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kanpur nagar Dehat ,Uttar Pradesh,kanpur nagar dehat,uttar pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kaushambi ,Uttar Pradesh,kaushambi,uttar pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Khammam,Telangana,khammam,telangana,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Koppal,Karnataka,koppal,karnataka,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kurnool,Andhra Pradesh,kurnool,andhra pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ludhiana,Punjab,ludhiana,punjab,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mandi ,Himachal Pradesh,mandi,himachal pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mayurbhanj,Odisha,mayurbhanj,odisha,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mirzapur,Uttar Pradesh,mirzapur,uttar pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Most of the districts,Gujarat,most of the districts,gujarat,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mumbai ,Maharashtra,mumbai,maharashtra,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"North Goa, South Goa",Goa,"north goa, south goa",goa,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Pali,Rajasthan,pali,rajasthan,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Panchkula,Haryana ,panchkula,haryana,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Parts of Meghalaya,Meghalaya,parts of meghalaya,meghalaya,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Parts of Sikkim,Sikkim,parts of sikkim,sikkim,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Pashchim Champaran, Purbi Champaran, Sitamarhi, Sheohar, Gopalganj, Samastipur, Katihar, Khagaria, Bhojpur, Buxar, Darbhanga, Saharsa, Kaimur (Bhabua), Rohtas, Jamui, Banka, Nawada, Gaya, Munger, Vaishali, Begusarai, Bhagalpur, Lakhisarai, Sheikhpura, Arwal, Jehanabad, Nalanda, Patna, Saran, Siwan, Muzaffarpur, Madhepura, Araria, Supaul, Madhubani, Purnia, Kishanganj, Aurangabad",Bihar ,"pashchim champaran, purbi champaran, sitamarhi, sheohar, gopalganj, samastipur, katihar, khagaria, bhojpur, buxar, darbhanga, saharsa, kaimur (bhabua), rohtas, jamui, banka, nawada, gaya, munger, vaishali, begusarai, bhagalpur, lakhisarai, sheikhpura, arwal, jehanabad, nalanda, patna, saran, siwan, muzaffarpur, madhepura, araria, supaul, madhubani, purnia, kishanganj, aurangabad",bihar,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Pondicherry,Puducherry,pondicherry,puducherry,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Pratapgarh,Rajasthan,pratapgarh,rajasthan,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Prayagraj,Uttar Pradesh,prayagraj,uttar pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Purulia,West Bengal,purulia,west bengal,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Ratnagiri,Sindhudurg",Maharashtra,"ratnagiri,sindhudurg",maharashtra,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Reasi,Jammu & Kashmir,reasi,jammu & kashmir,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Ri Bhoi, West Khasi Hills, East East Jaintia Hills, East Khasi Hills, South Garo Hills, West Garo Hills, East Garo Hills, West East Jaintia Hills, South West Khasi Hills, North Garo Hills, South West Garo Hills",Meghalaya,"ri bhoi, west khasi hills, east east jaintia hills, east khasi hills, south garo hills, west garo hills, east garo hills, west east jaintia hills, south west khasi hills, north garo hills, south west garo hills",meghalaya,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sagar,Madhya Pradesh,sagar,madhya pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sangrur,Punjab,sangrur,punjab,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Shahdol,Madhya Pradesh,shahdol,madhya pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Shahjahanpur,Uttar Pradesh,shahjahanpur,uttar pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sirohi,Rajasthan,sirohi,rajasthan,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sonbhadra,Uttar Pradesh,sonbhadra,uttar pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Srikakulam, Vizianagaram, Visakhapatnam, Krishna, Guntur, East Godavari, Prakasam, Kurnool, Ananthapuramuamu, Sri Potti Sriramulu Nellore, West Godavari, Y.S.R., Chittoor",Andhra Pradesh,"srikakulam, vizianagaram, visakhapatnam, krishna, guntur, east godavari, prakasam, kurnool, ananthapuramuamu, sri potti sriramulu nellore, west godavari, y.s.r., chittoor",andhra pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Thiruvananthapuram,Wayanad",Kerala,"thiruvananthapuram,wayanad",kerala,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Tinsukia,Assam,tinsukia,assam,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Tiruvannamalai,Tamil Nadu,tiruvannamalai,tamil nadu,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Tonk,Rajasthan,tonk,rajasthan,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Udalguri ,Assam,udalguri,assam,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Udupi,Karnataka,udupi,karnataka,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Umaria,Madhya Pradesh,umaria,madhya pradesh,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Vijayapura,Karnataka,vijayapura,karnataka,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,,Maharashtra,,maharashtra,4,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State, Aurangabad,Maharashtra,aurangabad,maharashtra,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State, Kalaburagi ,Karnataka,kalaburagi,karnataka,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State, Shivamogga,Karnataka,shivamogga,karnataka,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State, Tiruchirappalli,Tamil Nadu,tiruchirappalli,tamil nadu,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Alappuzha, Thiruvananthapuram",Kerala,"alappuzha, thiruvananthapuram",kerala,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Amreli,Gujarat,amreli,gujarat,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ananthapuramuamu,Andhra Pradesh,ananthapuramuamu,andhra pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Anantnag ,Jammu and Kashmir,anantnag,jammu and kashmir,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Anjaw,Arunachal Pradesh,anjaw,arunachal pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bagalkote,Karnataka,bagalkote,karnataka,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bageshwar,Uttarakhand,bageshwar,uttarakhand,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Bahraich, Gonda, Basti, Gorakhpur, Deoria, Ballia, Azamgarh, Ayodhya, Sultanpur, Jaunpur, Ghazipurr, Varanasi, Mirzapur, Prayagraj, Pratapgarh ",Uttar Pradesh,"bahraich, gonda, basti, gorakhpur, deoria, ballia, azamgarh, ayodhya, sultanpur, jaunpur, ghazipurr, varanasi, mirzapur, prayagraj, pratapgarh",uttar pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ballari ,Karnataka,ballari,karnataka,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Banda ,Uttar Pradesh,banda,uttar pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bara Banki ,Uttar Pradesh,bara banki,uttar pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Barpeta, Biswanath, Bongaigaon, Chirang, Darrang, Dhemaji, Dhubri, Dibrugarh, Goalpara, Golaghat, Jorhat, Kamrup, Kamrup Metro, Lakhimpur, Majuli, Marigaon, Nagaon, Nalbari, Sivasagar, Sonitpur, South Salmara Mancachar",Assam,"barpeta, biswanath, bongaigaon, chirang, darrang, dhemaji, dhubri, dibrugarh, goalpara, golaghat, jorhat, kamrup, kamrup metro, lakhimpur, majuli, marigaon, nagaon, nalbari, sivasagar, sonitpur, south salmara mancachar",assam,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Barpeta,Bongaigaon",Assam,"barpeta,bongaigaon",assam,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Barwani,Madhya Pradesh,barwani,madhya pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bastar,Chhattisgarh,bastar,chhattisgarh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bastar,Madhya Pradesh,bastar,madhya pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Basti,Uttar Pradesh,basti,uttar pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Bengaluru Rural,Mysuru",Karnataka,"bengaluru rural,mysuru",karnataka,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Betul,Madhya Pradesh,betul,madhya pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bhavnagar,Gujarat,bhavnagar,gujarat,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Bhavnagar, Botad, Gandhinagar, Gir Somnath, Junagadh, Kachchh, Narmada, Patan, Tapi",Gujarat,"bhavnagar, botad, gandhinagar, gir somnath, junagadh, kachchh, narmada, patan, tapi",gujarat,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Bikaner,Jodhpur",Rajasthan,"bikaner,jodhpur",rajasthan,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Budgam,Jammu and Kashmir,budgam,jammu and kashmir,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Burhanpur, Morena, Bhind, Gwalior, Sheopur, Shivpuri, Tikamgarh, Neemuch, Rewa, Satna, Guna, Ashoknagar, Mandsaur, Singrauli, Sidhi, Sagar, Damoh, Shajapur, Vidisha, Rajgarh, Shahdol, Katni, Umaria, Ratlam, Bhopal, Ujjain, Raisen, Sehore, Jabalpur, Dewas, Anuppur, Jhabua, Dindori, Narsimhapur, Dhar, Indore, Mandla, Narmadapuram, Seoni, Alirajpur, Chhindwara, Harda, Khargone (Khargone (West Nimar)), East Nimar, Balaghat, Barwani, Agar-Malwa, Datia, Chhatarpur, Panna, Betul, Niwari",Madhya Pradesh,"burhanpur, morena, bhind, gwalior, sheopur, shivpuri, tikamgarh, neemuch, rewa, satna, guna, ashoknagar, mandsaur, singrauli, sidhi, sagar, damoh, shajapur, vidisha, rajgarh, shahdol, katni, umaria, ratlam, bhopal, ujjain, raisen, sehore, jabalpur, dewas, anuppur, jhabua, dindori, narsimhapur, dhar, indore, mandla, narmadapuram, seoni, alirajpur, chhindwara, harda, khargone (khargone (west nimar)), east nimar, balaghat, barwani, agar-malwa, datia, chhatarpur, panna, betul, niwari",madhya pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Champhai,Mizoram,champhai,mizoram,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Changlang,Arunachal Pradesh,changlang,arunachal pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Charaideo,Assam,charaideo,assam,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Chikkamagaluru,Karnataka,chikkamagaluru,karnataka,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Chitradurga,Karnataka,chitradurga,karnataka,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Damoh,Madhya Pradesh,damoh,madhya pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Deoria,Uttar Pradesh,deoria,uttar pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Durg,Chhattisgarh,durg,chhattisgarh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,East Jaintia Hills,Meghalaya,east jaintia hills,meghalaya,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Etawah ,Uttar Pradesh,etawah,uttar pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Fatehgarh Sahib,Punjab,fatehgarh sahib,punjab,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Gadag,Karnataka,gadag,karnataka,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Gadchiroli, Nagpur",Maharashtra,"gadchiroli, nagpur",maharashtra,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Gajapati,Odisha,gajapati,odisha,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ganderbal,Jammu & Kashmir,ganderbal,jammu & kashmir,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Gir Somnath,Gujarat,gir somnath,gujarat,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Gwalior,Madhya Pradesh,gwalior,madhya pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Hamirpur,Uttar Pradesh,hamirpur,uttar pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Hamirpur ,Himachal Pradesh,hamirpur,himachal pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Haveri,Karnataka,haveri,karnataka,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Idukki,Thiruvananthapuram",Kerala,"idukki,thiruvananthapuram",kerala,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jalgaon ,Maharashtra,jalgaon,maharashtra,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jaloree,Rajasthan,jaloree,rajasthan,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jaunpur,Uttar Pradesh,jaunpur,uttar pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jhabua,Madhya Pradesh,jhabua,madhya pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kancheepuram,Tamil Nadu,kancheepuram,tamil nadu,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Karauli,Rajasthan,karauli,rajasthan,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Karimganj ,Assam,karimganj,assam,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kashmir Valley,Jammu and Kashmir,kashmir valley,jammu and kashmir,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Katihar,Bihar,katihar,bihar,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Khammam,Andhra Pradesh,khammam,andhra pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kheda,Gujarat,kheda,gujarat,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kodagu ,Karnataka,kodagu,karnataka,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Krishnagiri,Tamil Nadu,krishnagiri,tamil nadu,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kullu ,Himachal Pradesh,kullu,himachal pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kumuram Bheem Asifabad,Telangana,kumuram bheem asifabad,telangana,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kupwara,Jammu and Kashmir,kupwara,jammu and kashmir,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Lalitpur ,Uttar Pradesh,lalitpur,uttar pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Longding,Arunachal Pradesh,longding,arunachal pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Madurai,Tamil Nadu,madurai,tamil nadu,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mahabubabad,Telangana,mahabubabad,telangana,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mandsaur,Madhya Pradesh,mandsaur,madhya pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mansa,Punjab,mansa,punjab,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Meerut,Uttar Pradesh,meerut,uttar pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Morena,Madhya Pradesh,morena,madhya pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mulugu,Telangana,mulugu,telangana,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Nagapattinam,Tamil Nadu,nagapattinam,tamil nadu,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Nalgonda,Telangana,nalgonda,telangana,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Nandurbar,Maharashtra,nandurbar,maharashtra,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Navsari,Gujarat,navsari,gujarat,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,North westduar,West Bengal,north westduar,west bengal,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Panchkula,Haryana,panchkula,haryana,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Pithoragarh,Uttar Pradesh,pithoragarh,uttar pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Prakasam,Andhra Pradesh,prakasam,andhra pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Pratapgarh ,Uttar Pradesh,pratapgarh,uttar pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Purba Purba Medinipur,West Bengal,purba purba medinipur,west bengal,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Raipur,Madhya Pradesh,raipur,madhya pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Raisen,Madhya Pradesh,raisen,madhya pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Rajgarh,Madhya Pradesh,rajgarh,madhya pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ranchi,Jharkhand,ranchi,jharkhand,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Shimla ,Himachal Pradesh,shimla,himachal pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sirsa,Haryana,sirsa,haryana,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sitapur ,Uttar Pradesh,sitapur,uttar pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"South 24 Parganas*, Darjeeling, Jalpaiguri, Dakshin Dinajpur, Maldah, Murshidabad, Birbhum, Nadia, Purba Purba Bardhaman, Purulia, Bankura, North 24 Parganas",West Bengal,"south 24 parganas*, darjeeling, jalpaiguri, dakshin dinajpur, maldah, murshidabad, birbhum, nadia, purba purba bardhaman, purulia, bankura, north 24 parganas",west bengal,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"South 24 Parganas,North 24 Parganas",West Bengal,"south 24 parganas,north 24 parganas",west bengal,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Srinagar,Jammu and Kashmir,srinagar,jammu and kashmir,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Surguja,Chhattisgarh,surguja,chhattisgarh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Tehri Garhwal,Uttar Kashi Kashi",Uttarakhand,"tehri garhwal,uttar kashi kashi",uttarakhand,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Thrissur ,Kerala,thrissur,kerala,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Tirunelveli,Tamil Nadu,tirunelveli,tamil nadu,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Udupi ,Karnataka,udupi,karnataka,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Unnao,Uttar Pradesh,unnao,uttar pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Upper Lower Subansiri,Arunachal Pradesh,upper lower subansiri,arunachal pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Upper Siang,Arunachal Pradesh,upper siang,arunachal pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Vadodara,Gujarat,vadodara,gujarat,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Varanasi,Uttar Pradesh,varanasi,uttar pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Viluppuram,Tamil Nadu,viluppuram,tamil nadu,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Visakhapatnam,Andhra Pradesh,visakhapatnam,andhra pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Warangal, Warangal, Warangal, Warangal",Andhra Pradesh,"warangal, warangal, warangal, warangal",andhra pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"West Kameng, West Kameng ",Arunachal Pradesh,"west kameng, west kameng",arunachal pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Yavatmal ,Maharashtra,yavatmal,maharashtra,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,,Andhra Pradesh,,andhra pradesh,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,,Karnataka,,karnataka,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,,Odisha,,odisha,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,,West Bengal,,west bengal,3,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State, Ahmedabad,Gujarat,ahmedabad,gujarat,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State, Alappuzha,Kerala,alappuzha,kerala,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State, Ayodhya ,Uttar Pradesh,ayodhya,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State, Koraput,Odisha,koraput,odisha,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,& Parts of Himachal Pradesh,Himachal Pradesh,& parts of himachal pradesh,himachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Adilabad,Telangana,adilabad,telangana,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Adilabad ,Andhra Pradesh,adilabad,andhra pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Agar-Malwa,Madhya Pradesh,agar-malwa,madhya pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Agra ,Uttar Pradesh,agra,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ahmedabad ,Gujarat,ahmedabad,gujarat,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Ajmer,Bikaner",Rajasthan,"ajmer,bikaner",rajasthan,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Akola, Amravati, Bhandara, Buldhana, Chandrapur, Gadchiroli, Nagpur, Wardha,Yavatmal",Maharashtra,"akola, amravati, bhandara, buldhana, chandrapur, gadchiroli, nagpur, wardha,yavatmal",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Alappuzha, Ernakulam, Idukki, Kannur, Kasaragod, Kollam, Kottayam, Kozhikode, Malappuram, Palakkad, Pathanamthitta, Thiruvananthapuram, Thrissur, Wayanad",Kerala,"alappuzha, ernakulam, idukki, kannur, kasaragod, kollam, kottayam, kozhikode, malappuram, palakkad, pathanamthitta, thiruvananthapuram, thrissur, wayanad",kerala,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Alappuzha, Ernakulam, Idukki, Kannur, Kasaragod, Kollam, Kottayam, Kozhikode, Malappuram, Palakkad, Pathanamthitta, Thrissur, Thiruvananthapuram, Wayanad",Kerala,"alappuzha, ernakulam, idukki, kannur, kasaragod, kollam, kottayam, kozhikode, malappuram, palakkad, pathanamthitta, thrissur, thiruvananthapuram, wayanad",kerala,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Aligarh,Uttar Pradesh,aligarh,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Alirajpur,Madhya Pradesh,alirajpur,madhya pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ambala,Haryana ,ambala,haryana,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Ambedkar Nagar,  Ayodhya, Azamgarh, Bahraich, Ballia, Balrampur, Bara Banki, Basti, Deoria, Gonda, Gorakhpur, Kushinagar, Kheri, Mahrajganj, Mau, Sant Kabir Nagar, Siddharthnagar, Sitapur",Uttar Pradesh,"ambedkar nagar, ayodhya, azamgarh, bahraich, ballia, balrampur, bara banki, basti, deoria, gonda, gorakhpur, kushinagar, kheri, mahrajganj, mau, sant kabir nagar, siddharthnagar, sitapur",uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Amethi,Uttar Pradesh,amethi,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Amethi ,Uttar Pradesh,amethi,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Amravati,Nagpur",Maharashtra,"amravati,nagpur",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Amritsar,Gurdaspur",Punjab,"amritsar,gurdaspur",punjab,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Auraiya, Bara Banki, Etawah, Farrukhabad, Hardoi, Kannauj, Kanpur nagar Dehat, Kanpur nagar Nagar, Kheri, Lucknow, Rae Bareli, Sitapur, Unnao",Uttar Pradesh,"auraiya, bara banki, etawah, farrukhabad, hardoi, kannauj, kanpur nagar dehat, kanpur nagar nagar, kheri, lucknow, rae bareli, sitapur, unnao",uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Aurangabad,Beed,Hingoli, Jalna, Latur, Nanded,Dharashiv,Parbhani",Maharashtra,"aurangabad,beed,hingoli, jalna, latur, nanded,dharashiv,parbhani",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ayodhya,Uttar Pradesh,ayodhya,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Azamgarh,Uttar Pradesh,azamgarh,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bagalkotee,Karnataka,bagalkotee,karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Bagalkotee Belagavi,Bijapur",Karnataka,"bagalkotee belagavi,bijapur",karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Bahraich, Gonda, Basti, Gorakhpur, Deoria, Ballia, Azamgarh, Ayodhya, Sultanpur, Jaunpur, Ghazipurr, Varanasi, Mirzapur, Prayagraj,Pratapgarh",Uttar Pradesh,"bahraich, gonda, basti, gorakhpur, deoria, ballia, azamgarh, ayodhya, sultanpur, jaunpur, ghazipurr, varanasi, mirzapur, prayagraj,pratapgarh",uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Baksa, Cachar, Chirang, Dibrugarh, Dima Hasao, Golaghat, Hailakandi, Hojai, Kamrup, Karimganj, Marigaon, Nagaon, Sivasagar, Baksa",Assam,"baksa, cachar, chirang, dibrugarh, dima hasao, golaghat, hailakandi, hojai, kamrup, karimganj, marigaon, nagaon, sivasagar, baksa",assam,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Baleshwar ,Odisha,baleshwar,odisha,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ballia,Uttar Pradesh,ballia,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ballia ,Uttar Pradesh,ballia,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Balrampur ,Uttar Pradesh,balrampur,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Banda,Uttar Pradesh,banda,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Banswara,Dungarpur",Rajasthan,"banswara,dungarpur",rajasthan,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bargarh,Odisha,bargarh,odisha,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Barmer ,Rajasthan,barmer,rajasthan,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Barpeta, Cachar, Dhubri, Dibrugarh, Jorhat, Kamrup, Karimganj, Lakhimpur, Nalbari, Sivasagar,Sonitpur",Assam,"barpeta, cachar, dhubri, dibrugarh, jorhat, kamrup, karimganj, lakhimpur, nalbari, sivasagar,sonitpur",assam,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Basti ,Uttar Pradesh,basti,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Beed, ",Maharashtra,"beed,",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Beedar,  Kalaburagi",Karnataka,"beedar, kalaburagi",karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Begusarai,Bihar,begusarai,bihar,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bengaluru Rural ,Karnataka,bengaluru rural,karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bengaluru Urban ,Karnataka,bengaluru urban,karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bhadrak ,Odisha,bhadrak,odisha,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Bhandara, Gadchiroli, Gondia",Maharashtra,"bhandara, gadchiroli, gondia",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Bhandara,Nagpur",Maharashtra,"bhandara,nagpur",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bhilwara,Rajasthan,bhilwara,rajasthan,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bhind,Madhya Pradesh,bhind,madhya pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bhiwani,Haryana,bhiwani,haryana,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Bilaspur, Chamba, Hamirpur, Kangra, Kinnaur, Kullu, Lahul And Spiti, Mandi, Shimla, Sirmaur, Solan, Una",Himachal Pradesh,"bilaspur, chamba, hamirpur, kangra, kinnaur, kullu, lahul and spiti, mandi, shimla, sirmaur, solan, una",himachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bongaigaon ,Assam,bongaigaon,assam,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Budaun,Uttar Pradesh,budaun,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Budgam,Jammu & Kashmir,budgam,jammu & kashmir,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Bulandshahr ,Uttar Pradesh,bulandshahr,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Cachar, Hailakandi,Karimganj",Assam,"cachar, hailakandi,karimganj",assam,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Chamba,Mandi",Himachal Pradesh,"chamba,mandi",himachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Chamba,Shimla",Himachal Pradesh,"chamba,shimla",himachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Chamoli,Uttar Pradesh,chamoli,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Chamoli, Pithoragarh",Uttarakhand,"chamoli, pithoragarh",uttarakhand,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Chhatarpur,Madhya Pradesh,chhatarpur,madhya pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Chitradurga,Mandya",Karnataka,"chitradurga,mandya",karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Chitrakoot ,Uttar Pradesh,chitrakoot,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Churu, Jhunjhunu, Jaisalmer, Sikar, Alwar, Jaipur, Jodhpur, Bharatpur, Nagaur, Dausa, Karauli, Dholpur, Barmer, Sawai Madhopur, Tonk, Pali, Bhilwara, Jalore, Bundi, Kota, Sirohi, Baran, Udaipur, Jhalawar, Dungarpur, Banswara, Ajmer, Rajsamand, Chittorgarh, Ganganagar, Hanumangarh, Bikaner, Pratapgarh",Rajasthan,"churu, jhunjhunu, jaisalmer, sikar, alwar, jaipur, jodhpur, bharatpur, nagaur, dausa, karauli, dholpur, barmer, sawai madhopur, tonk, pali, bhilwara, jalore, bundi, kota, sirohi, baran, udaipur, jhalawar, dungarpur, banswara, ajmer, rajsamand, chittorgarh, ganganagar, hanumangarh, bikaner, pratapgarh",rajasthan,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Cooch Behar, Jalpaiguri",West Bengal,"cooch behar, jalpaiguri",west bengal,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Cooch Behar,Darjeeling",West Bengal,"cooch behar,darjeeling",west bengal,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Cuttack,Puri",Odisha,"cuttack,puri",odisha,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Dakshina Kannada,Uttar Kashia Kannada",Karnataka,"dakshina kannada,uttar kashia kannada",karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dangs,Gujarat,dangs,gujarat,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dausa,Rajasthan,dausa,rajasthan,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Davangere,Karnataka,davangere,karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Davangere ,Karnataka,davangere,karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Dehradun, ",Uttarakhand,"dehradun,",uttarakhand,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Deoria ,Uttar Pradesh,deoria,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Devbhumi Dwarka Dwarka,Gujarat,devbhumi dwarka dwarka,gujarat,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dewas,Madhya Pradesh,dewas,madhya pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dhenkanal,Odisha,dhenkanal,odisha,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dibang Valley,Arunachal Pradesh,dibang valley,arunachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dimapur,Nagaland,dimapur,nagaland,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Dindigul,Tamil Nadu,dindigul,tamil nadu,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Doda,Udhampur",Jammu and Kashmir,"doda,udhampur",jammu and kashmir,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"East Kameng, West Kameng",Arunachal Pradesh,"east kameng, west kameng",arunachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"East Kameng, West Kameng, Tawang,West Kameng, West Kameng",Arunachal Pradesh,"east kameng, west kameng, tawang,west kameng, west kameng",arunachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Etah,Uttar Pradesh,etah,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Etah ,Uttar Pradesh,etah,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Firozabad,Uttar Pradesh,firozabad,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Gautam Buddha Nagar,Uttar Pradesh,gautam buddha nagar,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Gonda ,Uttar Pradesh,gonda,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Guntur,Andhra Pradesh,guntur,andhra pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Hailakandi,Karimganj",Assam,"hailakandi,karimganj",assam,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Hamirpur,Shimla",Himachal Pradesh,"hamirpur,shimla",himachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Hamirpur,Una",Himachal Pradesh,"hamirpur,una",himachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Idukki, Kollam,Thiruvananthapuram",Kerala,"idukki, kollam,thiruvananthapuram",kerala,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Idukki,Kottayam",Kerala,"idukki,kottayam",kerala,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jajapur,Odisha,jajapur,odisha,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jalaun ,Uttar Pradesh,jalaun,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Jalgaon, ",Maharashtra,"jalgaon,",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Jammu, Kathua,Samba ",Jammu and Kashmir,"jammu, kathua,samba",jammu and kashmir,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Jammu,Kashmir",Jammu and Kashmir,"jammu,kashmir",jammu and kashmir,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Jammu,Srinagar",Jammu and Kashmir,"jammu,srinagar",jammu and kashmir,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Jind,Haryana,jind,haryana,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kallakurichi,Tamil Nadu,kallakurichi,tamil nadu,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kangra,Kullu",Himachal Pradesh,"kangra,kullu",himachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kannauj ,Uttar Pradesh,kannauj,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kannur, Kasaragod, Kozhikode, Malappuram,Wayanad",Kerala,"kannur, kasaragod, kozhikode, malappuram,wayanad",kerala,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kannur, Kasaragod, Kozhikode,Thiruvananthapuram",Kerala,"kannur, kasaragod, kozhikode,thiruvananthapuram",kerala,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kannur,Kozhikode",Kerala,"kannur,kozhikode",kerala,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kannur,Wayanad",Kerala,"kannur,wayanad",kerala,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kasaragod ,Kerala,kasaragod,kerala,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kashmir valley,Jammu and Kashmir,kashmir valley,jammu and kashmir,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kheri,Uttar Pradesh,kheri,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Khordha,Odisha,khordha,odisha,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kinnaur,Shimla",Himachal Pradesh,"kinnaur,shimla",himachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kodagu, Uttar Kashia Kannada",Karnataka,"kodagu, uttar kashia kannada",karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kolkata, Hooghly",West Bengal,"kolkata, hooghly",west bengal,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kolkata, Howrah, North 24 Parganas",West Bengal,"kolkata, howrah, north 24 parganas",west bengal,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kolkata,neighbourhood",West Bengal,"kolkata,neighbourhood",west bengal,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kollam, Thiruvananthapuram,Wayanad",Kerala,"kollam, thiruvananthapuram,wayanad",kerala,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kota,Udaipur",Rajasthan,"kota,udaipur",rajasthan,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kozhikode,Thiruvananthapuram",Kerala,"kozhikode,thiruvananthapuram",kerala,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Krishnagiri, Tiruvannamalai",Tamil Nadu,"krishnagiri, tiruvannamalai",tamil nadu,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Kullu,Shimla",Himachal Pradesh,"kullu,shimla",himachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kupwara,Jammu & Kashmir,kupwara,jammu & kashmir,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Kupwara ,Jammu & Kashmir,kupwara,jammu & kashmir,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Lower Dibang Valley,Arunachal Pradesh,lower dibang valley,arunachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Lower Lower Subansiri,Arunachal Pradesh,lower lower subansiri,arunachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Lucknow ,Uttar Pradesh,lucknow,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mahoba,Uttar Pradesh,mahoba,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mahoba ,Uttar Pradesh,mahoba,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Malappuram, Thiruvananthapuram",Kerala,"malappuram, thiruvananthapuram",kerala,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Malda, Murshidabad",West Bengal,"malda, murshidabad",west bengal,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Malda,Murshidabad",West Bengal,"malda,murshidabad",west bengal,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Manali,Himachal Pradesh,manali,himachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mancachar,Assam,mancachar,assam,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Mandla,Madhya Pradesh,mandla,madhya pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Mandya,Mysuru",Karnataka,"mandya,mysuru",karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Many districts of Tamil Nadu.,Tamil Nadu,many districts of tamil nadu.,tamil nadu,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Many parts,Gujarat,many parts,gujarat,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Many parts,Uttar Pradesh,many parts,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Meerut, Bulandshahr, Gautam Buddha Nagar, Ghaziabad, Hapur, Baghpat, Saharanpur, Muzaffarnagar, Shamli, Moradabad, Bijnor, Rampur, Amroha, Sambhal, Bareilly, Budaun, Pilibhit, Shahjahanpur, Agra, Firozabad, Mainpuri, Mathura, Aligarh, Etah, Hathras, Kasganj, Etawah, Auraiya,Farrukhabad",Uttar Pradesh,"meerut, bulandshahr, gautam buddha nagar, ghaziabad, hapur, baghpat, saharanpur, muzaffarnagar, shamli, moradabad, bijnor, rampur, amroha, sambhal, bareilly, budaun, pilibhit, shahjahanpur, agra, firozabad, mainpuri, mathura, aligarh, etah, hathras, kasganj, etawah, auraiya,farrukhabad",uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Moga,Punjab,moga,punjab,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Mumbai, Mumbai Suburban, Raigad, Ratnagiri, Sindhudurg, Thane, Palghar",Maharashtra,"mumbai, mumbai suburban, raigad, ratnagiri, sindhudurg, thane, palghar",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Mumbai, Pune",Maharashtra,"mumbai, pune",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Mumbai, Thane",Maharashtra,"mumbai, thane",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Mumbai,Mumbai Suburban",Maharashtra,"mumbai,mumbai suburban",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Munger,Bihar,munger,bihar,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Nagpur,Yavatmal",Maharashtra,"nagpur,yavatmal",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Nainital,Uttarakhand,nainital,uttarakhand,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Nanded ,Maharashtra,nanded,maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Narmadapuram,Madhya Pradesh,narmadapuram,madhya pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Nashik, Pune",Maharashtra,"nashik, pune",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Nashik, Thane",Maharashtra,"nashik, thane",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,New Delhi ,Delhi,new delhi,delhi,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,North,Delhi,north,delhi,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,North And Middle Andaman,Andaman & Nicobar Islands,north and middle andaman,andaman & nicobar islands,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,North Bengal,West Bengal,north bengal,west bengal,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,North Goa,"Goa, Daman,Diu",north goa,"goa, daman,diu",2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Panch Mahals,Gujarat,panch mahals,gujarat,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Panipat,Haryana,panipat,haryana,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Papum Pare ,Arunachal Pradesh,papum pare,arunachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Parbhani ,Maharashtra,parbhani,maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Parts of Himachal Pradesh,Himachal Pradesh,parts of himachal pradesh,himachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Parts of Karnataka,Karnataka,parts of karnataka,karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Parts of Maharashtra,Maharashtra,parts of maharashtra,maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Parts of Uttar Kashiakhand,Uttarakhand,parts of uttar kashiakhand,uttarakhand,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Parts of Uttar Pradesh,Uttar Pradesh,parts of uttar pradesh,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Parts of West Bengal,West Bengal,parts of west bengal,west bengal,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Pratapgarh,Uttar Pradesh,pratapgarh,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Pudukkottai,Tamil Nadu,pudukkottai,tamil nadu,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Pulwama,Jammu and Kashmir,pulwama,jammu and kashmir,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Pune, Satara",Maharashtra,"pune, satara",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Purba Purba Medinipur, Paschim Purba Medinipur",West Bengal,"purba purba medinipur, paschim purba medinipur",west bengal,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Purbi Champaran,Bihar,purbi champaran,bihar,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Puri,Odisha,puri,odisha,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Purnia,Bihar,purnia,bihar,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Raigarh,Madhya Pradesh,raigarh,madhya pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Rajouri,Jammu and Kashmir,rajouri,jammu and kashmir,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Rajsamand,Rajasthan,rajsamand,rajasthan,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ramban,Jammu and Kashmir,ramban,jammu and kashmir,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ramgarh,Jharkhand,ramgarh,jharkhand,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Rohtak,Haryana,rohtak,haryana,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,S.A.S Nagar,Punjab,s.a.s nagar,punjab,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Saharanpur,Uttar Pradesh,saharanpur,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Sahebganj, Godda, Pakur, Giridih, Dumka, Deoghar, Palamu, Chatra, Garhwa, Jamtara, Dhanbad, Latehar, Bokaro, Ramgarh, Ranchi, Lohardaga, Gumla, Khunti, Saraikela Kharsawan, Purbi West Singhbhum, Pashchimi West Singhbhum, Simdega, Koderma, Hazaribagh",Jharkhand,"sahebganj, godda, pakur, giridih, dumka, deoghar, palamu, chatra, garhwa, jamtara, dhanbad, latehar, bokaro, ramgarh, ranchi, lohardaga, gumla, khunti, saraikela kharsawan, purbi west singhbhum, pashchimi west singhbhum, simdega, koderma, hazaribagh",jharkhand,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Salem,Tamil Nadu,salem,tamil nadu,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Samba,Jammu & Kashmir,samba,jammu & kashmir,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sambhal,Uttar Pradesh,sambhal,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sant Kabir Nagar,Uttar Pradesh,sant kabir nagar,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Saran,Bihar,saran,bihar,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sawai Madhopur,Rajasthan,sawai madhopur,rajasthan,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sehore,Madhya Pradesh,sehore,madhya pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Shajapur,Madhya Pradesh,shajapur,madhya pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Shivamogga,Karnataka,shivamogga,karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Shivpuri,Madhya Pradesh,shivpuri,madhya pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Siang,Meghalaya,siang,meghalaya,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Siddharthnagar,Uttar Pradesh,siddharthnagar,uttar pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Siddipet,Telangana,siddipet,telangana,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sikar,Rajasthan,sikar,rajasthan,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sitamarhi,Bihar,sitamarhi,bihar,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Sonitpur ,Assam,sonitpur,assam,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,South Tripura,Tripura,south tripura,tripura,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,South West Garo Hills,Meghalaya,south west garo hills,meghalaya,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Tamenglong,Manipur,tamenglong,manipur,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Tapi,Gujarat,tapi,gujarat,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Thiruvallur,Tamil Nadu,thiruvallur,tamil nadu,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Thiruvananthapuram, Wayanad",Kerala,"thiruvananthapuram, wayanad",kerala,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Thiruvarur,Tamil Nadu,thiruvarur,tamil nadu,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Tirap,Arunachal Pradesh,tirap,arunachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Tripura,Tripura,tripura,tripura,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Tumakuru ,Karnataka,tumakuru,karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Udaipur, Rajsamand, Dungarpur, Banswara, Pratapgarh,Chittorgarh",Rajasthan,"udaipur, rajsamand, dungarpur, banswara, pratapgarh,chittorgarh",rajasthan,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Udam Singh Nagar,Uttarakhand,udam singh nagar,uttarakhand,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Ujjain,Madhya Pradesh,ujjain,madhya pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Upper Lower Subansiri, Anjaw, Changlang, Tawang, Papum Pare, Tirap, East Siang, Lohit, Kurung Kumey, Lower Lower Subansiri, East Kameng, West Kameng, West Kameng, West Kameng, Kra Daadi, Namsai, Longding, Upper Siang, Lower Siang, Dibang Valley, Lower Dibang Valley, Siang, Shi Yomi, Pak",Arunachal Pradesh,"upper lower subansiri, anjaw, changlang, tawang, papum pare, tirap, east siang, lohit, kurung kumey, lower lower subansiri, east kameng, west kameng, west kameng, west kameng, kra daadi, namsai, longding, upper siang, lower siang, dibang valley, lower dibang valley, siang, shi yomi, pak",arunachal pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Uttar Kashi Bastar Kanker,Chhattisgarh,uttar kashi bastar kanker,chhattisgarh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Uttar Kashi Kashi, Chamoli, Dehradun, Tehri Garhwal, Rudra Prayag, Pithoragarh, Bageshwar, Haridwar, Garhwal, Almora
+, Nainital, Champawat, Udam Singh Nagar","Uttar Pradesh, Uttarakhand","uttar kashi kashi, chamoli, dehradun, tehri garhwal, rudra prayag, pithoragarh, bageshwar, haridwar, garhwal, almora , nainital, champawat, udam singh nagar","uttar pradesh, uttarakhand",2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Uttar Kashi Kashi, Chamoli, Dehradun, Tehri Garhwal, Rudra Prayag, Pithoragarh, Bageshwar, Haridwar, Garhwal, Almora, Nainital, Champawat, Udam Singh Nagar",Uttarakhand,"uttar kashi kashi, chamoli, dehradun, tehri garhwal, rudra prayag, pithoragarh, bageshwar, haridwar, garhwal, almora, nainital, champawat, udam singh nagar",uttarakhand,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Uttar Kashia Kannada ,Karnataka,uttar kashia kannada,karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Valsad,Gujarat,valsad,gujarat,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Warangal, Warangal, Warangal, Warangal ",Telangana,"warangal, warangal, warangal, warangal",telangana,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,"Wardha,Yavatmal",Maharashtra,"wardha,yavatmal",maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Washim ,Maharashtra,washim,maharashtra,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Y.S.R.,Andhra Pradesh,y.s.r.,andhra pradesh,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Yadadri Bhuvanagiri,Telangana,yadadri bhuvanagiri,telangana,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Yadgir,Karnataka,yadgir,karnataka,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,Yamunanagar,Haryana,yamunanagar,haryana,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,,Bihar,,bihar,2,Repeated district/state name combination
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,State,,Rajasthan,,rajasthan,2,Repeated district/state name combination

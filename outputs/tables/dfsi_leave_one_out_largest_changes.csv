@@ -1,0 +1,241 @@
+removed_component,variant_label,movement_direction,State_Name,district_name,available_district_review_key,baseline_dfsi,leave_one_out_score,baseline_rank,leave_one_out_rank,rank_change,absolute_rank_change
+flood_events,without flood events,upward,MAHARASHTRA,Bid,bid,13.26143508380018,13.26143508380018,320,140,-180,180
+flood_events,without flood events,upward,UTTAR PRADESH,Kanpur Dehat,kanpur dehat,13.085347373462419,13.085347373462419,338,160,-178,178
+flood_events,without flood events,upward,KARNATAKA,Uttara Kannada,uttara kannada,12.967174534345189,12.967174534345189,350,172,-178,178
+flood_events,without flood events,upward,RAJASTHAN,Jalor,jalor,12.9504914378902,12.9504914378902,351,176,-175,175
+flood_events,without flood events,upward,KARNATAKA,Bangalore,bangalore,13.360849350068731,13.360849350068731,309,134,-175,175
+flood_events,without flood events,upward,ASSAM,Morigaon,morigaon,12.597051829985768,12.597051829985768,383,213,-170,170
+flood_events,without flood events,upward,MAHARASHTRA,Osmanabad,osmanabad,12.302080122601584,12.302080122601584,412,246,-166,166
+flood_events,without flood events,upward,JAMMU & KASHMIR,Baramula,baramula,12.511067594147992,12.511067594147992,391,225,-166,166
+flood_events,without flood events,upward,WEST BENGAL,Paschim Bardhaman,paschim bardhaman,12.298033751622173,12.298033751622173,416,250,-166,166
+flood_events,without flood events,upward,JAMMU & KASHMIR,Punch,punch,12.299739555598915,12.299739555598915,413,248,-165,165
+flood_events,without flood events,upward,KARNATAKA,Bidar,bidar,12.280052876647694,12.280052876647694,418,254,-164,164
+flood_events,without flood events,upward,WEST BENGAL,Uttar Dinajpur,uttar dinajpur,12.389351763439691,12.389351763439691,401,239,-162,162
+flood_events,without flood events,upward,WEST BENGAL,South Twenty Four Pargan*,south twenty four pargan*,12.36895067194217,12.36895067194217,402,240,-162,162
+flood_events,without flood events,upward,ANDHRA PRADESH,Anantapur,anantapur,12.321372107116332,12.321372107116332,404,244,-160,160
+flood_events,without flood events,upward,MADHYA PRADESH,West Nimar,west nimar,12.121938362977161,12.121938362977161,429,277,-152,152
+flood_events,without flood events,upward,MAHARASHTRA,Ahmadnagar,ahmadnagar,12.104265989394502,12.104265989394502,430,279,-151,151
+flood_events,without flood events,upward,ANDHRA PRADESH,Sri Potti Sriramulu Nell*,sri potti sriramulu nell*,12.080282855151314,12.080282855151314,432,282,-150,150
+flood_events,without flood events,upward,UTTAR PRADESH,Faizabad,faizabad,13.865306212303576,13.865306212303576,234,85,-149,149
+flood_events,without flood events,upward,JAMMU & KASHMIR,Badgam,badgam,12.03473859037689,12.03473859037689,438,292,-146,146
+flood_events,without flood events,upward,PUNJAB,Firozpur,firozpur,12.04408816017883,12.04408816017883,436,291,-145,145
+flood_events,without flood events,downward,ASSAM,Baksa,baksa,13.452349047913726,11.4109563627555,285,382,97,97
+flood_events,without flood events,downward,ASSAM,Hojai,hojai,13.596752537237705,11.704657934547225,266,351,85,85
+flood_events,without flood events,downward,ASSAM,Kokrajhar,kokrajhar,13.700939457775211,11.825878194383511,254,335,81,81
+flood_events,without flood events,downward,ASSAM,Chirang,chirang,13.170603527654814,11.188332294615245,332,411,79,79
+flood_events,without flood events,downward,ASSAM,Majuli,majuli,12.87526594108483,10.994452348804039,356,432,76,76
+flood_events,without flood events,downward,ASSAM,Biswanath,biswanath,13.241225619727697,11.296742947577528,323,396,73,73
+flood_events,without flood events,downward,HIMACHAL PRADESH,Sirmaur,sirmaur,13.666966926364005,11.860786952380117,258,330,72,72
+flood_events,without flood events,downward,ASSAM,Udalguri,udalguri,13.388988499872251,11.525665639751796,298,369,71,71
+flood_events,without flood events,downward,KARNATAKA,Belagavi,belagavi,13.724216939865556,11.904673004323687,250,321,71,71
+flood_events,without flood events,downward,ASSAM,Dima Hasao,dima hasao,12.294478862634186,10.385993843755536,417,487,70,70
+flood_events,without flood events,downward,MAHARASHTRA,Washim,washim,13.174830037670695,11.277202946380253,330,398,68,68
+flood_events,without flood events,downward,ASSAM,Nalbari,nalbari,14.584426327966149,12.447705760809743,164,231,67,67
+flood_events,without flood events,downward,ASSAM,Bongaigaon,bongaigaon,14.013413119880797,12.059170610441472,218,284,66,66
+flood_events,without flood events,downward,HIMACHAL PRADESH,Chamba,chamba,13.850370644355028,11.975309380963328,237,302,65,65
+flood_events,without flood events,downward,KARNATAKA,Kodagu,kodagu,13.395018973457407,11.602627283959153,296,361,65,65
+flood_events,without flood events,downward,ASSAM,South Salmara Mancachar,south salmara mancachar,13.438713155022146,11.722709811387347,287,349,62,62
+flood_events,without flood events,downward,ASSAM,Karbi Anglong,karbi anglong,13.922296744310902,12.047235480919202,231,289,58,58
+flood_events,without flood events,downward,HIMACHAL PRADESH,Una,una,12.753097830518783,11.028821960917995,369,426,57,57
+flood_events,without flood events,downward,HIMACHAL PRADESH,Solan,solan,13.883430478919394,12.057355676218567,233,287,54,54
+flood_events,without flood events,downward,ASSAM,Darrang,darrang,15.317672881785892,13.11901579483147,104,158,54,54
+mean_duration,without mean duration,upward,UTTARAKHAND,Tehri Garhwal,tehri garhwal,12.790505532758473,12.31338427803881,364,295,-69,69
+mean_duration,without mean duration,upward,UTTARAKHAND,Nainital,nainital,12.939589330457391,12.337529339129429,353,289,-64,64
+mean_duration,without mean duration,upward,MAHARASHTRA,Bid,bid,13.26143508380018,12.562465079464161,320,260,-60,60
+mean_duration,without mean duration,upward,MAHARASHTRA,Palghar,palghar,13.51036853455852,12.908308543230557,275,216,-59,59
+mean_duration,without mean duration,upward,MIZORAM,Aizawl,aizawl,13.96334305058711,13.486221795867447,227,168,-59,59
+mean_duration,without mean duration,upward,MAHARASHTRA,Latur,latur,13.206894651678464,12.507924647342445,327,271,-56,56
+mean_duration,without mean duration,upward,LADAKH,Leh,leh,11.426010000350086,11.124980004686105,485,431,-54,54
+mean_duration,without mean duration,upward,MAHARASHTRA,Washim,washim,13.174830037670695,12.475860033334676,330,276,-54,54
+mean_duration,without mean duration,upward,HARYANA,Ambala,ambala,13.358132306204578,12.579981055820934,310,257,-53,53
+mean_duration,without mean duration,upward,TAMIL NADU,Tiruvannamalai,tiruvannamalai,13.370188107953453,12.59203685756981,306,253,-53,53
+mean_duration,without mean duration,upward,CHHATTISGARH,Rajnandgaon,rajnandgaon,11.909622182509157,11.432500927789494,447,396,-51,51
+mean_duration,without mean duration,upward,UTTARAKHAND,Rudraprayag,rudraprayag,14.401475152975443,13.92435389825578,183,132,-51,51
+mean_duration,without mean duration,upward,JAMMU & KASHMIR,Kathua,kathua,13.449654112888739,12.75068410855272,286,235,-51,51
+mean_duration,without mean duration,upward,CHHATTISGARH,Raipur,raipur,13.715162693712596,13.113102702384634,251,201,-50,50
+mean_duration,without mean duration,upward,MADHYA PRADESH,Sagar,sagar,13.156273422947024,12.37812217256338,334,284,-50,50
+mean_duration,without mean duration,upward,MAHARASHTRA,Hingoli,hingoli,12.986966740702172,12.287996736366154,347,298,-49,49
+mean_duration,without mean duration,upward,MADHYA PRADESH,Bhopal,bhopal,13.59251000656756,12.893540002231541,267,219,-48,48
+mean_duration,without mean duration,upward,JAMMU & KASHMIR,Udhampur,udhampur,13.393200665414074,12.61504941503043,297,249,-48,48
+mean_duration,without mean duration,upward,JAMMU & KASHMIR,Reasi,reasi,13.013200018087474,12.23504876770383,346,301,-45,45
+mean_duration,without mean duration,upward,MEGHALAYA,East Khasi Hills,east khasi hills,11.686762156039006,11.209640901319343,467,422,-45,45
+mean_duration,without mean duration,downward,WEST BENGAL,Purba Bardhaman,purba bardhaman,13.580143086186274,12.036075041835998,269,336,67,67
+mean_duration,without mean duration,downward,UTTAR PRADESH,Rae Bareli,rae bareli,13.6147921690489,12.123430475214628,263,327,64,64
+mean_duration,without mean duration,downward,ODISHA,Sundargarh,sundargarh,12.659632249814962,11.128153332772706,373,430,57,57
+mean_duration,without mean duration,downward,BIHAR,Sheikhpura,sheikhpura,13.386679687764685,11.92428168986573,300,354,54,54
+mean_duration,without mean duration,downward,ODISHA,Dhenkanal,dhenkanal,13.64005419648627,12.177656198587314,260,314,54,54
+mean_duration,without mean duration,downward,UTTAR PRADESH,Hapur,hapur,13.402035654204035,11.939637656305079,295,348,53,53
+mean_duration,without mean duration,downward,ODISHA,Jajapur,jajapur,13.379231591826642,11.887869897992369,304,357,53,53
+mean_duration,without mean duration,downward,RAJASTHAN,Dausa,dausa,12.318727754288652,10.827366060454379,405,456,51,51
+mean_duration,without mean duration,downward,BIHAR,Jamui,jamui,13.29263167308034,11.815510418360677,315,366,51,51
+mean_duration,without mean duration,downward,GUJARAT,Mahesana,mahesana,13.618214198351502,12.186850434192515,262,313,51,51
+mean_duration,without mean duration,downward,UTTAR PRADESH,Bhadohi,bhadohi,13.344021027331078,11.852659333496804,311,361,50,50
+mean_duration,without mean duration,downward,ODISHA,Jagatsinghapur,jagatsinghapur,12.309229876614488,10.804079898294582,409,459,50,50
+mean_duration,without mean duration,downward,ODISHA,Baudh,baudh,10.650544336867368,9.13203039698948,523,573,50,50
+mean_duration,without mean duration,downward,UTTAR PRADESH,Mau,mau,13.430980434772941,12.033040426100904,288,337,49,49
+mean_duration,without mean duration,downward,UTTAR PRADESH,Chandauli,chandauli,13.691182807390936,12.22878480949198,255,304,49,49
+mean_duration,without mean duration,downward,UTTAR PRADESH,Mahoba,mahoba,12.40154186402949,10.970178099870502,400,448,48,48
+mean_duration,without mean duration,downward,BIHAR,Kaimur (bhabua),kaimur (bhabua),13.740806001590673,12.293647970248454,249,297,48,48
+mean_duration,without mean duration,downward,UTTAR PRADESH,Kushinagar,kushinagar,13.409757121095392,11.994783773124574,292,340,48,48
+mean_duration,without mean duration,downward,RAJASTHAN,Nagaur,nagaur,12.404117939179134,11.006177930507096,399,446,47,47
+mean_duration,without mean duration,downward,ASSAM,West Karbi Anglong,west karbi anglong,12.489370257306549,11.05800649314756,392,439,47,47
+fatalities,without fatalities,upward,UTTAR PRADESH,Siddharthnagar,siddharthnagar,9.50469539389714,9.50469539389714,594,346,-248,248
+fatalities,without fatalities,upward,DELHI,West,west,10.916915386142888,9.962672876703563,510,267,-243,243
+fatalities,without fatalities,upward,DELHI,Central,central,11.67354452822195,10.117242027454662,470,230,-240,240
+fatalities,without fatalities,upward,HARYANA,Fatehabad,fatehabad,11.339042175844668,9.94110216717263,492,271,-221,221
+fatalities,without fatalities,upward,ARUNACHAL PRADESH,East Siang,east siang,12.833766619664424,10.541510548307947,361,153,-208,208
+fatalities,without fatalities,upward,GOA,South Goa,south goa,10.541627176966472,9.587384667527147,530,332,-198,198
+fatalities,without fatalities,upward,DELHI,North East,north east,10.241462152039844,9.287219642600519,545,388,-157,157
+fatalities,without fatalities,upward,HARYANA,Yamunanagar,yamunanagar,12.093307312495691,9.93494482040044,431,274,-157,157
+fatalities,without fatalities,upward,CHHATTISGARH,Bastar,bastar,11.728982472007639,9.728982472007639,462,312,-150,150
+fatalities,without fatalities,upward,CHHATTISGARH,Mahasamund,mahasamund,10.993523833477525,9.437221332710237,505,357,-148,148
+fatalities,without fatalities,upward,PUNJAB,Bathinda,bathinda,13.044956582106163,10.249076564762088,343,198,-145,145
+fatalities,without fatalities,upward,HARYANA,Faridabad,faridabad,12.308883057739243,9.95670053962788,410,269,-141,141
+fatalities,without fatalities,upward,RAJASTHAN,Karauli,karauli,11.79420443607631,9.71141906575986,456,316,-140,140
+fatalities,without fatalities,upward,MADHYA PRADESH,Barwani,barwani,11.277322403051244,9.471142429067356,494,354,-140,140
+fatalities,without fatalities,upward,RAJASTHAN,Dungarpur,dungarpur,11.681520381243695,9.598735010927244,468,331,-137,137
+fatalities,without fatalities,upward,RAJASTHAN,Ganganagar,ganganagar,13.267287895524834,10.256987938885022,319,194,-125,125
+fatalities,without fatalities,upward,DELHI,South East,south east,9.916457756733232,8.962215247293907,566,444,-122,122
+fatalities,without fatalities,upward,DELHI,North West,north west,9.886447684456622,8.932205175017296,570,449,-121,121
+fatalities,without fatalities,upward,ODISHA,Jajapur,jajapur,13.379231591826642,10.316273757742131,304,184,-120,120
+fatalities,without fatalities,upward,MADHYA PRADESH,Dewas,dewas,12.275313678636074,9.764768668429461,419,302,-117,117
+fatalities,without fatalities,downward,UTTARAKHAND,Uttarkashi,uttarkashi,14.218619038303885,7.942645572856821,198,581,383,383
+fatalities,without fatalities,downward,UTTARAKHAND,Rudraprayag,rudraprayag,14.401475152975443,8.15704339642979,183,548,365,365
+fatalities,without fatalities,downward,UTTARAKHAND,Pithoragarh,pithoragarh,15.678637172850804,9.250539814026922,75,391,316,316
+fatalities,without fatalities,downward,UTTARAKHAND,Chamoli,chamoli,16.467332079533634,10.088351452134898,23,238,215,215
+fatalities,without fatalities,downward,WEST BENGAL,Darjiling,darjiling,15.096713148554944,9.617568459654759,124,328,204,204
+fatalities,without fatalities,downward,MAHARASHTRA,Bid,bid,13.26143508380018,8.490222536603556,320,503,183,183
+fatalities,without fatalities,downward,ANDHRA PRADESH,Sri Potti Sriramulu Nell*,sri potti sriramulu nell*,12.080282855151314,7.589257519523014,432,613,181,181
+fatalities,without fatalities,downward,LADAKH,Leh,leh,11.426010000350086,7.001634791542171,485,665,180,180
+fatalities,without fatalities,downward,ODISHA,Puri,puri,14.241181301184653,9.384911713127075,197,368,171,171
+fatalities,without fatalities,downward,JAMMU & KASHMIR,Punch,punch,12.299739555598915,7.913490358889992,413,584,171,171
+fatalities,without fatalities,downward,SIKKIM,East District,east district,11.55750283761785,7.222868168121498,477,639,162,162
+fatalities,without fatalities,downward,UTTAR PRADESH,Faizabad,faizabad,13.865306212303576,9.229179542378052,234,395,161,161
+fatalities,without fatalities,downward,SIKKIM,North  District,north district,10.407255945093365,6.508475931803539,536,694,158,158
+fatalities,without fatalities,downward,MAHARASHTRA,Osmanabad,osmanabad,12.302080122601584,8.02232194979911,412,569,157,157
+fatalities,without fatalities,downward,TELANGANA,Warangal Rural,warangal rural,11.50983723196844,7.249169694978428,481,637,156,156
+fatalities,without fatalities,downward,TELANGANA,Khammam,khammam,13.251278858019386,8.750438853401597,321,473,152,152
+fatalities,without fatalities,downward,GUJARAT,Rajkot,rajkot,16.9957111005296,10.521126425394684,7,158,151,151
+fatalities,without fatalities,downward,ODISHA,Sambalpur,sambalpur,13.800228017103699,9.233625559696598,243,394,151,151
+fatalities,without fatalities,downward,TELANGANA,Warangal Urban,warangal urban,11.534636160956914,7.320216221661178,480,629,149,149
+fatalities,without fatalities,downward,TELANGANA,Adilabad,adilabad,13.058515058035368,8.57243896066278,341,490,149,149
+injured_people,without injured people,upward,ODISHA,Jajapur,jajapur,13.379231591826642,13.379231591826642,304,207,-97,97
+injured_people,without injured people,upward,ODISHA,Kandhamal,kandhamal,13.369064650042073,13.369064650042073,307,210,-97,97
+injured_people,without injured people,upward,UTTAR PRADESH,Bhadohi,bhadohi,13.344021027331078,13.344021027331078,311,214,-97,97
+injured_people,without injured people,upward,UTTAR PRADESH,Ambedkar Nagar,ambedkar nagar,13.301356728094337,13.301356728094337,314,218,-96,96
+injured_people,without injured people,upward,BIHAR,Kaimur (bhabua),kaimur (bhabua),13.740806001590673,13.740806001590673,249,153,-96,96
+injured_people,without injured people,upward,UTTAR PRADESH,Farrukhabad,farrukhabad,13.886967826238742,13.886967826238742,232,136,-96,96
+injured_people,without injured people,upward,ODISHA,Kendrapara,kendrapara,13.943930065354525,13.943930065354525,229,133,-96,96
+injured_people,without injured people,upward,BIHAR,Araria,araria,14.877664263130043,14.877664263130043,143,47,-96,96
+injured_people,without injured people,upward,BIHAR,Nalanda,nalanda,14.931706109648331,14.931706109648331,137,41,-96,96
+injured_people,without injured people,upward,BIHAR,Purnia,purnia,14.984113430699951,14.984113430699951,133,38,-95,95
+injured_people,without injured people,upward,BIHAR,Sheikhpura,sheikhpura,13.386679687764685,13.386679687764685,300,205,-95,95
+injured_people,without injured people,upward,ANDHRA PRADESH,Prakasam,prakasam,13.819351671054672,13.819351671054672,240,145,-95,95
+injured_people,without injured people,upward,ODISHA,Puri,puri,14.241181301184653,14.241181301184653,197,102,-95,95
+injured_people,without injured people,upward,BIHAR,Arwal,arwal,13.975507399879191,13.975507399879191,225,130,-95,95
+injured_people,without injured people,upward,ODISHA,Kalahandi,kalahandi,13.686376697891745,13.686376697891745,256,161,-95,95
+injured_people,without injured people,upward,BIHAR,Lakhisarai,lakhisarai,14.07852183649538,14.07852183649538,213,119,-94,94
+injured_people,without injured people,upward,ODISHA,Bhadrak,bhadrak,13.757504641121136,13.757504641121136,246,152,-94,94
+injured_people,without injured people,upward,BIHAR,Jehanabad,jehanabad,14.068981170684417,14.068981170684417,214,120,-94,94
+injured_people,without injured people,upward,UTTAR PRADESH,Kushinagar,kushinagar,13.409757121095392,13.409757121095392,292,198,-94,94
+injured_people,without injured people,upward,ODISHA,Sambalpur,sambalpur,13.800228017103699,13.800228017103699,243,149,-94,94
+injured_people,without injured people,downward,ARUNACHAL PRADESH,West Siang,west siang,13.469774552266141,10.644348434498319,283,497,214,214
+injured_people,without injured people,downward,ARUNACHAL PRADESH,East Siang,east siang,12.833766619664424,10.008340501896601,361,542,181,181
+injured_people,without injured people,downward,ARUNACHAL PRADESH,Upper Siang,upper siang,12.767802437292616,9.94043316423879,367,546,179,179
+injured_people,without injured people,downward,TRIPURA,West Tripura,west tripura,14.194230236933567,12.14890725814691,201,357,156,156
+injured_people,without injured people,downward,RAJASTHAN,Tonk,tonk,15.666549946977486,13.263429425801668,78,228,150,150
+injured_people,without injured people,downward,ANDHRA PRADESH,Vizianagaram,vizianagaram,14.541949790462084,12.508526034975134,168,317,149,149
+injured_people,without injured people,downward,RAJASTHAN,Bharatpur,bharatpur,15.65766782645715,13.254547305281331,81,230,149,149
+injured_people,without injured people,downward,CHHATTISGARH,Raipur,raipur,13.715162693712596,11.88908789101177,251,393,142,142
+injured_people,without injured people,downward,RAJASTHAN,Sawai Madhopur,sawai madhopur,15.93119710331488,13.524656922880924,52,187,135,135
+injured_people,without injured people,downward,UTTARAKHAND,Rudraprayag,rudraprayag,14.401475152975443,12.4983851659835,183,318,135,135
+injured_people,without injured people,downward,KARNATAKA,Bengaluru Rural,bengaluru rural,15.37827321499828,13.244734306628063,99,233,134,134
+injured_people,without injured people,downward,MADHYA PRADESH,Balaghat,balaghat,15.040206186928671,13.002779688988047,128,261,133,133
+injured_people,without injured people,downward,HIMACHAL PRADESH,Kinnaur,kinnaur,14.207853079792063,12.394939723149207,199,327,128,128
+injured_people,without injured people,downward,MAHARASHTRA,Sindhudurg,sindhudurg,15.175612303020642,13.158578963721862,115,242,127,127
+injured_people,without injured people,downward,HIMACHAL PRADESH,Kullu,kullu,15.888574524533684,13.57470730416453,57,179,122,122
+injured_people,without injured people,downward,TAMIL NADU,Madurai,madurai,14.330892390841242,12.590529701346998,188,308,120,120
+injured_people,without injured people,downward,MAHARASHTRA,Satara,satara,14.723522311260718,12.891013398554481,154,271,117,117
+injured_people,without injured people,downward,JAMMU & KASHMIR,Anantnag,anantnag,13.973513568770151,12.320301054994808,226,336,110,110
+injured_people,without injured people,downward,KERALA,Wayanad,wayanad,15.313517897674139,13.33124666463457,105,215,110,110
+injured_people,without injured people,downward,MIZORAM,Aizawl,aizawl,13.96334305058711,12.329874595007523,227,333,106,106
+flooded_area,without flooded area,upward,MAHARASHTRA,Washim,washim,13.174830037670695,13.17479816162556,330,267,-63,63
+flooded_area,without flooded area,upward,TELANGANA,Khammam,khammam,13.251278858019386,13.209328197335818,321,260,-61,61
+flooded_area,without flooded area,upward,KARNATAKA,Bangalore,bangalore,13.360849350068731,13.31374317555515,309,250,-59,59
+flooded_area,without flooded area,upward,TELANGANA,Karimnagar,karimnagar,13.031850571961815,13.026317417363531,345,288,-57,57
+flooded_area,without flooded area,upward,MAHARASHTRA,Nashik,nashik,15.663166242117919,15.659070934011051,79,24,-55,55
+flooded_area,without flooded area,upward,MAHARASHTRA,Hingoli,hingoli,12.986966740702172,12.986022527665103,347,293,-54,54
+flooded_area,without flooded area,upward,RAJASTHAN,Tonk,tonk,15.666549946977486,15.655424587626415,78,25,-53,53
+flooded_area,without flooded area,upward,MAHARASHTRA,Latur,latur,13.206894651678464,13.124451917626569,327,274,-53,53
+flooded_area,without flooded area,upward,TELANGANA,Nizamabad,nizamabad,12.936028424841645,12.91697390543686,354,301,-53,53
+flooded_area,without flooded area,upward,KERALA,Idukki,idukki,15.528743197041763,15.526709661991159,91,39,-52,52
+flooded_area,without flooded area,upward,MAHARASHTRA,Yavatmal,yavatmal,15.077290041415866,15.076443544920739,126,74,-52,52
+flooded_area,without flooded area,upward,KERALA,Kollam,kollam,15.44821416908657,15.445106436835005,96,45,-51,51
+flooded_area,without flooded area,upward,MAHARASHTRA,Mumbai Suburban,mumbai suburban,15.303536292648724,15.303103411758647,107,56,-51,51
+flooded_area,without flooded area,upward,JAMMU & KASHMIR,Kathua,kathua,13.449654112888739,13.43028109439984,286,236,-50,50
+flooded_area,without flooded area,upward,ODISHA,Bargarh,bargarh,13.404623048701573,13.389221948413587,294,244,-50,50
+flooded_area,without flooded area,upward,UTTAR PRADESH,Lalitpur,lalitpur,12.852358048954635,12.848543038993627,357,307,-50,50
+flooded_area,without flooded area,upward,GUJARAT,Jamnagar,jamnagar,14.724152937588045,14.723238512407095,153,103,-50,50
+flooded_area,without flooded area,upward,MAHARASHTRA,Satara,satara,14.723522311260718,14.722212546953967,154,104,-50,50
+flooded_area,without flooded area,upward,TAMIL NADU,Thiruvallur,thiruvallur,13.059465829176196,13.003738342709834,340,291,-49,49
+flooded_area,without flooded area,upward,MAHARASHTRA,Bid,bid,13.26143508380018,13.15615346550707,320,271,-49,49
+flooded_area,without flooded area,downward,BIHAR,Arwal,arwal,13.975507399879191,12.619935016153523,225,342,117,117
+flooded_area,without flooded area,downward,ASSAM,Charaideo,charaideo,13.513217331936302,12.281668946633893,274,382,108,108
+flooded_area,without flooded area,downward,ODISHA,Kendrapara,kendrapara,13.943930065354525,12.658367379679333,229,335,106,106
+flooded_area,without flooded area,downward,ASSAM,South Salmara Mancachar,south salmara mancachar,13.438713155022146,12.17837833829269,287,393,106,106
+flooded_area,without flooded area,downward,HARYANA,Sirsa,sirsa,13.503896659168465,12.470673228958455,278,362,84,84
+flooded_area,without flooded area,downward,BIHAR,Lakhisarai,lakhisarai,14.07852183649538,12.961597781031426,213,295,82,82
+flooded_area,without flooded area,downward,ASSAM,Hailakandi,hailakandi,14.665368719218023,13.401973921241138,161,241,80,80
+flooded_area,without flooded area,downward,UTTAR PRADESH,Kasganj,kasganj,14.115754182389981,13.019273215079131,209,289,80,80
+flooded_area,without flooded area,downward,ODISHA,Jajapur,jajapur,13.379231591826642,12.280686864943501,304,383,79,79
+flooded_area,without flooded area,downward,PUNJAB,Rupnagar,rupnagar,13.506452454164403,12.5493439660429,276,353,77,77
+flooded_area,without flooded area,downward,UTTAR PRADESH,Bhadohi,bhadohi,13.344021027331078,12.264476446924363,311,388,77,77
+flooded_area,without flooded area,downward,WEST BENGAL,Purba Bardhaman,purba bardhaman,13.580143086186274,12.600387996224384,269,346,77,77
+flooded_area,without flooded area,downward,ASSAM,Morigaon,morigaon,12.597051829985768,11.43600592470629,383,459,76,76
+flooded_area,without flooded area,downward,BIHAR,Jehanabad,jehanabad,14.068981170684417,13.016701880909142,214,290,76,76
+flooded_area,without flooded area,downward,BIHAR,Nalanda,nalanda,14.931706109648331,13.670473465471916,137,211,74,74
+flooded_area,without flooded area,downward,ODISHA,Bhadrak,bhadrak,13.757504641121136,12.784184257839204,246,316,70,70
+flooded_area,without flooded area,downward,ASSAM,Karimganj,karimganj,15.940617298852,14.569055887712896,51,121,70,70
+flooded_area,without flooded area,downward,WEST BENGAL,South Twenty Four Pargan*,south twenty four pargan*,12.36895067194217,11.346689460822388,402,471,69,69
+flooded_area,without flooded area,downward,UTTAR PRADESH,Chandauli,chandauli,13.691182807390936,12.742240037328159,255,323,68,68
+flooded_area,without flooded area,downward,ASSAM,Bongaigaon,bongaigaon,14.013413119880797,13.045493110018201,218,284,66,66
+population,without population,upward,ARUNACHAL PRADESH,Upper Siang,upper siang,12.767802437292616,8.232179239143305,367,163,-204,204
+population,without population,upward,ARUNACHAL PRADESH,West Siang,west siang,13.469774552266141,8.784731828890587,283,118,-165,165
+population,without population,upward,ARUNACHAL PRADESH,Tawang,tawang,12.307308454247357,7.528137809151444,411,257,-154,154
+population,without population,upward,ARUNACHAL PRADESH,East Siang,east siang,12.833766619664424,7.894452082801675,361,209,-152,152
+population,without population,upward,MANIPUR,Noney,noney,11.743609739331067,6.979269189210599,461,326,-135,135
+population,without population,upward,ASSAM,Majuli,majuli,12.87526594108483,7.707490918036776,356,229,-127,127
+population,without population,upward,HIMACHAL PRADESH,Kinnaur,kinnaur,14.207853079792063,9.264838630540481,199,76,-123,123
+population,without population,upward,JAMMU & KASHMIR,Mirpur,mirpur,9.032714166121114,5.1808445653913475,621,500,-121,121
+population,without population,upward,JAMMU & KASHMIR,Muzaffarabad,muzaffarabad,9.169313544949482,5.209890523006377,608,499,-109,109
+population,without population,upward,ARUNACHAL PRADESH,West Kameng,west kameng,11.2554181148788,6.25961186826611,497,400,-97,97
+population,without population,upward,CHHATTISGARH,Bijapur,bijapur,13.669887647896555,8.228983286449187,257,164,-93,93
+population,without population,upward,JAMMU & KASHMIR,Kishtwar,kishtwar,12.622833711594001,7.257461803670448,378,289,-89,89
+population,without population,upward,ARUNACHAL PRADESH,Anjaw,anjaw,8.72996198888458,4.34855807651929,643,557,-86,86
+population,without population,upward,ARUNACHAL PRADESH,Lower Siang,lower siang,8.51569001294283,4.23372538968293,650,565,-85,85
+population,without population,upward,UTTARAKHAND,Rudraprayag,rudraprayag,14.401475152975443,9.005406637175138,183,98,-85,85
+population,without population,upward,ARUNACHAL PRADESH,Shi Yomi,shi yomi,8.054747284345105,3.9575941344991445,668,584,-84,84
+population,without population,upward,ARUNACHAL PRADESH,Papum Pare,papum pare,12.566059309101545,7.175903452984938,386,302,-84,84
+population,without population,upward,SIKKIM,North  District,north district,10.407255945093365,5.758086656193447,536,453,-83,83
+population,without population,upward,JAMMU & KASHMIR,Reasi,reasi,13.013200018087474,7.417270819953067,346,266,-80,80
+population,without population,upward,LADAKH,Leh,leh,11.426010000350086,6.224631996333376,485,406,-79,79
+population,without population,downward,WEST BENGAL,South Twenty Four Pargan*,south twenty four pargan*,12.36895067194217,5.260257103891633,402,497,95,95
+population,without population,downward,KARNATAKA,Bangalore,bangalore,13.360849350068731,6.233614995706231,309,404,95,95
+population,without population,downward,KARNATAKA,Belagavi,belagavi,13.724216939865556,6.988653088507592,250,324,74,74
+population,without population,downward,WEST BENGAL,Purba Bardhaman,purba bardhaman,13.580143086186274,6.890731482833539,269,342,73,73
+population,without population,downward,GUJARAT,Ahmadabad,ahmadabad,14.644006290567486,7.702550713584022,163,231,68,68
+population,without population,downward,MADHYA PRADESH,Indore,indore,13.430541953860931,6.807923779439086,289,351,62,62
+population,without population,downward,UTTAR PRADESH,Kushinagar,kushinagar,13.409757121095392,6.77620918679875,292,354,62,62
+population,without population,downward,UTTAR PRADESH,Kanpur Nagar,kanpur nagar,14.036464596460032,7.343418898614617,216,277,61,61
+population,without population,downward,UTTAR PRADESH,Bijnor,bijnor,13.701492139124305,7.066854783870313,253,314,61,61
+population,without population,downward,TAMIL NADU,Salem,salem,13.528836527890451,6.932540244116067,272,333,61,61
+population,without population,downward,MAHARASHTRA,Palghar,palghar,13.51036853455852,6.932019103685899,275,335,60,60
+population,without population,downward,ANDHRA PRADESH,Anantapur,anantapur,12.321372107116332,5.6645475250253705,404,462,58,58
+population,without population,downward,UTTAR PRADESH,Ghazipur,ghazipur,13.800253212759902,7.179960340181061,242,299,57,57
+population,without population,downward,MAHARASHTRA,Ahmadnagar,ahmadnagar,12.104265989394502,5.3955778806486085,430,487,57,57
+population,without population,downward,MAHARASHTRA,Mumbai Suburban,mumbai suburban,15.303536292648724,8.270451217819614,107,161,54,54
+population,without population,downward,JHARKHAND,Giridih,giridih,10.265516973286225,3.785056989819388,542,596,54,54
+population,without population,downward,TELANGANA,Medchal Malkajgiri,medchal malkajgiri,10.577425507255413,3.9844423332886576,528,582,54,54
+population,without population,downward,PUNJAB,Ludhiana,ludhiana,13.85789707063677,7.2595789655390215,235,288,53,53
+population,without population,downward,ANDHRA PRADESH,Chittoor,chittoor,13.287422519073862,6.626491996592944,316,369,53,53
+population,without population,downward,TAMIL NADU,Thiruvallur,thiruvallur,13.059465829176196,6.374567888779483,340,392,52,52

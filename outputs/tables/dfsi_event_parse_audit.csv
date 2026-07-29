@@ -1,0 +1,60 @@
+source_row_id,UEI,issue_type,district_count,district_lgd_code_count,State,State_Codes
+0,UEI-IMD-FL-1967-0001,missing_district_list,0,0,Assam,18
+1,UEI-IMD-FL-1967-0002,missing_district_list,0,0,"Maharashtra, Gujarat","27,24"
+2,UEI-IMD-FL-1967-0003,missing_district_list,0,0,Uttar Pradesh,9
+4,UEI-IMD-FL-1968-0001,missing_district_list,0,0,Assam,18
+5,UEI-IMD-FL-1968-0002,missing_district_list,0,0,West Bengal,19
+7,UEI-IMD-FL-1968-0004,missing_district_list,0,0,Uttar Pradesh,9
+11,UEI-IMD-FL-1968-0008,missing_district_list,0,0,Andhra Pradesh,28
+12,UEI-IMD-FL-1969-0001,missing_district_list,0,0,Assam,18
+17,UEI-IMD-FL-1969-0006,missing_district_list,0,0,Maharashtra,27
+18,UEI-IMD-FL-1969-0007,missing_district_list,0,0,Gujarat,24
+25,UEI-IMD-FL-1970-0005,missing_district_list,0,0,Odisha,21
+26,UEI-IMD-FL-1970-0006,missing_district_list,0,0,Gujarat,24
+28,UEI-IMD-FL-1970-0008,missing_district_list,0,0,Uttar Pradesh,9
+30,UEI-IMD-FL-1970-0010,missing_district_list,0,0,Kerala,32
+31,UEI-IMD-FL-1970-0011,missing_district_list,0,0,Telangana,36
+33,UEI-IMD-FL-1971-0001,missing_district_list,0,0,Jammu and Kashmir,
+36,UEI-IMD-FL-1971-0004,missing_district_list,0,0,Maharashtra,27
+41,UEI-IMD-FL-1971-0009,missing_district_list,0,0,Parts of Maharashtra,
+44,UEI-IMD-FL-1971-0012,missing_district_list,0,0,Assam,18
+46,UEI-IMD-FL-1972-0001,missing_district_list,0,0,Kerala,32
+47,UEI-IMD-FL-1972-0002,missing_district_list,0,0,Jammu and Kashmir,
+49,UEI-IMD-FL-1972-0004,missing_district_list,0,0,Maharashtra,27
+50,UEI-IMD-FL-1972-0005,missing_district_list,0,0,Assam,18
+51,UEI-IMD-FL-1972-0006,missing_district_list,0,0,Kerala,32
+52,UEI-IMD-FL-1972-0007,missing_district_list,0,0,Delhi,7
+54,UEI-IMD-FL-1972-0009,missing_district_list,0,0,Jammu and Kashmir,
+57,UEI-IMD-FL-1973-0002,missing_district_list,0,0,Assam,18
+66,UEI-IMD-FL-1973-0011,missing_district_list,0,0,Rajasthan,8
+68,UEI-IMD-FL-1973-0013,missing_district_list,0,0,Gujarat,24
+69,UEI-IMD-FL-1973-0014,missing_district_list,0,0,Gujarat,24
+84,UEI-IMD-FL-1975-0008,missing_district_list,0,0,Bihar,10
+87,UEI-IMD-FL-1975-0011,missing_district_list,0,0,Odisha,21
+123,UEI-IMD-FL-1976-0020,missing_district_list,0,0,Gujarat,24
+130,UEI-IMD-FL-1976-0027,missing_district_list,0,0,Tamil Nadu,33
+211,UEI-IMD-FL-1979-0012,missing_district_list,0,0,Jammu and Kashmir,
+213,UEI-IMD-FL-1979-0014,missing_district_list,0,0,Karnataka,29
+532,UEI-IMD-FL-1983-0061,missing_district_list,0,0,Maharashtra,27
+901,UEI-IMD-FL-1988-0011,missing_district_list,0,0,Bihar,10
+1191,UEI-IMD-FL-1991-0034,missing_district_list,0,0,Karnataka,29
+1236,UEI-IMD-FL-1991-0079,missing_district_list,0,0,Odisha,21
+1885,UEI-IMD-FL-1997-0001,missing_district_list,0,0,Andhra Pradesh,28
+2809,UEI-IMD-FL-2005-0079,missing_district_list,0,0,Kerala,32
+2822,UEI-IMD-FL-2005-0092,missing_district_list,0,0,Madhya Pradesh,23
+3023,UEI-IMD-FL-2007-0007,missing_district_list,0,0,Andhra Pradesh,28
+3156,UEI-IMD-FL-2007-0140,missing_district_list,0,0,West Bengal,19
+3158,UEI-IMD-FL-2007-0142,missing_district_list,0,0,West Bengal,19
+3288,UEI-IMD-FL-2008-0127,missing_district_list,0,0,"Goa, Daman & Diu",30
+3413,UEI-IMD-FL-2010-0039,missing_district_list,0,0,Haryana,6
+3426,UEI-IMD-FL-2010-0052,missing_district_list,0,0,Jammu and Kashmir,
+3428,UEI-IMD-FL-2010-0054,missing_district_list,0,0,Jammu and Kashmir,
+3671,UEI-IMD-FL-2012-0041,missing_district_list,0,0,Jammu and Kashmir,
+3740,UEI-IMD-FL-2013-0030,missing_district_list,0,0,Gujarat,24
+3920,UEI-IMD-FL-2014-0076,missing_district_list,0,0,Rajasthan,8
+4035,UEI-IMD-FL-2015-0103,missing_district_list,0,0,Uttar Pradesh,9
+5586,UEI-IMD-FL-2022-0503,missing_district_list,0,0,Karnataka,29
+5650,UEI-IMD-FL-2022-0567,missing_district_list,0,0,Kerala,32
+6496,UEI-IMD-FL-2023-0274,missing_district_list,0,0,Haryana ,6
+6575,UEI-IMD-FL-2023-0353,missing_district_list,0,0,Kerala,32
+6793,UEI-IMD-FL-2023-0571,missing_district_list,0,0,Uttar Pradesh,9

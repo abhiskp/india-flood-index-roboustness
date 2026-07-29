@@ -1,0 +1,173 @@
+removed_component,variant_label,change_type,State_Name,district_name,available_district_review_key,baseline_rank,leave_one_out_rank,rank_change
+flood_events,without flood events,entered_top_10_percent,WEST BENGAL,North Twenty Four Pargan*,north twenty four pargan*,85,4,-81
+flood_events,without flood events,entered_top_10_percent,WEST BENGAL,Darjiling,darjiling,124,13,-111
+flood_events,without flood events,entered_top_10_percent,BIHAR,Purba Champaran,purba champaran,134,17,-117
+flood_events,without flood events,entered_top_10_percent,WEST BENGAL,Medinipur West,medinipur west,156,23,-133
+flood_events,without flood events,entered_top_10_percent,GUJARAT,Ahmadabad,ahmadabad,163,25,-138
+flood_events,without flood events,entered_top_10_percent,UTTARAKHAND,Rudraprayag,rudraprayag,183,42,-141
+flood_events,without flood events,entered_top_10_percent,RAJASTHAN,Tonk,tonk,78,52,-26
+flood_events,without flood events,entered_top_10_percent,UTTARAKHAND,Pithoragarh,pithoragarh,75,54,-21
+flood_events,without flood events,entered_top_10_percent,UTTARAKHAND,Uttarkashi,uttarkashi,198,57,-141
+flood_events,without flood events,entered_top_10_percent,RAJASTHAN,Bharatpur,bharatpur,81,64,-17
+flood_events,without flood events,entered_top_10_percent,ANDHRA PRADESH,Kurnool,kurnool,76,67,-9
+flood_events,without flood events,entered_top_10_percent,ANDHRA PRADESH,Visakhapatnam,visakhapatnam,92,69,-23
+flood_events,without flood events,entered_top_10_percent,WEST BENGAL,Cooch Behar,cooch behar,84,71,-13
+flood_events,without flood events,left_top_10_percent,ASSAM,Dhemaji,dhemaji,36,89,53
+flood_events,without flood events,left_top_10_percent,KERALA,Kottayam,kottayam,42,72,30
+flood_events,without flood events,left_top_10_percent,ASSAM,Kamrup,kamrup,44,91,47
+flood_events,without flood events,left_top_10_percent,KERALA,Malappuram,malappuram,47,76,29
+flood_events,without flood events,left_top_10_percent,ASSAM,Karimganj,karimganj,51,80,29
+flood_events,without flood events,left_top_10_percent,HIMACHAL PRADESH,Kullu,kullu,57,81,24
+flood_events,without flood events,left_top_10_percent,ASSAM,Nagaon,nagaon,62,108,46
+flood_events,without flood events,left_top_10_percent,KERALA,Thrissur,thrissur,63,86,23
+flood_events,without flood events,left_top_10_percent,MAHARASHTRA,Nanded,nanded,64,74,10
+flood_events,without flood events,left_top_10_percent,UTTAR PRADESH,Bara Banki,bara banki,65,77,12
+flood_events,without flood events,left_top_10_percent,KERALA,Kannur,kannur,67,90,23
+flood_events,without flood events,left_top_10_percent,KERALA,Kozhikode,kozhikode,68,96,28
+flood_events,without flood events,left_top_10_percent,UTTAR PRADESH,Kheri,kheri,70,75,5
+mean_duration,without mean duration,entered_top_10_percent,UTTARAKHAND,Pithoragarh,pithoragarh,75,38,-37
+mean_duration,without mean duration,entered_top_10_percent,MAHARASHTRA,Nashik,nashik,79,40,-39
+mean_duration,without mean duration,entered_top_10_percent,MAHARASHTRA,Ratnagiri,ratnagiri,86,47,-39
+mean_duration,without mean duration,entered_top_10_percent,MAHARASHTRA,Kolhapur,kolhapur,82,50,-32
+mean_duration,without mean duration,entered_top_10_percent,KERALA,Ernakulam,ernakulam,80,52,-28
+mean_duration,without mean duration,entered_top_10_percent,RAJASTHAN,Bharatpur,bharatpur,81,55,-26
+mean_duration,without mean duration,entered_top_10_percent,KERALA,Idukki,idukki,91,59,-32
+mean_duration,without mean duration,entered_top_10_percent,ANDHRA PRADESH,Kurnool,kurnool,76,62,-14
+mean_duration,without mean duration,entered_top_10_percent,ASSAM,Barpeta,barpeta,73,63,-10
+mean_duration,without mean duration,entered_top_10_percent,MAHARASHTRA,Mumbai Suburban,mumbai suburban,107,65,-42
+mean_duration,without mean duration,entered_top_10_percent,KARNATAKA,Bengaluru Rural,bengaluru rural,99,68,-31
+mean_duration,without mean duration,entered_top_10_percent,KERALA,Kollam,kollam,96,70,-26
+mean_duration,without mean duration,left_top_10_percent,BIHAR,Khagaria,khagaria,45,73,28
+mean_duration,without mean duration,left_top_10_percent,RAJASTHAN,Sawai Madhopur,sawai madhopur,52,79,27
+mean_duration,without mean duration,left_top_10_percent,WEST BENGAL,Bankura,bankura,53,99,46
+mean_duration,without mean duration,left_top_10_percent,BIHAR,Saharsa,saharsa,54,81,27
+mean_duration,without mean duration,left_top_10_percent,BIHAR,Supaul,supaul,56,83,27
+mean_duration,without mean duration,left_top_10_percent,UTTAR PRADESH,Etawah,etawah,58,76,18
+mean_duration,without mean duration,left_top_10_percent,BIHAR,Saran,saran,60,88,28
+mean_duration,without mean duration,left_top_10_percent,UTTAR PRADESH,Meerut,meerut,61,87,26
+mean_duration,without mean duration,left_top_10_percent,ODISHA,Baleshwar,baleshwar,66,77,11
+mean_duration,without mean duration,left_top_10_percent,UTTAR PRADESH,Saharanpur,saharanpur,69,96,27
+mean_duration,without mean duration,left_top_10_percent,UTTAR PRADESH,Kheri,kheri,70,82,12
+mean_duration,without mean duration,left_top_10_percent,ODISHA,Ganjam,ganjam,71,97,26
+fatalities,without fatalities,entered_top_10_percent,RAJASTHAN,Bharatpur,bharatpur,81,29,-52
+fatalities,without fatalities,entered_top_10_percent,ASSAM,Tinsukia,tinsukia,77,31,-46
+fatalities,without fatalities,entered_top_10_percent,ASSAM,Sivasagar,sivasagar,74,36,-38
+fatalities,without fatalities,entered_top_10_percent,PUNJAB,Patiala,patiala,103,43,-60
+fatalities,without fatalities,entered_top_10_percent,ANDHRA PRADESH,Visakhapatnam,visakhapatnam,92,48,-44
+fatalities,without fatalities,entered_top_10_percent,BIHAR,Vaishali,vaishali,90,51,-39
+fatalities,without fatalities,entered_top_10_percent,BIHAR,Gopalganj,gopalganj,83,55,-28
+fatalities,without fatalities,entered_top_10_percent,UTTAR PRADESH,Firozabad,firozabad,131,56,-75
+fatalities,without fatalities,entered_top_10_percent,KERALA,Ernakulam,ernakulam,80,58,-22
+fatalities,without fatalities,entered_top_10_percent,RAJASTHAN,Tonk,tonk,78,59,-19
+fatalities,without fatalities,entered_top_10_percent,UTTAR PRADESH,Aligarh,aligarh,102,61,-41
+fatalities,without fatalities,entered_top_10_percent,ASSAM,Barpeta,barpeta,73,64,-9
+fatalities,without fatalities,entered_top_10_percent,PUNJAB,Jalandhar,jalandhar,145,66,-79
+fatalities,without fatalities,entered_top_10_percent,UTTAR PRADESH,Bareilly,bareilly,119,69,-50
+fatalities,without fatalities,left_top_10_percent,GUJARAT,Rajkot,rajkot,7,158,151
+fatalities,without fatalities,left_top_10_percent,UTTARAKHAND,Chamoli,chamoli,23,238,215
+fatalities,without fatalities,left_top_10_percent,HIMACHAL PRADESH,Shimla,shimla,29,78,49
+fatalities,without fatalities,left_top_10_percent,UTTAR PRADESH,Varanasi,varanasi,32,89,57
+fatalities,without fatalities,left_top_10_percent,MAHARASHTRA,Amravati,amravati,34,98,64
+fatalities,without fatalities,left_top_10_percent,ODISHA,Cuttack,cuttack,49,91,42
+fatalities,without fatalities,left_top_10_percent,JAMMU & KASHMIR,Jammu,jammu,55,92,37
+fatalities,without fatalities,left_top_10_percent,HIMACHAL PRADESH,Kullu,kullu,57,129,72
+fatalities,without fatalities,left_top_10_percent,UTTAR PRADESH,Meerut,meerut,61,80,19
+fatalities,without fatalities,left_top_10_percent,MAHARASHTRA,Nanded,nanded,64,94,30
+fatalities,without fatalities,left_top_10_percent,UTTAR PRADESH,Bara Banki,bara banki,65,77,12
+fatalities,without fatalities,left_top_10_percent,ODISHA,Baleshwar,baleshwar,66,84,18
+fatalities,without fatalities,left_top_10_percent,UTTAR PRADESH,Saharanpur,saharanpur,69,85,16
+fatalities,without fatalities,left_top_10_percent,ODISHA,Ganjam,ganjam,71,149,78
+injured_people,without injured people,entered_top_10_percent,BIHAR,Sitamarhi,sitamarhi,101,30,-71
+injured_people,without injured people,entered_top_10_percent,BIHAR,Vaishali,vaishali,90,33,-57
+injured_people,without injured people,entered_top_10_percent,UTTAR PRADESH,Jaunpur,jaunpur,106,36,-70
+injured_people,without injured people,entered_top_10_percent,WEST BENGAL,Cooch Behar,cooch behar,84,37,-47
+injured_people,without injured people,entered_top_10_percent,BIHAR,Purnia,purnia,133,38,-95
+injured_people,without injured people,entered_top_10_percent,ASSAM,Barpeta,barpeta,73,40,-33
+injured_people,without injured people,entered_top_10_percent,BIHAR,Nalanda,nalanda,137,41,-96
+injured_people,without injured people,entered_top_10_percent,BIHAR,Araria,araria,143,47,-96
+injured_people,without injured people,entered_top_10_percent,WEST BENGAL,Birbhum,birbhum,118,50,-68
+injured_people,without injured people,entered_top_10_percent,UTTAR PRADESH,Gonda,gonda,88,52,-36
+injured_people,without injured people,entered_top_10_percent,ASSAM,Jorhat,jorhat,94,53,-41
+injured_people,without injured people,entered_top_10_percent,UTTAR PRADESH,Moradabad,moradabad,123,56,-67
+injured_people,without injured people,entered_top_10_percent,BIHAR,Siwan,siwan,149,61,-88
+injured_people,without injured people,entered_top_10_percent,ASSAM,Goalpara,goalpara,89,64,-25
+injured_people,without injured people,entered_top_10_percent,BIHAR,Munger,munger,98,66,-32
+injured_people,without injured people,entered_top_10_percent,UTTAR PRADESH,Mirzapur,mirzapur,155,67,-88
+injured_people,without injured people,entered_top_10_percent,ANDHRA PRADESH,East Godavari,east godavari,129,68,-61
+injured_people,without injured people,entered_top_10_percent,ASSAM,Darrang,darrang,104,69,-35
+injured_people,without injured people,entered_top_10_percent,UTTAR PRADESH,Lucknow,lucknow,72,70,-2
+injured_people,without injured people,left_top_10_percent,RAJASTHAN,Kota,kota,14,93,79
+injured_people,without injured people,left_top_10_percent,KERALA,Thiruvananthapuram,thiruvananthapuram,15,82,67
+injured_people,without injured people,left_top_10_percent,UTTARAKHAND,Chamoli,chamoli,23,79,56
+injured_people,without injured people,left_top_10_percent,WEST BENGAL,Maldah,maldah,26,73,47
+injured_people,without injured people,left_top_10_percent,HIMACHAL PRADESH,Shimla,shimla,29,123,94
+injured_people,without injured people,left_top_10_percent,ASSAM,Dhemaji,dhemaji,36,77,41
+injured_people,without injured people,left_top_10_percent,WEST BENGAL,Kolkata,kolkata,38,104,66
+injured_people,without injured people,left_top_10_percent,UTTAR PRADESH,Agra,agra,39,75,36
+injured_people,without injured people,left_top_10_percent,KERALA,Kottayam,kottayam,42,115,73
+injured_people,without injured people,left_top_10_percent,GUJARAT,Bharuch,bharuch,43,96,53
+injured_people,without injured people,left_top_10_percent,KERALA,Malappuram,malappuram,47,99,52
+injured_people,without injured people,left_top_10_percent,RAJASTHAN,Sawai Madhopur,sawai madhopur,52,187,135
+injured_people,without injured people,left_top_10_percent,WEST BENGAL,Bankura,bankura,53,87,34
+injured_people,without injured people,left_top_10_percent,JAMMU & KASHMIR,Jammu,jammu,55,127,72
+injured_people,without injured people,left_top_10_percent,HIMACHAL PRADESH,Kullu,kullu,57,179,122
+injured_people,without injured people,left_top_10_percent,KERALA,Thrissur,thrissur,63,107,44
+injured_people,without injured people,left_top_10_percent,MAHARASHTRA,Nanded,nanded,64,97,33
+injured_people,without injured people,left_top_10_percent,KERALA,Kannur,kannur,67,121,54
+injured_people,without injured people,left_top_10_percent,KERALA,Kozhikode,kozhikode,68,110,42
+flooded_area,without flooded area,entered_top_10_percent,MAHARASHTRA,Nashik,nashik,79,24,-55
+flooded_area,without flooded area,entered_top_10_percent,RAJASTHAN,Tonk,tonk,78,25,-53
+flooded_area,without flooded area,entered_top_10_percent,ANDHRA PRADESH,Kurnool,kurnool,76,30,-46
+flooded_area,without flooded area,entered_top_10_percent,UTTARAKHAND,Pithoragarh,pithoragarh,75,38,-37
+flooded_area,without flooded area,entered_top_10_percent,KERALA,Idukki,idukki,91,39,-52
+flooded_area,without flooded area,entered_top_10_percent,RAJASTHAN,Jaipur,jaipur,87,44,-43
+flooded_area,without flooded area,entered_top_10_percent,KERALA,Kollam,kollam,96,45,-51
+flooded_area,without flooded area,entered_top_10_percent,MAHARASHTRA,Kolhapur,kolhapur,82,50,-32
+flooded_area,without flooded area,entered_top_10_percent,MAHARASHTRA,Ratnagiri,ratnagiri,86,51,-35
+flooded_area,without flooded area,entered_top_10_percent,KARNATAKA,Bengaluru Rural,bengaluru rural,99,53,-46
+flooded_area,without flooded area,entered_top_10_percent,KERALA,Ernakulam,ernakulam,80,54,-26
+flooded_area,without flooded area,entered_top_10_percent,MAHARASHTRA,Mumbai Suburban,mumbai suburban,107,56,-51
+flooded_area,without flooded area,entered_top_10_percent,ANDHRA PRADESH,Visakhapatnam,visakhapatnam,92,58,-34
+flooded_area,without flooded area,entered_top_10_percent,UTTAR PRADESH,Lucknow,lucknow,72,59,-13
+flooded_area,without flooded area,entered_top_10_percent,HIMACHAL PRADESH,Kangra,kangra,114,67,-47
+flooded_area,without flooded area,entered_top_10_percent,GUJARAT,Junagadh,junagadh,95,68,-27
+flooded_area,without flooded area,entered_top_10_percent,KERALA,Wayanad,wayanad,105,69,-36
+flooded_area,without flooded area,left_top_10_percent,BIHAR,Begusarai,begusarai,31,89,58
+flooded_area,without flooded area,left_top_10_percent,WEST BENGAL,Hooghly,hooghly,40,75,35
+flooded_area,without flooded area,left_top_10_percent,WEST BENGAL,Nadia,nadia,41,77,36
+flooded_area,without flooded area,left_top_10_percent,ASSAM,Kamrup,kamrup,44,76,32
+flooded_area,without flooded area,left_top_10_percent,BIHAR,Khagaria,khagaria,45,85,40
+flooded_area,without flooded area,left_top_10_percent,BIHAR,Katihar,katihar,46,90,44
+flooded_area,without flooded area,left_top_10_percent,ODISHA,Cuttack,cuttack,49,93,44
+flooded_area,without flooded area,left_top_10_percent,ASSAM,Karimganj,karimganj,51,121,70
+flooded_area,without flooded area,left_top_10_percent,BIHAR,Saharsa,saharsa,54,82,28
+flooded_area,without flooded area,left_top_10_percent,BIHAR,Supaul,supaul,56,81,25
+flooded_area,without flooded area,left_top_10_percent,UTTAR PRADESH,Etawah,etawah,58,86,28
+flooded_area,without flooded area,left_top_10_percent,WEST BENGAL,Howrah,howrah,59,124,65
+flooded_area,without flooded area,left_top_10_percent,BIHAR,Saran,saran,60,101,41
+flooded_area,without flooded area,left_top_10_percent,ASSAM,Nagaon,nagaon,62,107,45
+flooded_area,without flooded area,left_top_10_percent,KERALA,Thrissur,thrissur,63,73,10
+flooded_area,without flooded area,left_top_10_percent,ODISHA,Baleshwar,baleshwar,66,96,30
+flooded_area,without flooded area,left_top_10_percent,UTTAR PRADESH,Kheri,kheri,70,92,22
+population,without population,entered_top_10_percent,UTTARAKHAND,Pithoragarh,pithoragarh,75,24,-51
+population,without population,entered_top_10_percent,ASSAM,Sivasagar,sivasagar,74,28,-46
+population,without population,entered_top_10_percent,ASSAM,Tinsukia,tinsukia,77,49,-28
+population,without population,entered_top_10_percent,ASSAM,Goalpara,goalpara,89,51,-38
+population,without population,entered_top_10_percent,KERALA,Idukki,idukki,91,52,-39
+population,without population,entered_top_10_percent,ASSAM,Jorhat,jorhat,94,53,-41
+population,without population,entered_top_10_percent,ASSAM,Barpeta,barpeta,73,57,-16
+population,without population,entered_top_10_percent,RAJASTHAN,Tonk,tonk,78,58,-20
+population,without population,entered_top_10_percent,KERALA,Wayanad,wayanad,105,63,-42
+population,without population,entered_top_10_percent,MAHARASHTRA,Ratnagiri,ratnagiri,86,64,-22
+population,without population,entered_top_10_percent,GUJARAT,Junagadh,junagadh,95,71,-24
+population,without population,left_top_10_percent,GUJARAT,Surat,surat,37,81,44
+population,without population,left_top_10_percent,UTTAR PRADESH,Sitapur,sitapur,50,83,33
+population,without population,left_top_10_percent,WEST BENGAL,Howrah,howrah,59,82,23
+population,without population,left_top_10_percent,BIHAR,Saran,saran,60,85,25
+population,without population,left_top_10_percent,UTTAR PRADESH,Meerut,meerut,61,77,16
+population,without population,left_top_10_percent,MAHARASHTRA,Nanded,nanded,64,80,16
+population,without population,left_top_10_percent,UTTAR PRADESH,Bara Banki,bara banki,65,78,13
+population,without population,left_top_10_percent,KERALA,Kozhikode,kozhikode,68,73,5
+population,without population,left_top_10_percent,UTTAR PRADESH,Saharanpur,saharanpur,69,87,18
+population,without population,left_top_10_percent,UTTAR PRADESH,Kheri,kheri,70,93,23
+population,without population,left_top_10_percent,ODISHA,Ganjam,ganjam,71,89,18

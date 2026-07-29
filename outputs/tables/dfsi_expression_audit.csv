@@ -1,0 +1,27 @@
+audit_type,check_name,passed,affected_rows,details
+assertion,all_complete_row_raw_components_are_nonnegative,True,0,"Checks E, D, F, I, A, and P after independent float64 conversion."
+assertion,population_is_greater_than_zero,True,0,Required because term_population = log10(P).
+assertion,every_complete_row_log_term_is_nonnegative,True,0,Each term column is expected to be nonnegative for nonnegative components and P > 0; P >= 1 in these data.
+assertion,product_fresh_is_greater_than_zero,True,0,This uses the published multiplicative product expression for product_fresh.
+assertion,dfsi_fresh_is_greater_than_zero,True,0,This uses the published additive log-space expression.
+assertion,dfsi_fresh_and_dfsi_product_fresh_agree_within_1e_10,True,0,Comparable rows: 709; max absolute difference: 3.552713678800501e-15.
+metric,one_to_one_rows,,720,Rows after fresh raw-source one-to-one district-name join.
+metric,complete_rows,,709,Rows with all six raw components present.
+metric,dfsi_fresh_min,,,5.672769401374751
+metric,dfsi_fresh_max,,,17.94868502574854
+metric,product_fresh_min,,,470727.3165534
+metric,product_fresh_max,,,8.885564540879841e+17
+metric,pearson_dfsi_fresh_vs_published_dfsi,,709,0.9587155873101515
+metric,spearman_dfsi_fresh_vs_published_dfsi,,709,0.9588466131829585
+metric,median_absolute_difference,,709,1.2067694216134761
+metric,previous_source_file,,,dfsi_corrected_comparison.csv
+old_value_test,previous_equals_negative_dfsi_fresh_count,,78,Rows where previous reconstructed value equals -dfsi_fresh within 1e-10.
+old_value_test,previous_equals_log10_one_over_product_fresh_count,,78,Rows where previous reconstructed value equals log10(1 / product_fresh) within 1e-10.
+old_value_test,previous_equals_negative_sum_of_six_terms_count,,78,Rows where previous reconstructed value equals negative sum of the six terms within 1e-10.
+old_value_test,previous_equals_subtracted_log_terms_expression_count,,709,Rows where previous reconstructed value equals the requested subtractive log-term expression within 1e-10.
+old_value_test,previous_equals_normalised_component_expression_count,,0,Rows where previous reconstructed value equals a max-normalised component expression within 1e-10.
+answer,A. Which exact line or transformation created the negative values?,,,The negative values in earlier notebooks were created by an incorrect chained-subtraction implementation. The corrected published expression adds all six log-term contributions.
+answer,B. Was the previous reconstructed result approximately the negative of the correct calculation?,,,No. The earlier values followed the incorrect chained-subtraction expression rather than simply being the negative of the corrected additive DFSI. Previous-minus-correct diagnostic matches: 709; negative-correct matches: 78.
+answer,C. What is the fresh reconstructed range?,,,5.672769401374751 to 17.94868502574854 over 709 complete rows.
+answer,D. What is the fresh Spearman correlation?,,,0.9588466131829585
+answer,E. What discrepancies remain after correcting the expression?,,,"The corrected additive log-space expression produces positive DFSI values and is independently checked against the multiplicative product expression. Any remaining published-versus-reconstructed differences should now be investigated as data construction, joining, scaling, or versioning issues rather than an arithmetic sign error."

@@ -1,0 +1,6 @@
+fatality_exponent,comparison_baseline,district_count,spearman_correlation_with_exponent_2_baseline,median_absolute_rank_change,maximum_rank_change,top_10_percent_n,top_10_percent_overlap_count,top_10_percent_overlap_share,top_25_overlap_count,top_25_overlap_share,top_50_overlap_count,top_50_overlap_share,districts_entering_top_10_percent_count,districts_leaving_top_10_percent_count,districts_moving_more_than_25_positions,districts_moving_more_than_50_positions
+1.0,correctly reconstructed exponent-2 DFSI,709,0.9925177129569989,12.0,163,71,63,0.8873239436619719,22,0.88,45,0.9,8,8,177,39
+1.5,correctly reconstructed exponent-2 DFSI,709,0.9985142429244973,5.0,72,71,67,0.9436619718309859,24,0.96,48,0.96,4,4,25,2
+2.0,correctly reconstructed exponent-2 DFSI,709,0.9999999999999999,0.0,0,71,71,1.0,25,1.0,50,1.0,0,0,0,0
+2.5,correctly reconstructed exponent-2 DFSI,709,0.9990436030156218,5.0,46,71,70,0.9859154929577465,24,0.96,47,0.94,1,1,12,0
+3.0,correctly reconstructed exponent-2 DFSI,709,0.9970293949395977,8.0,78,71,66,0.9295774647887324,22,0.88,46,0.92,5,5,68,8

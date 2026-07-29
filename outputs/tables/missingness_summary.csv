@@ -1,0 +1,36 @@
+dataset,file_name,column_name,inferred_dtype,row_count,missing_count,missing_percent,non_missing_count
+DFSI,DFSI.csv,Unnamed: 0,object,744,0,0.0,744
+DFSI,DFSI.csv,State_Name,object,744,0,0.0,744
+DFSI,DFSI.csv,DFSI,float64,744,1,0.1344,743
+District_FloodedArea,District_FloodedArea.csv,Dist_Name,object,732,0,0.0,732
+District_FloodedArea,District_FloodedArea.csv,Percent_Flooded_Area,float64,732,0,0.0,732
+District_FloodedArea,District_FloodedArea.csv,Parmanent_Water,float64,732,0,0.0,732
+District_FloodedArea,District_FloodedArea.csv,Corrected_Percent_Flooded_Area,float64,732,0,0.0,732
+District_FloodImpact,District_FloodImpact.csv,Dist_Name,object,732,0,0.0,732
+District_FloodImpact,District_FloodImpact.csv,Human_fatality,int64,732,0,0.0,732
+District_FloodImpact,District_FloodImpact.csv,Human_injured,int64,732,0,0.0,732
+District_FloodImpact,District_FloodImpact.csv,Population,int64,732,0,0.0,732
+District_FloodImpact,District_FloodImpact.csv,Mean_Flood_Duration,float64,732,11,1.5027,721
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Unnamed: 0,int64,6876,0,0.0,6876
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,UEI,object,6876,0,0.0,6876
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Start Date,object,6876,20,0.2909,6856
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,End Date,object,6876,20,0.2909,6856
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Duration(Days),float64,6876,19,0.2763,6857
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Main Cause,object,6876,31,0.4508,6845
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Location,float64,6876,6876,100.0,0
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Districts,object,6876,59,0.8581,6817
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,State,object,6876,0,0.0,6876
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Latitude,float64,6876,6876,100.0,0
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Longitude,float64,6876,6876,100.0,0
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Severity,float64,6876,6876,100.0,0
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Area Affected,float64,6876,6876,100.0,0
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Human fatality,float64,6876,3106,45.1716,3770
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Human injured,float64,6876,5818,84.6131,1058
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Human Displaced,object,6876,6754,98.2257,122
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Animal Fatality,object,6876,6305,91.6958,571
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Description of Casualties/injured,object,6876,3609,52.4869,3267
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Extent of damage ,object,6876,3121,45.3898,3755
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Event Source,object,6876,0,0.0,6876
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,Event Souce ID,float64,6876,6876,100.0,0
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,District_LGD_Codes,object,6876,304,4.4212,6572
+India_Flood_Inventory_v3,India_Flood_Inventory_v3.csv,State_Codes,object,6876,258,3.7522,6618

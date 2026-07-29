@@ -1,0 +1,256 @@
+district_review_key,State_Name,district_name,issue_type,impact_count,area_count,published_count,event_key_count,completeness_status,join_status,details
+almora,UTTARAKHAND,"Almora
+",incomplete_comparison_record,1,1,1,20.0,incomplete_missing_component,one_to_one_comparison_record,Missing component(s): mean_flood_duration
+dakshin bastar dantewada,CHHATTISGARH,Dakshin Bastar Dantewada,incomplete_comparison_record,1,1,1,2.0,incomplete_missing_component,one_to_one_comparison_record,Missing component(s): mean_flood_duration
+daman,DAMAN & DIU,Daman,incomplete_comparison_record,1,1,1,0.0,incomplete_missing_component,one_to_one_comparison_record,Missing component(s): mean_flood_duration
+diu,DAMAN & DIU,Diu,incomplete_comparison_record,1,1,1,0.0,incomplete_missing_component,one_to_one_comparison_record,Missing component(s): mean_flood_duration
+east,DELHI,East,incomplete_comparison_record,1,1,1,19.0,incomplete_missing_component,one_to_one_comparison_record,Missing component(s): mean_flood_duration
+gariaband,CHHATTISGARH,Gariaband,incomplete_comparison_record,1,1,1,0.0,incomplete_missing_component,one_to_one_comparison_record,Missing component(s): mean_flood_duration
+jhargram,WEST BENGAL,Jhargram,incomplete_comparison_record,1,1,1,0.0,incomplete_missing_component,one_to_one_comparison_record,Missing component(s): mean_flood_duration
+kondagaon,CHHATTISGARH,Kondagaon,incomplete_comparison_record,1,1,1,0.0,incomplete_missing_component,one_to_one_comparison_record,Missing component(s): mean_flood_duration
+lakshadweep,LAKSHADWEEP,Lakshadweep,incomplete_comparison_record,1,1,1,0.0,incomplete_missing_component,one_to_one_comparison_record,Missing component(s): mean_flood_duration
+nicobars,ANDAMAN & NICOBAR,Nicobars,incomplete_comparison_record,1,1,1,0.0,incomplete_missing_component,one_to_one_comparison_record,Missing component(s): mean_flood_duration
+surajpur,CHHATTISGARH,Surajpur,incomplete_comparison_record,1,1,1,0.0,incomplete_missing_component,one_to_one_comparison_record,Missing component(s): mean_flood_duration
+,,,join_key_unresolved,0,0,0,51.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+& parts of himachal pradesh,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+& parts of uttar pradesh,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+& various parts of nagaland,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+11 districts,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+14 districts,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+14 districts of assam,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+19 districts of orissa,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+21 districts of assam,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+26 districts of rajasthan,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+29 districts affected,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+3 out of 8 districts,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+6 districts,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+adjoining areas,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+agar-malwa,,,join_key_unresolved,0,0,0,11.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+ahmedabad,,,join_key_unresolved,0,0,0,53.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+ahmednagar,,,join_key_unresolved,0,0,0,43.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+akharpur,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+ananthapuramu,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+ananthapuramuamu,,,join_key_unresolved,0,0,0,16.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+arvalli,,,join_key_unresolved,0,0,0,15.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+aurangabad,,,join_key_unresolved,2,2,4,89.0,,not_one_to_one_or_unmatched,repeated in District_FloodImpact.csv; repeated in District_FloodedArea.csv; repeated in DFSI.csv by district name despite state identifiers
+ayodhya,,,join_key_unresolved,0,0,0,55.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+bagalkotee,,,join_key_unresolved,0,0,0,20.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+bagalkotee ballari,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+bagalkotee belagavi,,,join_key_unresolved,0,0,0,5.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+bagalkotee bengaluru urban,,,join_key_unresolved,0,0,0,3.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+bagalkotee udupi,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+bagalkoteebijapur,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+balodabazar-bhatapara,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+balrampur,,,join_key_unresolved,2,2,4,37.0,,not_one_to_one_or_unmatched,repeated in District_FloodImpact.csv; repeated in District_FloodedArea.csv; repeated in DFSI.csv by district name despite state identifiers
+bandipora,,,join_key_unresolved,0,0,0,18.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+baramulla,,,join_key_unresolved,0,0,0,31.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+beed,,,join_key_unresolved,0,0,0,59.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+beedar,,,join_key_unresolved,0,0,0,36.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+bemetara,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+bengaluru urban,,,join_key_unresolved,0,0,0,53.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+bhadradri bhadradri kothagudem,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+bhadradri bhadradri kothagudem bhadradri kothagudem,,,join_key_unresolved,0,0,0,4.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+bhadradri bhadradri kothagudem kothagudem,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+bhandara chandrapur,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+bhubaneshwar,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+bijapur surendranagar,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+bilaspur,,,join_key_unresolved,2,2,4,62.0,,not_one_to_one_or_unmatched,repeated in District_FloodImpact.csv; repeated in District_FloodedArea.csv; repeated in DFSI.csv by district name despite state identifiers
+boudh,,,join_key_unresolved,0,0,0,22.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+budgam,,,join_key_unresolved,0,0,0,23.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+buldhana,,,join_key_unresolved,0,0,0,61.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+central part of uttar kashi pradesh,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+chamarajanagaraa,,,join_key_unresolved,0,0,0,9.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+chamarajanagaraa chikkaballapura,,,join_key_unresolved,0,0,0,6.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+chamarajanagaraa chitradurga,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+chamarajanagaraa davangere,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+chamarajanagaraa gadag,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+chamarajanagaraa hassan,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+chamarajanagaraa kalaburagi,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+chhatisgarh,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+chikodi,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+chittorgarh,,,join_key_unresolved,0,0,0,14.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+chumanung,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+coastal districts of andhra pradesh,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+dadra and nagar haveli,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+dahod,,,join_key_unresolved,0,0,0,14.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+dangs,,,join_key_unresolved,0,0,0,27.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+darjeeling,,,join_key_unresolved,0,0,0,71.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+darjeelingm,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+davangere,,,join_key_unresolved,0,0,0,31.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+davangere����,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+deogarh,,,join_key_unresolved,0,0,0,20.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+devbhumi dwarka dwarka,,,join_key_unresolved,0,0,0,28.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+dharashiv,,,join_key_unresolved,0,0,0,44.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+dholpur,,,join_key_unresolved,0,0,0,24.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+dibang valley,,,join_key_unresolved,0,0,0,25.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+different parts of jammu,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+districts of cauvery delta,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+districts of cauvery delta zone,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+east & west godavari,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+east & west purba purba medinipur,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+east east jaintia hills,,,join_key_unresolved,0,0,0,5.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+east uttar kashi pradesh,,,join_key_unresolved,0,0,0,6.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+east west singhbhum,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+entire village,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+ernakulam ant thiruvananthapuram,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+ernakulam kannur,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+ferozepur,,,join_key_unresolved,0,0,0,41.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+few districts,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+gadchiroli yavotmal,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+gangtok,,,join_key_unresolved,0,0,0,35.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+ghat area,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+ghazipurr,,,join_key_unresolved,0,0,0,40.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+goa,,,join_key_unresolved,0,0,0,4.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+gondia,,,join_key_unresolved,0,0,0,40.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+greater kolkata area,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+gyalshing,,,join_key_unresolved,0,0,0,19.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+hamirpur,,,join_key_unresolved,2,2,4,116.0,,not_one_to_one_or_unmatched,repeated in District_FloodImpact.csv; repeated in District_FloodedArea.csv; repeated in DFSI.csv by district name despite state identifiers
+haridwar,,,join_key_unresolved,0,0,0,8.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+heavy rains hazaribagh,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+hilly areas,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+hyderabad & parts of telangana,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+itanagar,,,join_key_unresolved,0,0,0,20.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+jagdalpur,,,join_key_unresolved,0,0,0,3.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+jalore,,,join_key_unresolved,0,0,0,20.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+jaloree,,,join_key_unresolved,0,0,0,3.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+janjgir-champa,,,join_key_unresolved,0,0,0,5.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+jawad,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+jayashankar bhupalapally,,,join_key_unresolved,0,0,0,7.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+jhelum,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+jhunjhunu,,,join_key_unresolved,0,0,0,12.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+kamrup metro,,,join_key_unresolved,0,0,0,100.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+kanniyakumariumari,,,join_key_unresolved,0,0,0,23.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+kanpur nagar dehat,,,join_key_unresolved,0,0,0,51.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+kanpur nagar nagar,,,join_key_unresolved,0,0,0,40.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+kanpur nagar-dehat,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+kashmir,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+kashmir valley,,,join_key_unresolved,0,0,0,6.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+khargone (khargone (west nimar)),,,join_key_unresolved,0,0,0,27.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+khurja,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+kochi,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+koderma,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+kokrajhar darrang,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+kollam kozhikode,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+korea,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+lahul and spiti,,,join_key_unresolved,0,0,0,40.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+leh ladakh,,,join_key_unresolved,0,0,0,5.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+leparada,,,join_key_unresolved,0,0,0,15.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+lower lower subansiri,,,join_key_unresolved,0,0,0,21.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+malda,,,join_key_unresolved,0,0,0,39.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+malikkeri,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+manali,,,join_key_unresolved,0,0,0,6.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+mancachar,,,join_key_unresolved,0,0,0,19.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+mangalbari,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+mangalore,,,join_key_unresolved,0,0,0,6.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+mangan,,,join_key_unresolved,0,0,0,19.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+many districts of south bengal,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+many districts of tamil nadu.,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+many districts of uttar kashi pradesh,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+many parts,,,join_key_unresolved,0,0,0,9.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+many parts of tamil nadu.,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+many parts of the state,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+marathwada,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+marigaon,,,join_key_unresolved,0,0,0,135.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+most of the districts,,,join_key_unresolved,0,0,0,5.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+most parts,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+most upper lower subansiri,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+mudigere,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+mumbai (colaba),,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+nabarangpur,,,join_key_unresolved,0,0,0,3.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+nagarkoil,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+namchi,,,join_key_unresolved,0,0,0,18.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+narmadapuram,,,join_key_unresolved,0,0,0,27.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+neighborhood,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+neighbourhood,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+new new delhi,,,join_key_unresolved,0,0,0,26.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+north 24 parganas,,,join_key_unresolved,0,0,0,48.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+north and middle andaman,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+north bengal,,,join_key_unresolved,0,0,0,4.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+north westduar,,,join_key_unresolved,0,0,0,6.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+north westdusar,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+northern parts,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+ntr,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+pak,,,join_key_unresolved,0,0,0,3.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+palampur,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+palnadu,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of andhra pradesh,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of himachal pradesh,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of jammu,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of jharkhand,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of karnataka,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of lahul & spitti,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of maharashtra,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of meghalaya,,,join_key_unresolved,0,0,0,4.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of nagaland,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of orissa,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of rajasthan,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of sikkim,,,join_key_unresolved,0,0,0,4.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of telangana,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of uttar kashiakhand,,,join_key_unresolved,0,0,0,3.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of uttar pradesh,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+parts of west bengal,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+paschim medinipur,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+paschim purba bardhaman,,,join_key_unresolved,0,0,0,6.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+paschim purba medinipur,,,join_key_unresolved,0,0,0,25.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+pashchimi west singhbhum,,,join_key_unresolved,0,0,0,4.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+pondicherry,,,join_key_unresolved,0,0,0,6.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+poonch,,,join_key_unresolved,0,0,0,41.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+pratapgarh,,,join_key_unresolved,2,2,4,57.0,,not_one_to_one_or_unmatched,repeated in District_FloodImpact.csv; repeated in District_FloodedArea.csv; repeated in DFSI.csv by district name despite state identifiers
+purba purba bardhaman,,,join_key_unresolved,0,0,0,20.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+purba purba medinipur,,,join_key_unresolved,0,0,0,35.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+purbi champaran,,,join_key_unresolved,0,0,0,68.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+purbi west singhbhum,,,join_key_unresolved,0,0,0,5.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+purulia,,,join_key_unresolved,0,0,0,20.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+raigad,,,join_key_unresolved,0,0,0,4.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+raigarh,,,join_key_unresolved,2,2,4,52.0,,not_one_to_one_or_unmatched,repeated in District_FloodImpact.csv; repeated in District_FloodedArea.csv; repeated in DFSI.csv by district name despite state identifiers
+ramagiri,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+ri bhoi,,,join_key_unresolved,0,0,0,11.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+rudra prayag,,,join_key_unresolved,0,0,0,19.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+rugi,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+rural,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+s.a.s nagar,,,join_key_unresolved,0,0,0,3.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+s.a.s nagar*,,,join_key_unresolved,0,0,0,23.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+sahebganj,,,join_key_unresolved,0,0,0,6.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+santal pargan,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+saraikela kharsawan,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+sepahijala,,,join_key_unresolved,0,0,0,19.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+several other district (andhra pradesh),,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+shopian,,,join_key_unresolved,0,0,0,17.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+siaha,,,join_key_unresolved,0,0,0,6.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+silchar,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+siliguri,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+sivasagar amd sonitpur,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+some districts of punjab,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+some parts,,,join_key_unresolved,0,0,0,6.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+south 24 parganas,,,join_key_unresolved,0,0,0,38.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+south 24 parganas*,,,join_key_unresolved,0,0,0,8.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+south andamans,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+south assam,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+south gujarat,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+south kashmir,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+south salmara mancachar - mankachar,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+south salmara mancachar- mankachar,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+southern parts,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+sri potti sriramulu nellore,,,join_key_unresolved,0,0,0,31.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+sri sri muktsar sahib sahib,,,join_key_unresolved,0,0,0,24.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+sshrawasti,,,join_key_unresolved,0,0,0,30.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+sshrawasti & parts of east u.p.,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+suburbans,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+tripura,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+udaiur,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+udam singh nagar,,,join_key_unresolved,0,0,0,9.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+unakoti,,,join_key_unresolved,0,0,0,21.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+upper lower subansiri,,,join_key_unresolved,0,0,0,24.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+urban,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+uttar kashi,,,join_key_unresolved,0,0,0,2.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+uttar kashi bastar kanker,,,join_key_unresolved,0,0,0,5.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+uttar kashi dinajpur,,,join_key_unresolved,0,0,0,10.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+uttar kashi kashi,,,join_key_unresolved,0,0,0,25.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+uttar kashia,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+uttar kashia kannada,,,join_key_unresolved,0,0,0,71.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+warangal,,,join_key_unresolved,0,0,0,41.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+west east jaintia hills,,,join_key_unresolved,0,0,0,5.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+west madhya pradesh,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+west singhbhum,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+yadadri yadadri bhuvanagiri,,,join_key_unresolved,0,0,0,1.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv
+yadadri yadadri bhuvanagiri yadadri bhuvanagiri,,,join_key_unresolved,0,0,0,3.0,,not_one_to_one_or_unmatched,missing from District_FloodImpact.csv; missing from District_FloodedArea.csv; missing from DFSI.csv

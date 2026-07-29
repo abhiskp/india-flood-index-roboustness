@@ -1,0 +1,7 @@
+district_review_key,impact_name_count,area_name_count,published_name_count,flood_events,lgd_code_count,lgd_codes_seen,audit_note
+aurangabad,2,2,4,89,1,189,multiple District_FloodImpact rows; multiple District_FloodedArea rows; multiple DFSI.csv rows
+balrampur,2,2,4,37,1,649,multiple District_FloodImpact rows; multiple District_FloodedArea rows; multiple DFSI.csv rows
+bilaspur,2,2,4,62,1,375,multiple District_FloodImpact rows; multiple District_FloodedArea rows; multiple DFSI.csv rows
+hamirpur,2,2,4,116,1,17,multiple District_FloodImpact rows; multiple District_FloodedArea rows; multiple DFSI.csv rows
+pratapgarh,2,2,4,57,1,629,multiple District_FloodImpact rows; multiple District_FloodedArea rows; multiple DFSI.csv rows
+raigarh,2,2,4,52,1,386,multiple District_FloodImpact rows; multiple District_FloodedArea rows; multiple DFSI.csv rows
