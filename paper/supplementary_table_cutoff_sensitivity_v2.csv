@@ -1,0 +1,6 @@
+cutoff,cutoff_count,baseline_priority_districts,robust_priority_districts,cutoff_sensitive_districts,usually_outside_districts,baseline_members_below_0_80_probability,baseline_priority_robust_proportion,mean_simulated_overlap_with_baseline,median_simulated_overlap_with_baseline,minimum_simulated_overlap_with_baseline,maximum_simulated_overlap_with_baseline,median_number_entering_baseline_priority_group,median_number_leaving_baseline_priority_group,outside_baseline_probability_above_0_20,probability_between_0_40_and_0_60,mean_overlap_share_with_baseline,median_entering_leaving_share
+top_5pct,36,36,21,30,658,15,0.5833333333333334,28.3196,29.0,14,36,7.0,7.0,15,10,0.7866555555555556,0.19444444444444445
+top_10pct,71,71,43,56,610,28,0.6056338028169014,58.9362,60.0,37,70,11.0,11.0,28,19,0.8300873239436619,0.15492957746478872
+top_15pct,106,106,79,56,574,27,0.7452830188679245,93.3304,94.0,62,105,12.0,12.0,29,14,0.8804754716981131,0.11320754716981132
+top_20pct,142,142,116,56,537,26,0.8169014084507042,128.5741,130.0,89,142,12.0,12.0,30,18,0.9054514084507042,0.08450704225352113
+top_25pct,177,177,148,56,505,29,0.8361581920903954,162.8482,164.0,117,176,13.0,13.0,27,16,0.9200463276836157,0.07344632768361582

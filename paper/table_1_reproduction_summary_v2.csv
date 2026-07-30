@@ -1,0 +1,26 @@
+category,metric,value,unit,source_claim_id
+sample,one_to_one_baseline_rows,720.0,records,R01
+sample,complete_comparison_records,709.0,records,R02
+sample,incomplete_records_preserved,11.0,records,R03
+range,published_dfsi_min_complete,4.244484579746598,DFSI score,R11
+range,published_dfsi_max_complete,19.30056410404207,DFSI score,R12
+range,reconstructed_dfsi_min_complete,5.672769401374751,DFSI score,R09
+range,reconstructed_dfsi_max_complete,17.94868502574854,DFSI score,R10
+correlation,pearson_correlation,0.9587155873101515,Pearson r,R05
+correlation,spearman_correlation,0.9588466131829585,Spearman rho,R04
+difference,median_absolute_numerical_difference,1.2067694216134761,DFSI score units,R06
+difference,median_absolute_rank_difference,18.0,rank positions,R07
+difference,maximum_absolute_rank_difference,345.0,rank positions,R08
+agreement,mean_signed_error,-1.1152657869726392,DFSI score units,A01
+agreement,median_signed_error,-1.185715365364727,DFSI score units,A02
+agreement,rmse,1.3768719198309802,DFSI score units,A03
+agreement,ols_slope_reconstructed_on_published,0.8854957292766484,slope,A04
+agreement,ols_intercept_reconstructed_on_published,0.4418662110232159,DFSI score units,A05
+priority_overlap,top_25_districts_overlap_share,0.76,proportion,R13
+priority_overlap,top_25_districts_jaccard,0.6129032258064516,Jaccard similarity,R13
+priority_overlap,top_50_districts_overlap_share,0.82,proportion,R14
+priority_overlap,top_50_districts_jaccard,0.6949152542372882,Jaccard similarity,R14
+priority_overlap,top_10_percent_overlap_share,0.8309859154929577,proportion,R15
+priority_overlap,top_10_percent_jaccard,0.7108433734939759,Jaccard similarity,R15
+priority_overlap,top_100_districts_overlap_share,0.89,proportion,R16
+priority_overlap,top_100_districts_jaccard,0.8018018018018018,Jaccard similarity,R16

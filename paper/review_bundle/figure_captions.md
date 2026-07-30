@@ -1,0 +1,15 @@
+# Figure Captions
+
+**Figure 1. DFSI reproduction.** Published DFSI scores and ranks are compared with the verified reconstructed DFSI for 709 complete one-to-one district records. Ranks are ordered in descending DFSI, so rank 1 represents the highest DFSI. Panel A compares scores, panel B compares ranks, and panel C reports overlap between published and reconstructed priority groups for the top 25, top 50, top 10% (71 districts) and top 100 districts. The reconstructed index strongly reproduces the published ranking but does not exactly reproduce published numerical values.
+
+**Figure 2. Component influence.** Component term contributions and leave-one-component-out rank changes are shown for the 709 complete district records. Panel A reports median numerical contribution to reconstructed DFSI. Panels B and C report decision sensitivity after removing one component at a time. Component contributions and correlations are descriptive associations and should not be interpreted as causal effects.
+
+**Figure 3. Monte Carlo priority uncertainty.** The primary moderate uncertainty scenario samples 10,000 weight vectors centred on the published DFSI weighting structure and evaluates top-10% priority membership among 709 complete district records. Ranks are descending, with rank 1 highest. Robust high-priority districts have top-10% probability >= 0.80, weight-sensitive districts have probability > 0.20 and < 0.80, and usually-outside districts have probability <= 0.20. The 0.20 and 0.80 values are descriptive reporting thresholds, not universal policy standards. High national rank correlation can coexist with unstable district membership.
+
+**Figure 4. Priority-cutoff sensitivity.** The moderate Monte Carlo scenario is evaluated under fixed priority cutoffs of top 5% (36 districts), top 10% (71), top 15% (106), top 20% (142) and top 25% (177). The figure reports the share of baseline priority districts that are robust, the number of weight-sensitive districts, and the number of baseline priority districts below 0.80 membership probability. Results test whether the paper's priority-instability conclusion depends on the top-10% threshold.
+
+**Supplementary Figure 1. Historical reporting completeness.** Annual recorded flood-event counts and reporting completeness are shown for the India Flood Inventory audit period. Recorded event counts are reporting volume and should not be interpreted as physical flood-frequency trends.
+
+**Supplementary Figure 2. Fatality-exponent sensitivity.** Alternative fatality exponents are compared with the correctly reconstructed exponent-2 DFSI baseline for 709 complete district records. The figure reports rank correlation and maximum district rank movement.
+
+**Supplementary Figure 3. Monte Carlo scenario comparison.** Narrow, moderate and wide uncertainty scenarios are compared using saved Monte Carlo outputs. The moderate scenario is the primary analysis because it remains centred on the published weighting structure while allowing meaningful methodological variation.
