@@ -1,0 +1,10 @@
+feature,original DFSI paper,closest validation paper,closest temporal-prediction paper,our study
+India district scale,Yes - national India district DFSI,No - Tellman et al. 2020 is US county/event; Bakkensen et al. 2017 southeastern US disaster indices,None verified in close screen,Yes - India district baseline with 720 verified records and matched GFD subset
+Composite ranking,Yes - DFSI composite severity index,Yes/partly - SoVI and disaster indices validated,None verified in close screen,Tests DFSI and alternatives; does not propose a universal new composite ranking
+Satellite comparison,No independent GFD comparison verified,No for Tellman 2020/Bakkensen 2017,None verified,Yes - GFD satellite-observed inundation compared with DFSI and hazard measures
+Future non-overlapping outcome,No,No/unclear; Tellman 2020 appears same-period 2008-2012 events; Bakkensen timing unclear,None verified in close screen,Yes - 1986-2004 predictors evaluated against 2005-2023 recorded fatalities
+Simple baseline comparison,No verified simple baseline,Tellman 2020 compares SoVI/socioeconomic variables/flood-intensity-only model; not district event-count ranking,None verified,"Yes - past fatalities, event count, duration, hazard score, persistence and population sensitivity"
+Geographic holdout,No,No verified spatial holdout,None verified,State-block uncertainty and state-block cross-validation in hazard-index analysis
+Reporting-drift analysis,Data reliability noted but temporal reporting drift not verified,"Data limitations discussed, explicit temporal reporting drift not verified",None verified,Yes - annual/period completeness and reporting drift audits
+Test of added complexity,No,Tellman 2020 compares SoVI with variables and intensity-only model; Balica 2010 reduces FVI complexity,None verified,Yes - complex DFSI/model compared with simple objective-specific historical indicators
+Output intended for prioritisation,Yes - mitigation beginning with high DFSI districts,Yes - decision support/vulnerability targeting,None verified,"Yes, but restricted: rankings must be objective-specific and leakage-free"
