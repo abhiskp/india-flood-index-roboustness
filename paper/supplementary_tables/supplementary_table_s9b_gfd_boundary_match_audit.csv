@@ -1,0 +1,12 @@
+audit_item,value,notes
+dfsi_source_file,data/processed/dfsi_verified_baseline.csv,Verified district-level DFSI baseline.
+gfd_boundary_source_file,data/processed/gfd_external_validation/gfd_india_adm2_metrics.csv,Exists
+dfsi_records_total,720,One-to-one baseline records.
+dfsi_complete_records,709,Complete reconstruction records.
+boundary_records_total,735,Rows in GFD ADM2 metrics or boundary export.
+accepted_unique_matches,668,Exact/manual only; fuzzy suggestions excluded.
+ambiguous_matches,8,Preserved for review.
+unmatched_dfsi_records,52,Includes all records if GFD export is missing.
+unmatched_boundary_records,67,Boundary records without accepted DFSI match.
+matching_scope_note,Boundary state was not available in the GFD export; matching is district-name based and duplicate/ambiguous names are not auto-merged.,State used only if available in boundary export.
+boundary_vintage_limitation,geoBoundaries ADM2 boundary vintage may not match the administrative vintage used by the DFSI source tables. District splits or renamings are not merged automatically and must be reviewed manually.,Limitation for interpretation.

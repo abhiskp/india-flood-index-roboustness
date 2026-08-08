@@ -1,0 +1,30 @@
+# Manuscript Main V2 Claims Audit
+
+This audit records the main values newly used or revised in `paper/manuscript_main_v2.md`. Values are copied from frozen outputs or the focused fatality-missingness audit requested after V1.
+
+| Manuscript statement | Exact source table or report | Value used | Caveat |
+|---|---|---|---|
+| Original DFSI paper DOI is `10.1007/s11069-025-07493-9`. | `literature/literature_matrix.csv` | DOI `10.1007/s11069-025-07493-9` | Dataset DOI/access date for local raw files remains undocumented in project metadata. |
+| India Flood Inventory paper DOI is `10.1007/s11069-021-04698-6`. | `literature/literature_matrix.csv` | DOI `10.1007/s11069-021-04698-6` | Used for source identification, not new analysis. |
+| GFD source is `GLOBAL_FLOOD_DB/MODIS_EVENTS/V1`; boundaries are `WM/geoLab/geoBoundaries/600/ADM2`. | GEE export workflow and `outputs/reports/gfd_external_validation_go_no_go.md` | Dataset IDs and boundary version 600 | Earth Engine export/source metadata should be cited in final references. |
+| GFD event inventory contained 192 India-related events. | `data/processed/gfd_external_validation/gfd_india_event_inventory.csv`; `outputs/reports/gfd_external_validation_go_no_go.md` | `192` | India-related collection built from metadata/spatial intersection. |
+| 148 GFD events had detected non-permanent floodwater in Indian district-event rows. | `data/processed/gfd_external_validation/gfd_india_district_event_metrics_part_*.csv` | `148` unique `gfd_event_id` values | Focused count from exported district-event metrics; no new simulation. |
+| Permanent water was removed from event floodwater. | GEE export script/workflow and GFD reports | `flooded == 1` excluding `jrc_perm_water == 1` | Needed wording: satellite-derived inundation, not complete flood inventory. |
+| Cumulative inundation area-days per km2 definition. | GFD export metric definitions; `outputs/tables/gfd_validation_analysis_sample.csv` | Sum of flooded pixel area times duration, divided by district area | Repeated mapped inundation over 2000-2018. |
+| GFD validation used 657 unique matches and 639 non-zero observed floodwater districts. | `outputs/reports/gfd_external_validation_go_no_go.md` | `657`; `639`; `92.7%` | Boundary mismatch and unresolved matches remain. |
+| DFSI equation used in project reconstruction. | `outputs/reports/quantitative_analysis_closure.md`; corrected DFSI notebooks/reports | Six additive log terms with population as `log10(population)` | Do not claim exact numerical reproduction. |
+| Recorded events across periods were 762, 1,968 and 4,126. | `outputs/tables/predictive_ranking_period_completeness.csv` | Period counts | Recorded volume, not physical trend. |
+| Fatality reporting completeness was 49.9%, 61.8% and 52.6%. | `outputs/tables/predictive_ranking_period_completeness.csv` | `49.8688`; `61.8394`; `52.6418` | Reviewers may see reporting intensity as a confounder. |
+| Missing fatality values were not confirmed zeros, but missing/non-assignable rows contributed zero to primary district counts. | `outputs/reports/predictive_ranking_fatality_missingness_audit.md`; notebooks `13a`, `13b` code audit | Qualitative handling statement | Strong caveat: zero means zero primary assignable recorded deaths. |
+| Raw fatalities unassigned in 1986-2004 were 89.0%. | `outputs/tables/predictive_ranking_fatality_missingness_focused_audit.csv` | Raw `29,011`; assignable `3,202`; unassigned `89.0%` | Mostly multi-district/non-assignable deaths. |
+| Raw fatalities unassigned in 2005-2023 were 85.2%. | `outputs/tables/predictive_ranking_fatality_missingness_focused_audit.csv` | Raw `24,745`; assignable `3,654`; unassigned `85.2%` | Major limitation. |
+| Among 388 zero-fatality districts, 236 had matched events and 152 had no matched events. | `outputs/tables/predictive_ranking_fatality_missingness_focused_audit.csv` | `388`; `236`; `152` | Zero means no assignable recorded deaths, not confirmed absence. |
+| Equal-weight hazard primary satellite Spearman was 0.4529; DFSI was 0.3575. | `outputs/tables/hazard_index_benchmark_results.csv` | `0.4529202138866138`; `0.3574787514869803` | Main satellite result. |
+| Hazard equal weight exceeded published DFSI by 0.0954, CI 0.0436-0.1505. | `outputs/tables/hazard_index_paired_bootstrap_comparisons.csv` | Difference and CI | Paired district bootstrap. |
+| Secondary cumulative flooded-area-event fraction showed same direction. | `outputs/tables/hazard_index_benchmark_results.csv` | Hazard `0.4899`; published DFSI `0.3611`; reconstructed `0.3793`; flooded area `0.4440` | Recommended supplement. |
+| State-blocked validation showed positive but geographically variable associations. | `outputs/tables/hazard_index_cv_benchmark_summary.csv`; `outputs/tables/hazard_index_state_demeaned_results.csv` | Fold range `0.0992` to `0.6462`; state-demeaned learned hazard `0.0876` | Avoid overstrong wording. |
+| Primary temporal model final-test Spearman was 0.4614 and top-10 recall was 0.4306. | `outputs/tables/predictive_ranking_final_test_results.csv` | `0.4614180833459508`; `0.4305555555555556` | Recorded future fatalities only. |
+| Past flood-event count Spearman was 0.4930 and recall was 0.3889. | `outputs/tables/predictive_ranking_final_test_results.csv` | `0.49295267578862717`; `0.3888888888888889` | Simple baseline difficult to beat. |
+| State-block bootstrap did not show a robust primary model advantage over event count. | `outputs/tables/predictive_ranking_state_block_bootstrap.csv` | Difference `-0.0315`; CI `-0.0951` to `0.0301` | Central caution. |
+| Better-reporting subset did not overturn result. | `outputs/tables/predictive_ranking_fatality_reporting_subset_metrics.csv` | n `452`; primary Spearman `0.2461`; event-count Spearman `0.3197` | Diagnostic subset, not new model branch. |
+| Top two and top ten final-period events accounted for 11.4% and 22.5% of assignable fatalities. | `outputs/tables/predictive_ranking_influence_diagnostics.csv` | `0.1141`; `0.2250` | Checks disaster dominance only. |

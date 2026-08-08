@@ -1,0 +1,61 @@
+method,method_label,risk_quintile,districts,mean_predicted_fatalities,mean_actual_fatalities,median_actual_fatalities,total_actual_fatalities
+primary_poisson_predicted_fatalities,Regularized Poisson historical-impact model,Q1 lowest,144,1.4281033814011832,0.6041666666666666,0.0,87.0
+primary_poisson_predicted_fatalities,Regularized Poisson historical-impact model,Q2,144,2.320282511631324,1.5,0.0,216.0
+primary_poisson_predicted_fatalities,Regularized Poisson historical-impact model,Q3,144,3.294026434052725,4.319444444444445,1.0,622.0
+primary_poisson_predicted_fatalities,Regularized Poisson historical-impact model,Q4,144,5.298086475266747,3.9097222222222223,1.0,563.0
+primary_poisson_predicted_fatalities,Regularized Poisson historical-impact model,Q5 highest,144,22.370658621844836,15.041666666666666,4.0,2166.0
+secondary_log_linear_risk_score,Restrained log-linear risk score,Q1 lowest,144,1.536403351999686,0.6041666666666666,0.0,87.0
+secondary_log_linear_risk_score,Restrained log-linear risk score,Q2,144,2.8649799885355747,1.7777777777777777,0.0,256.0
+secondary_log_linear_risk_score,Restrained log-linear risk score,Q3,144,4.137952288201569,2.9166666666666665,0.5,420.0
+secondary_log_linear_risk_score,Restrained log-linear risk score,Q4,144,5.547129995686346,4.534722222222222,1.0,653.0
+secondary_log_linear_risk_score,Restrained log-linear risk score,Q5 highest,144,12.023520688339987,15.541666666666666,4.0,2238.0
+past_fatalities_score,Past fatalities,Q1 lowest,144,3.604226862694346,2.6597222222222223,0.0,383.0
+past_fatalities_score,Past fatalities,Q2,144,3.604226862694346,2.1666666666666665,0.0,312.0
+past_fatalities_score,Past fatalities,Q3,144,3.604226862694346,2.125,0.0,306.0
+past_fatalities_score,Past fatalities,Q4,144,3.7390863558355014,4.076388888888889,1.0,587.0
+past_fatalities_score,Past fatalities,Q5 highest,144,9.825602251590716,14.347222222222221,4.0,2066.0
+past_fatal_event_count_score,Past fatal-event count,Q1 lowest,144,3.379981507378283,2.6597222222222223,0.0,383.0
+past_fatal_event_count_score,Past fatal-event count,Q2,144,3.379981507378283,2.1666666666666665,0.0,312.0
+past_fatal_event_count_score,Past fatal-event count,Q3,144,3.379981507378283,2.125,0.0,306.0
+past_fatal_event_count_score,Past fatal-event count,Q4,144,3.958447719886074,3.4791666666666665,0.0,501.0
+past_fatal_event_count_score,Past fatal-event count,Q5 highest,144,19.80284156024997,14.944444444444445,4.0,2152.0
+past_injury_count_score,Past injury count,Q1 lowest,144,3.5063381693038136,3.0208333333333335,0.0,435.0
+past_injury_count_score,Past injury count,Q2,144,3.5063381693038136,3.7222222222222223,0.0,536.0
+past_injury_count_score,Past injury count,Q3,144,3.5063381693038136,1.8472222222222223,0.0,266.0
+past_injury_count_score,Past injury count,Q4,144,3.5063381693038136,3.8958333333333335,1.0,561.0
+past_injury_count_score,Past injury count,Q5 highest,144,14.5443292982929,12.88888888888889,3.0,1856.0
+past_flood_event_count_score,Past flood-event count,Q1 lowest,144,2.0230940794638808,0.6041666666666666,0.0,87.0
+past_flood_event_count_score,Past flood-event count,Q2,144,3.5568292152445196,1.7986111111111112,0.0,259.0
+past_flood_event_count_score,Past flood-event count,Q3,144,5.227822531324289,2.326388888888889,1.0,335.0
+past_flood_event_count_score,Past flood-event count,Q4,144,6.32517802981931,6.097222222222222,1.0,878.0
+past_flood_event_count_score,Past flood-event count,Q5 highest,144,8.85546176779273,14.54861111111111,4.5,2095.0
+past_mean_duration_score,Past mean duration,Q1 lowest,144,2.8944711689086375,0.6041666666666666,0.0,87.0
+past_mean_duration_score,Past mean duration,Q2,144,3.553868509639837,9.3125,1.0,1341.0
+past_mean_duration_score,Past mean duration,Q3,144,4.054906752744885,8.770833333333334,2.0,1263.0
+past_mean_duration_score,Past mean duration,Q4,144,4.464934112955324,3.6805555555555554,1.0,530.0
+past_mean_duration_score,Past mean duration,Q5 highest,144,5.1013632494879175,3.0069444444444446,0.0,433.0
+past_total_duration_score,Past total duration,Q1 lowest,144,2.367173661083697,0.6041666666666666,0.0,87.0
+past_total_duration_score,Past total duration,Q2,144,3.4457923246660815,2.0416666666666665,0.0,294.0
+past_total_duration_score,Past total duration,Q3,144,4.4992701330142735,5.201388888888889,1.0,749.0
+past_total_duration_score,Past total duration,Q4,144,4.968787366539593,5.381944444444445,2.0,775.0
+past_total_duration_score,Past total duration,Q5 highest,144,6.063330397377502,12.145833333333334,2.5,1749.0
+equal_weight_historical_hazard_score,Equal-weight historical hazard score,Q1 lowest,144,2.070925260201711,0.6041666666666666,0.0,87.0
+equal_weight_historical_hazard_score,Equal-weight historical hazard score,Q2,144,3.631080646401095,1.6666666666666667,0.0,240.0
+equal_weight_historical_hazard_score,Equal-weight historical hazard score,Q3,144,4.866730905657856,3.5,0.5,504.0
+equal_weight_historical_hazard_score,Equal-weight historical hazard score,Q4,144,5.471126489102856,6.451388888888889,2.0,929.0
+equal_weight_historical_hazard_score,Equal-weight historical hazard score,Q5 highest,144,6.836533950313084,13.152777777777779,3.0,1894.0
+historical_persistence_score,Historical persistence score,Q1 lowest,144,3.393032548443393,2.6597222222222223,0.0,383.0
+historical_persistence_score,Historical persistence score,Q2,144,3.393032548443393,2.1666666666666665,0.0,312.0
+historical_persistence_score,Historical persistence score,Q3,144,3.393032548443393,2.125,0.0,306.0
+historical_persistence_score,Historical persistence score,Q4,144,3.7442973155210635,4.076388888888889,1.0,587.0
+historical_persistence_score,Historical persistence score,Q5 highest,144,14.820278007809176,14.347222222222221,4.0,2066.0
+population_alone_secondary,Population alone secondary,Q1 lowest,144,3.258685440544182,4.986111111111111,0.0,718.0
+population_alone_secondary,Population alone secondary,Q2,144,4.187723576555023,4.430555555555555,0.0,638.0
+population_alone_secondary,Population alone secondary,Q3,144,4.544121045209802,2.4930555555555554,0.0,359.0
+population_alone_secondary,Population alone secondary,Q4,144,4.863291699316467,6.333333333333333,1.0,912.0
+population_alone_secondary,Population alone secondary,Q5 highest,144,5.382288159578733,7.131944444444445,1.0,1027.0
+hazard_plus_population_secondary,Hazard plus population secondary,Q1 lowest,144,2.222196507431701,0.6458333333333334,0.0,93.0
+hazard_plus_population_secondary,Hazard plus population secondary,Q2,144,3.4455620025578297,2.263888888888889,0.0,326.0
+hazard_plus_population_secondary,Hazard plus population secondary,Q3,144,4.715485376347768,4.673611111111111,0.0,673.0
+hazard_plus_population_secondary,Hazard plus population secondary,Q4,144,5.47960286781507,4.75,2.0,684.0
+hazard_plus_population_secondary,Hazard plus population secondary,Q5 highest,144,6.7797354601149395,13.041666666666666,4.0,1878.0

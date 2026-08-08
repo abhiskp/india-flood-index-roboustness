@@ -1,0 +1,4 @@
+period,start_year,end_year,years,recorded_events,events_per_year,matched_event_district_rows,matched_districts,states_represented,total_reported_fatalities_raw_event_level,total_primary_assignable_district_fatalities,fatality_reporting_percent,injury_reporting_percent,duration_reporting_percent,multi_district_rows_with_reported_fatalities_excluded_from_primary
+1967-1985,1967,1985,19,762,40.10526315789474,4432,550,31,16933.0,3201.0,49.86876640419948,14.173228346456693,100.0,2300
+1986-2004,1986,2004,19,1968,103.57894736842105,6710,549,32,29011.0,3202.0,61.83943089430895,17.784552845528456,100.0,5714
+2005-2023,2005,2023,19,4126,217.1578947368421,9373,568,33,24745.0,3654.0,52.641783809985455,14.493456131846823,100.0,5440

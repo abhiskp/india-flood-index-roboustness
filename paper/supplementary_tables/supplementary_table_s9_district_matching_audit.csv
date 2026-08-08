@@ -1,0 +1,6 @@
+audit_item,value,notes
+event_district_rows,24628,Rows after exploding listed districts/LGD codes.
+matched_rows,20533,LGD preferred; exact names only when unique.
+unmatched_rows,3000,Preserved; not used in panel.
+ambiguous_rows,1095,Preserved; not used in panel.
+single_district_primary_impact_rows,3636,Only these rows assign fatalities/injuries to districts in primary target.

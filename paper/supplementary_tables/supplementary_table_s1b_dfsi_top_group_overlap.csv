@@ -1,0 +1,5 @@
+group,n_requested,published_group_size,reconstructed_group_size,overlap_count,published_overlap_share,reconstructed_overlap_share,jaccard_overlap,published_only_count,reconstructed_only_count
+top_10_percent,71,71,71,59,0.8309859154929577,0.8309859154929577,0.7108433734939759,12,12
+top_25_districts,25,25,25,19,0.76,0.76,0.6129032258064516,6,6
+top_50_districts,50,50,50,41,0.82,0.82,0.6949152542372882,9,9
+top_100_districts,100,100,100,89,0.89,0.89,0.8018018018018018,11,11

@@ -1,0 +1,4 @@
+period,event_records,events_with_reported_fatality_field,events_missing_fatality_field,fatality_field_reporting_percent,raw_reported_fatalities,assignable_fatalities_audit,assignable_fatalities_existing_long_table,assignment_difference_audit_minus_existing,unassigned_fatalities,unassigned_percent_of_raw_reported_fatalities,reported_zero_fatality_event_records,positive_fatality_event_records,zero_or_missing_event_records
+1967-1985,762,380,382,49.86876640419948,16933.0,3201.0,3201.0,0.0,13732.0,81.09608456859387,0,380,382
+1986-2004,1968,1217,751,61.83943089430895,29011.0,3202.0,3202.0,0.0,25809.0,88.96280721105788,0,1217,751
+2005-2023,4126,2172,1954,52.641783809985455,24745.0,3654.0,3654.0,0.0,21091.0,85.23338048090524,0,2172,1954

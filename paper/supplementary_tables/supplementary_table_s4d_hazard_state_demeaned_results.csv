@@ -1,0 +1,8 @@
+method,method_label,districts,states,state_demeaned_spearman,state_demeaned_kendall
+learned_hazard_oof_score,Learned physical-hazard OOF score,657,35,0.08764420701275377,0.057411094338633686
+hazard_equal_weight_index,Equal-weight physical-hazard index,657,35,0.11933466338934592,0.07982606367462922
+flooded_area_component,Flooded area alone,657,35,0.15478715225007306,0.10308125343886236
+published_dfsi_benchmark,Published DFSI,657,35,0.05752659155518576,0.03821682660081225
+reconstructed_dfsi_benchmark,Reconstructed DFSI,657,35,0.07239938594866273,0.04949392297482242
+equal_weight_six_component_log_index,Equal-weight six-component index,657,35,0.07806710141219719,0.052445459309748546
+population_component,Population alone,657,35,0.09199628857697836,0.059666513613435716
