@@ -1,0 +1,49 @@
+row_type,variable,state_or_bin,included_n,excluded_n,included_median,excluded_median,included_iqr,excluded_iqr,included_mean,excluded_mean,included_sd,excluded_sd,standardized_mean_difference,mann_whitney_u,mann_whitney_p_descriptive,complete_districts,match_percent
+continuous,published_dfsi,,657,52,14.17404358957349,13.444050963321892,4.206319733885072,4.57887028733332,13.667047686497439,12.73786481391811,2.814717159269599,2.771139639264142,0.332681137905831,20601.0,0.013332241920824734,,
+continuous,reconstructed_dfsi,,657,52,13.013200018087474,12.101110609064236,3.906902132611263,4.402208740908696,12.561712569017846,11.497128837389095,2.5922197959273965,2.584369190793862,0.41130656117979586,21180.0,0.003951424415634401,,
+continuous,published_rank,,657,52,345.0,406.5,356.0,322.0,349.7595129375951,422.71153846153845,204.86892003152738,196.29253244997872,-0.3636209768753777,13563.0,0.013332241920824734,,
+continuous,flood_event_count,,657,52,24.0,10.5,28.0,26.0,31.140030441400306,14.653846153846153,32.827642956390314,17.149726591754916,0.6294988349998442,23526.0,5.740583669378792e-06,,
+continuous,mean_flood_duration,,657,52,7.0,9.0,12.0,10.0,10.648401826484019,12.596153846153847,8.276084117872063,8.469691327997353,-0.23261053051072722,13479.5,0.011077209648074715,,
+continuous,fatalities,,657,52,52.0,38.5,110.0,72.0,91.60121765601218,63.13461538461539,157.36507731860542,78.67855398208535,0.22881877912971885,19653.0,0.0705791361506285,,
+continuous,injured,,657,52,3.0,1.0,10.0,3.25,16.333333333333332,3.3846153846153846,56.17427151719731,6.265854701737672,0.3239807979178124,21625.0,0.0011772910927747324,,
+continuous,corrected_percent_flooded_area,,657,52,1.253627781,0.8738680175,2.901001696,2.2976463669999996,2.737162353371385,2.935728164403846,3.7933079089397648,4.552374068153077,-0.047389669730467834,18627.0,0.2773294398854407,,
+continuous,population,,657,52,1550443.0,1241601.5,1851093.0,2492462.5,1923802.1765601218,2152674.6346153845,1650524.9142609523,2480501.4510782245,-0.10863568016925257,17787.0,0.6202356027715215,,
+state_coverage,GFD match coverage,ANDAMAN & NICOBAR,2,0,,,,,,,,,,,,2.0,100.0
+state_coverage,GFD match coverage,ANDHRA PRADESH,11,2,,,,,,,,,,,,13.0,84.61538461538461
+state_coverage,GFD match coverage,ARUNACHAL PRADESH,23,2,,,,,,,,,,,,25.0,92.0
+state_coverage,GFD match coverage,ASSAM,30,3,,,,,,,,,,,,33.0,90.9090909090909
+state_coverage,GFD match coverage,BIHAR,37,0,,,,,,,,,,,,37.0,100.0
+state_coverage,GFD match coverage,CHANDIGARH,1,0,,,,,,,,,,,,1.0,100.0
+state_coverage,GFD match coverage,CHHATTISGARH,18,2,,,,,,,,,,,,20.0,90.0
+state_coverage,GFD match coverage,DADRA & NAGAR HAVE,1,0,,,,,,,,,,,,1.0,100.0
+state_coverage,GFD match coverage,DELHI,10,0,,,,,,,,,,,,10.0,100.0
+state_coverage,GFD match coverage,GOA,2,0,,,,,,,,,,,,2.0,100.0
+state_coverage,GFD match coverage,GUJARAT,30,3,,,,,,,,,,,,33.0,90.9090909090909
+state_coverage,GFD match coverage,HARYANA,21,1,,,,,,,,,,,,22.0,95.45454545454545
+state_coverage,GFD match coverage,HIMACHAL PRADESH,10,0,,,,,,,,,,,,10.0,100.0
+state_coverage,GFD match coverage,JAMMU & KASHMIR,20,2,,,,,,,,,,,,22.0,90.9090909090909
+state_coverage,GFD match coverage,JHARKHAND,24,0,,,,,,,,,,,,24.0,100.0
+state_coverage,GFD match coverage,KARNATAKA,25,5,,,,,,,,,,,,30.0,83.33333333333334
+state_coverage,GFD match coverage,KERALA,14,0,,,,,,,,,,,,14.0,100.0
+state_coverage,GFD match coverage,LADAKH,1,1,,,,,,,,,,,,2.0,50.0
+state_coverage,GFD match coverage,MADHYA PRADESH,49,3,,,,,,,,,,,,52.0,94.23076923076923
+state_coverage,GFD match coverage,MAHARASHTRA,34,0,,,,,,,,,,,,34.0,100.0
+state_coverage,GFD match coverage,MANIPUR,16,0,,,,,,,,,,,,16.0,100.0
+state_coverage,GFD match coverage,MEGHALAYA,11,0,,,,,,,,,,,,11.0,100.0
+state_coverage,GFD match coverage,MIZORAM,8,0,,,,,,,,,,,,8.0,100.0
+state_coverage,GFD match coverage,NAGALAND,11,0,,,,,,,,,,,,11.0,100.0
+state_coverage,GFD match coverage,ODISHA,30,0,,,,,,,,,,,,30.0,100.0
+state_coverage,GFD match coverage,PUDUCHERRY,4,0,,,,,,,,,,,,4.0,100.0
+state_coverage,GFD match coverage,PUNJAB,20,2,,,,,,,,,,,,22.0,90.9090909090909
+state_coverage,GFD match coverage,RAJASTHAN,32,0,,,,,,,,,,,,32.0,100.0
+state_coverage,GFD match coverage,SIKKIM,4,0,,,,,,,,,,,,4.0,100.0
+state_coverage,GFD match coverage,TAMIL NADU,36,1,,,,,,,,,,,,37.0,97.2972972972973
+state_coverage,GFD match coverage,TELANGANA,22,11,,,,,,,,,,,,33.0,66.66666666666666
+state_coverage,GFD match coverage,TRIPURA,7,1,,,,,,,,,,,,8.0,87.5
+state_coverage,GFD match coverage,UTTAR PRADESH,66,6,,,,,,,,,,,,72.0,91.66666666666666
+state_coverage,GFD match coverage,UTTARAKHAND,12,0,,,,,,,,,,,,12.0,100.0
+state_coverage,GFD match coverage,WEST BENGAL,15,7,,,,,,,,,,,,22.0,68.18181818181817
+rank_distribution,published_rank_group,top_10_percent,68,3,,,,,,,,,,,,71.0,95.77464788732394
+rank_distribution,published_rank_group,remainder_top_quartile,104,2,,,,,,,,,,,,106.0,98.11320754716981
+rank_distribution,published_rank_group,middle_50_percent,327,28,,,,,,,,,,,,355.0,92.11267605633803
+rank_distribution,published_rank_group,bottom_quartile,158,19,,,,,,,,,,,,177.0,89.26553672316385

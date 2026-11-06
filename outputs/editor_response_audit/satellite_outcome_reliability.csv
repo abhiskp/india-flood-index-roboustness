@@ -1,0 +1,12 @@
+metric,value
+India-related GFD events,192.0
+events with non-permanent floodwater,148.0
+district-event rows,16402.0
+matched districts with nonzero inundation,639.0
+matched districts with zero inundation,18.0
+share from largest 1 events,0.0992003014704623
+share from largest 5 events,0.36762247740551285
+share from largest 10 events,0.5177465024634805
+share from largest 1% districts,0.38499865735130884
+share from largest 5% districts,0.6936111070488852
+share from largest 10% districts,0.8340637788651548
