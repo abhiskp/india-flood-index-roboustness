@@ -1,0 +1,19 @@
+method_item,reporting_status,assessment,code_source
+District matching rules,partially described,"Names normalised and unique matches stated, but exact normalisation dictionary and boundary-state limitation are not fully reported.",notebooks/11a-14 and submitted manuscript/ESM
+Ambiguous-name handling,fully described,Unmatched and ambiguous records are excluded and retained in audit materials.,notebooks/11a-14 and submitted manuscript/ESM
+Duplicate districts,partially described,"Repeated-name exclusion is stated, but duplicate detection fields and counts are not fully tabulated in the manuscript.",notebooks/11a-14 and submitted manuscript/ESM
+GFD event inclusion,partially described,Dataset and event totals are stated; spatial-intersection fallback after metadata filtering is not fully described.,notebooks/11a-14 and submitted manuscript/ESM
+Permanent-water mask,fully described,Flooded pixels equal to one and JRC permanent-water pixels excluded.,notebooks/11a-14 and submitted manuscript/ESM
+District-area calculation,partially described,"Area normalisation is defined, but the exact geometry-area computation and projection settings are absent.",notebooks/11a-14 and submitted manuscript/ESM
+Historical predictor calculation,partially described,"Main formulas are stated, but zero-history handling and event deduplication are incomplete.",notebooks/11a-14 and submitted manuscript/ESM
+Missing values,partially described,Fatality missingness is clear; handling of missing duration/injury fields in all benchmarks is not exhaustively documented.,notebooks/11a-14 and submitted manuscript/ESM
+Multi-district event explosion,partially described,"Explosion is stated, but LGD/name precedence and mismatched district/code list handling are absent.",notebooks/11a-14 and submitted manuscript/ESM
+Fatality allocation,fully described,Conservative unique assignment and interpretation of zeros are explicit.,notebooks/11a-14 and submitted manuscript/ESM
+Predictor standardisation,partially described,"Development-only standardisation is stated, but population standard deviation and zero-variance handling are absent.",notebooks/11a-14 and submitted manuscript/ESM
+Poisson objective and optimizer,partially described,"L2 and deterministic optimisation are stated; L-BFGS-B, mean-loss scaling, clipping and intercept treatment are absent.",notebooks/11a-14 and submitted manuscript/ESM
+Regularisation implementation,partially described,"Alpha=1 is given, but the exact 0.5*alpha penalty and unpenalised intercept are absent.",notebooks/11a-14 and submitted manuscript/ESM
+Grouped CV fold construction,partially described,"State blocking is clear; state ordering, balancing algorithm and fold membership are in outputs rather than Methods.",notebooks/11a-14 and submitted manuscript/ESM
+Learned-weight grid,partially described,Simplex constraints and near-tie rule are stated; the 0.025 grid increment is absent.,notebooks/11a-14 and submitted manuscript/ESM
+State demeaning,absent,"Results are reported, but the subtract-within-state-means formula is not described in Methods.",notebooks/11a-14 and submitted manuscript/ESM
+Bootstrap mechanics,partially described,"Seed, samples and percentile intervals are reported; duplicate block identifiers and fixed-k tie handling within resamples are absent.",notebooks/11a-14 and submitted manuscript/ESM
+Deterministic tie-breaking,fully described,Fixed group size and state/district tie-breaking are stated.,notebooks/11a-14 and submitted manuscript/ESM

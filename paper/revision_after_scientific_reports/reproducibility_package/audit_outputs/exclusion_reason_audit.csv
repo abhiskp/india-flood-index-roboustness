@@ -1,0 +1,53 @@
+baseline_district_id,State_Name,district_name,published_dfsi,published_rank,exclusion_reason,duplicate_district_name_flag,available_district_lgd_codes,fuzzy_suggestions
+15,ANDHRA PRADESH,Sri Potti Sriramulu Nell*,15.305835568857868,216.0,no_unique_accepted_boundary_match,False,,sri potti sriramulu nellore
+17,ANDHRA PRADESH,Y.S.R.,14.315856218355387,330.0,no_unique_accepted_boundary_match,False,504.0,
+36,ARUNACHAL PRADESH,Upper Dibang Valley,9.841545884430838,626.0,no_unique_accepted_boundary_match,False,,lower dibang valley
+42,ARUNACHAL PRADESH,Lepa Rada,8.713845097816714,669.0,no_unique_accepted_boundary_match,False,,leparada
+74,ASSAM,South Salmara Mancachar,14.088728871221644,351.0,no_unique_accepted_boundary_match,False,707.0,south salmara mankachar
+75,ASSAM,Karbi Anglong,15.362021962889797,212.0,no_unique_accepted_boundary_match,False,292.0,karbi anglong west; karbi anglong east
+76,ASSAM,West Karbi Anglong,13.792560401075464,382.0,no_unique_accepted_boundary_match,False,710.0,
+131,CHHATTISGARH,Bametara,9.95595548857293,615.0,no_unique_accepted_boundary_match,False,,
+137,CHHATTISGARH,Bijapur,15.438205824489648,206.0,no_unique_accepted_boundary_match,False,636.0,vijayapura
+168,GUJARAT,Aravalli,13.53249300044823,402.0,no_unique_accepted_boundary_match,False,,aravali
+169,GUJARAT,Botad,13.385629591123912,410.0,no_unique_accepted_boundary_match,False,676.0,
+170,GUJARAT,Chota Udaipur,11.771129154593742,515.0,no_unique_accepted_boundary_match,False,,chhota udaipur
+192,HARYANA,Charki Dadri,9.619373407745462,640.0,no_unique_accepted_boundary_match,False,701.0,
+237,JAMMU & KASHMIR,Muzaffarabad,10.252418880453558,600.0,no_unique_accepted_boundary_match,False,,
+238,JAMMU & KASHMIR,Mirpur,9.948679414974752,616.0,no_unique_accepted_boundary_match,False,17.0,mirzapur; hamirpur
+267,KARNATAKA,Bagalkote,12.352264924637735,480.0,no_unique_accepted_boundary_match,False,524.0,bagalkot
+277,KARNATAKA,Shivamogga,14.573367465271405,298.0,no_unique_accepted_boundary_match,False,547.0,shimoga
+279,KARNATAKA,Chikkamagaluru,13.92807228565061,367.0,no_unique_accepted_boundary_match,False,532.0,chikmagalur
+287,KARNATAKA,Chamarajanagara,12.976241045034715,445.0,no_unique_accepted_boundary_match,False,531.0,chamarajanagar
+292,KARNATAKA,Vijayapura,12.22306824443187,495.0,no_unique_accepted_boundary_match,False,530.0,vijayapura
+307,LADAKH,Leh,13.64846403214242,394.0,no_unique_accepted_boundary_match,False,,
+352,MADHYA PRADESH,West Nimar,15.15254210391885,224.0,no_unique_accepted_boundary_match,False,,
+353,MADHYA PRADESH,East Nimar,9.24772357188089,657.0,no_unique_accepted_boundary_match,False,405.0,
+356,MADHYA PRADESH,Agar Malwa,9.189893645189708,659.0,no_unique_accepted_boundary_match,False,,
+486,PUNJAB,Sahibzada Ajit Singh Nag*,7.786181657360266,694.0,no_unique_accepted_boundary_match,False,,sahibzada ajit singh nagar
+489,PUNJAB,Sri Muktsar Sahib,11.775474642293869,513.0,no_unique_accepted_boundary_match,False,39.0,
+535,TELANGANA,Hyderabad,10.461370494449875,591.0,no_unique_accepted_boundary_match,False,507.0,hydrabad
+536,TELANGANA,Jagitial,9.679544393631508,637.0,no_unique_accepted_boundary_match,False,681.0,jagtial
+537,TELANGANA,Jangoan,8.296947751656099,681.0,no_unique_accepted_boundary_match,False,689.0,jangaon
+539,TELANGANA,Jogulamba Gadwal,10.137668799539624,606.0,no_unique_accepted_boundary_match,False,695.0,
+543,TELANGANA,Kumuram Bheem Asifabad,8.66093849709519,670.0,no_unique_accepted_boundary_match,False,699.0,
+548,TELANGANA,Medchal Malkajgiri,10.786006196303363,577.0,no_unique_accepted_boundary_match,False,700.0,
+555,TELANGANA,Ranga Reddy,9.536145532868831,645.0,no_unique_accepted_boundary_match,False,518.0,rangareddy; sangareddy
+561,TELANGANA,Warangal Rural,13.50247233551987,403.0,no_unique_accepted_boundary_match,False,,warangal u; warangal r
+562,TELANGANA,Warangal Urban,13.167522816940686,426.0,no_unique_accepted_boundary_match,False,,warangal u; warangal r
+563,TELANGANA,Yadadri Bhuvanagiri,9.86087462664835,624.0,no_unique_accepted_boundary_match,False,697.0,yadadri bhongiri
+564,TELANGANA,Bhadradri Kothagudem,10.291820822002276,599.0,no_unique_accepted_boundary_match,False,690.0,
+569,TRIPURA,Sipahijala,10.887426944928729,570.0,no_unique_accepted_boundary_match,False,,sipahijula
+575,UTTAR PRADESH,Amroha,14.964340640710867,251.0,no_unique_accepted_boundary_match,False,154.0,
+586,UTTAR PRADESH,Kasganj,15.10167008257926,230.0,no_unique_accepted_boundary_match,False,633.0,
+590,UTTAR PRADESH,Hathras,13.565689697624794,399.0,no_unique_accepted_boundary_match,False,163.0,
+627,UTTAR PRADESH,Prayagraj,18.06694088316479,20.0,no_unique_accepted_boundary_match,False,120.0,
+631,UTTAR PRADESH,Bhadohi,13.979632076415218,358.0,no_unique_accepted_boundary_match,False,179.0,
+646,UTTAR PRADESH,Shamli,14.024477523954967,356.0,no_unique_accepted_boundary_match,False,660.0,samli
+660,WEST BENGAL,South Twenty Four Pargan*,15.125565011678852,229.0,no_unique_accepted_boundary_match,False,,
+668,WEST BENGAL,Purba Bardhaman,15.321666311237394,214.0,no_unique_accepted_boundary_match,False,306.0,
+671,WEST BENGAL,North Twenty Four Pargan*,18.77053767455695,5.0,no_unique_accepted_boundary_match,False,,
+672,WEST BENGAL,Hooghly,17.48618759234521,45.0,no_unique_accepted_boundary_match,False,312.0,
+674,WEST BENGAL,Howrah,16.963762846672328,82.0,no_unique_accepted_boundary_match,False,313.0,
+678,WEST BENGAL,Paschim Bardhaman,14.167484802131147,346.0,no_unique_accepted_boundary_match,False,,paschim barddhaman
+681,WEST BENGAL,Cooch Behar,17.04587802487752,75.0,no_unique_accepted_boundary_match,False,308.0,
+719,TAMIL NADU,Chengalpattu,14.338825559345638,326.0,no_unique_accepted_boundary_match,False,730.0,chengalputtu

@@ -1,0 +1,13 @@
+item,version_or_setting,verification_source
+Python,3.9.6,executed notebook metadata/output
+pandas,2.3.3,executed notebook metadata/output
+NumPy,2.0.2,executed notebook metadata/output
+SciPy,1.13.1,executed notebook metadata/output
+Matplotlib,3.9.4,executed notebook metadata/output
+Google Earth Engine,Code Editor environment,gee/11_gfd_external_validation_export.js
+GFD collection,GLOBAL_FLOOD_DB/MODIS_EVENTS/V1,Earth Engine script
+Boundary collection,WM/geoLab/geoBoundaries/600/ADM2,Earth Engine script
+Bootstrap seed,42,notebooks 12–15
+Bootstrap replicates,2000,notebooks 12–15
+Poisson optimizer,L-BFGS-B deterministic,notebook 13c and audit script
+Poisson regularisation,alpha=1.0 with unpenalised intercept,notebook 13c and audit script

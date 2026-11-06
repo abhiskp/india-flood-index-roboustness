@@ -1,0 +1,6 @@
+n,spearman,kendall,top10_n,top10_overlap,top10_recall,jaccard,ndcg_at_top10,allocation_rule,subset,method,score_column,bootstrap_type,observed_spearman_difference,spearman_ci_low,spearman_ci_high,observed_top10_recall_difference,top10_recall_ci_low,top10_recall_ci_high,bootstrap_samples,state_units
+37.0,0.830117424935524,0.675318171886158,4.0,1.0,0.25,0.14285714285714285,0.5260250312070006,state_level_equal_multistate_allocation,state_units,Poisson model,poisson_prediction,,,,,,,,,37
+37.0,0.8114696857846926,0.6367013288760651,4.0,1.0,0.25,0.14285714285714285,0.5209418887093348,state_level_equal_multistate_allocation,state_units,Past event count,past_event_count,,,,,,,,,37
+37.0,0.87841407584623,0.7149887312249006,4.0,2.0,0.5,0.3333333333333333,0.48681386241848557,state_level_equal_multistate_allocation,state_units,Past fatalities,past_fatalities,,,,,,,,,37
+37.0,0.8114657704503897,0.6479404081610435,4.0,1.0,0.25,0.14285714285714285,0.3653760333744461,state_level_equal_multistate_allocation,state_units,Equal historical hazard,equal_historical_hazard,,,,,,,,,37
+,,,,,,,,state_level_equal_multistate_allocation,state_units,Poisson minus past event count,paired_difference,ordinary_district,0.0186477391508314,-0.030665936592680427,0.06963707190184397,0.0,0.0,0.25,2000.0,37

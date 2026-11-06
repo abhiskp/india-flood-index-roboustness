@@ -1,0 +1,12 @@
+step,analysis,input,implementation,principal_output
+1,Source audit,data/raw CSV files,notebooks/01_data_audit.ipynb,outputs/tables/data_inventory.csv
+2,Verified DFSI baseline,DFSI component files,notebooks/03_verified_baseline.ipynb,data/processed/dfsi_verified_baseline.csv
+3,GFD export,GFD and geoBoundaries Earth Engine collections,gee/11_gfd_external_validation_export.js,data/processed/gfd_external_validation/
+4,Boundary matching,verified DFSI baseline and GFD boundaries,notebooks/11a_gfd_boundary_matching.ipynb,outputs/tables/gfd_unique_matches.csv
+5,Satellite validation,accepted boundary matches and GFD district metrics,notebooks/12a_hazard_index_validation.ipynb,outputs/tables/hazard_index_analysis_dataset.csv
+6,Grouped physical validation,hazard-index analysis dataset,notebooks/12b_hazard_index_spatial_cv.ipynb,outputs/tables/hazard_index_cv_predictions.csv
+7,Temporal linkage,event inventory and baseline,notebooks/13a_temporal_prediction_feasibility.ipynb,outputs/tables/predictive_ranking_event_district_long.csv
+8,District-period panel,matched event rows,notebooks/13b_district_period_panel.ipynb,outputs/tables/predictive_ranking_district_period_panel.csv
+9,Fatality benchmark,district-period panel,notebooks/13c_future_impact_ranking.ipynb,outputs/tables/predictive_ranking_district_predictions.csv
+10,Retrospective physical validation,event inventory and GFD district-event metrics,notebooks/14_retrospective_physical_backtest.ipynb,outputs/tables/retrospective_backtest_2010_district_scores.csv
+11,Editor-response reliability audit,all preceding verified outputs,notebooks/15_editor_response_data_reliability_audit.ipynb; src/editor_response_audit.py,outputs/editor_response_audit/
